@@ -68,7 +68,7 @@ public/
 - `capturedAt` (required): ISO 8601 timestamp (displayed in Pacific time)
 - `thumb` (optional, generated): Wall-sized WebP derivative shown in the grid; falls back to `src`
 - `poster` (optional, generated): First-frame WebP for videos, shown on the tile and before playback
-- `annotation` (optional): Short description
+- `annotation` (optional): Short description. Auto-derived from the filename via `scripts/humanize-id.mjs` (strips `video`/`published`/agent ids). Prefer a handwritten phrase when you have one; never leave `"Video … published"`.
 - `tags` (optional): Array of tag strings
 - `width`, `height` (recommended): Dimensions in pixels — drives masonry placement and reserves tile space before load
 - `sourcePath` (optional): Original file path for reference

@@ -5,7 +5,7 @@
       "src": "media/2026-08-24__agent-video-plant-sway-1787593669958-published.mp4",
       "type": "video",
       "capturedAt": "2026-08-24T17:47:49Z",
-      "annotation": "Plant Sway Published",
+      "annotation": "Plant Sway",
       "tags": [
         "plant",
         "sway",
@@ -22,7 +22,7 @@
       "src": "media/2026-09-12__agent-1789237737708_spawn-after-revert.png",
       "type": "image",
       "capturedAt": "2026-09-12T18:28:57Z",
-      "annotation": "Spawn After Revert",
+      "annotation": "Spawn Revert",
       "tags": [
         "spawn",
         "2026-09-12"
@@ -37,7 +37,7 @@
       "src": "media/2026-09-12__agent-1789237738677_hub-footprint-aerial-after-revert.png",
       "type": "image",
       "capturedAt": "2026-09-12T18:28:58Z",
-      "annotation": "Hub Footprint Aerial After Revert",
+      "annotation": "Hub Footprint Aerial Revert",
       "tags": [
         "hub",
         "aerial",
@@ -53,7 +53,7 @@
       "src": "media/2026-09-12__agent-1789238209577_water-pond-a-topdown-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T18:36:49Z",
-      "annotation": "Water Pond A Top-down New",
+      "annotation": "Water Pond A Topdown",
       "tags": [
         "water",
         "pond",
@@ -70,7 +70,7 @@
       "src": "media/2026-09-12__agent-1789238210634_water-pond-a-shore-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T18:36:50Z",
-      "annotation": "Water Pond A Shore New",
+      "annotation": "Water Pond A Shore",
       "tags": [
         "water",
         "pond",
@@ -87,7 +87,7 @@
       "src": "media/2026-09-12__agent-1789238396526_water-pond-a-topdown-day-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T18:39:56Z",
-      "annotation": "Water Pond A Top-down Day New",
+      "annotation": "Water Pond A Topdown Day",
       "tags": [
         "water",
         "pond",
@@ -104,7 +104,7 @@
       "src": "media/2026-09-12__agent-1789238397744_water-pond-a-oblique-day-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T18:39:57Z",
-      "annotation": "Water Pond A Oblique Day New",
+      "annotation": "Water Pond A Oblique Day",
       "tags": [
         "water",
         "pond",
@@ -138,7 +138,7 @@
       "src": "media/2026-09-12__agent-1789238477352_water-ocean-coast-oblique-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T18:41:17Z",
-      "annotation": "Water Ocean Coast Oblique New",
+      "annotation": "Water Ocean Coast Oblique",
       "tags": [
         "water",
         "ocean",
@@ -156,7 +156,7 @@
       "src": "media/2026-09-12__agent-1789238478602_water-ocean-beach-eyelevel-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T18:41:18Z",
-      "annotation": "Water Ocean Beach Eyelevel New",
+      "annotation": "Water Ocean Beach Eyelevel",
       "tags": [
         "water",
         "ocean",
@@ -173,7 +173,7 @@
       "src": "media/2026-09-12__agent-1789238480055_water-ocean-deep-above-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T18:41:20Z",
-      "annotation": "Water Ocean Deep Above New",
+      "annotation": "Water Ocean Deep Above",
       "tags": [
         "water",
         "ocean",
@@ -205,7 +205,7 @@
       "src": "media/2026-09-12__agent-1789239701208_spawn-area-after-full-revert.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:01:41Z",
-      "annotation": "Spawn Area After Full Revert",
+      "annotation": "Spawn Area Full Revert",
       "tags": [
         "spawn",
         "2026-09-12"
@@ -220,7 +220,7 @@
       "src": "media/2026-09-12__agent-1789239708275_hub-footprint-aerial-after-full-revert.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:01:48Z",
-      "annotation": "Hub Footprint Aerial After Full Revert",
+      "annotation": "Hub Footprint Aerial Full Revert",
       "tags": [
         "hub",
         "aerial",
@@ -236,7 +236,7 @@
       "src": "media/2026-09-12__agent-1789240172248_chest-after-checkout-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:09:32Z",
-      "annotation": "Chest After Checkout New",
+      "annotation": "Chest Checkout",
       "tags": [
         "chest",
         "2026-09-12"
@@ -251,7 +251,7 @@
       "src": "media/2026-09-12__agent-1789240229112_chest-wide-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:10:29Z",
-      "annotation": "Chest Wide New",
+      "annotation": "Chest Wide",
       "tags": [
         "chest",
         "2026-09-12"
@@ -266,7 +266,7 @@
       "src": "media/2026-09-12__agent-1789240234324_chest-wide-day-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:10:34Z",
-      "annotation": "Chest Wide Day New",
+      "annotation": "Chest Wide Day",
       "tags": [
         "chest",
         "2026-09-12"
@@ -281,7 +281,7 @@
       "src": "media/2026-09-12__agent-1789240279060_chest-far-day-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:11:19Z",
-      "annotation": "Chest Far Day New",
+      "annotation": "Chest Far Day",
       "tags": [
         "chest",
         "2026-09-12"
@@ -296,7 +296,7 @@
       "src": "media/2026-09-12__agent-1789240308542_chest-topdown-day-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:11:48Z",
-      "annotation": "Chest Top-down Day New",
+      "annotation": "Chest Topdown Day",
       "tags": [
         "chest",
         "topdown",
@@ -312,7 +312,7 @@
       "src": "media/2026-09-12__agent-1789240371312_chest-after-checkout-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:12:51Z",
-      "annotation": "Chest After Checkout New",
+      "annotation": "Chest Checkout",
       "tags": [
         "chest",
         "2026-09-12"
@@ -327,7 +327,7 @@
       "src": "media/2026-09-12__agent-1789240396317_chest-close-after-checkout-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:13:16Z",
-      "annotation": "Chest Close After Checkout New",
+      "annotation": "Chest Close Checkout",
       "tags": [
         "chest",
         "2026-09-12"
@@ -342,7 +342,7 @@
       "src": "media/2026-09-12__agent-1789240487808_stand-summoned-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:14:47Z",
-      "annotation": "Stand Summoned New",
+      "annotation": "Stand Summoned",
       "tags": [
         "stand",
         "2026-09-12"
@@ -357,7 +357,7 @@
       "src": "media/2026-09-12__agent-1789240992103_night-spawn-after-revert-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:23:12Z",
-      "annotation": "Night Spawn After Revert New",
+      "annotation": "Night Spawn Revert",
       "tags": [
         "night",
         "spawn",
@@ -373,7 +373,7 @@
       "src": "media/2026-09-12__agent-1789240995985_night-spawn-wide-after-revert-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:23:15Z",
-      "annotation": "Night Spawn Wide After Revert New",
+      "annotation": "Night Spawn Wide Revert",
       "tags": [
         "night",
         "spawn",
@@ -389,7 +389,7 @@
       "src": "media/2026-09-12__agent-1789241023544_night-sky-after-revert-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:23:43Z",
-      "annotation": "Night Sky After Revert New",
+      "annotation": "Night Sky Revert",
       "tags": [
         "night",
         "sky",
@@ -405,7 +405,7 @@
       "src": "media/2026-09-12__agent-1789241079148_water-pond-a-topdown-day-final-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:24:39Z",
-      "annotation": "Water Pond A Top-down Day Final New",
+      "annotation": "Water Pond A Topdown Day",
       "tags": [
         "water",
         "pond",
@@ -422,7 +422,7 @@
       "src": "media/2026-09-12__agent-1789241083154_water-pond-a-oblique-day-final-new.png",
       "type": "image",
       "capturedAt": "2026-09-12T19:24:43Z",
-      "annotation": "Water Pond A Oblique Day Final New",
+      "annotation": "Water Pond A Oblique Day",
       "tags": [
         "water",
         "pond",
@@ -439,7 +439,7 @@
       "src": "media/2026-09-13__agent-video-water-spread-after-1789335225273.mp4",
       "type": "video",
       "capturedAt": "2026-09-13T21:33:45Z",
-      "annotation": "Water Spread After",
+      "annotation": "Water Spread",
       "tags": [
         "water",
         "video",
@@ -764,7 +764,7 @@
       "src": "media/fl3-waterfall.png",
       "type": "image",
       "capturedAt": "2026-09-14T02:03:27.000Z",
-      "annotation": "Water flow, waterfall",
+      "annotation": "FL3 Waterfall",
       "tags": [
         "highlights",
         "water",
@@ -838,7 +838,7 @@
       "src": "media/fl3-cascade-34.png",
       "type": "image",
       "capturedAt": "2026-09-14T02:03:33.000Z",
-      "annotation": "Water flow, cascade",
+      "annotation": "FL3 Cascade",
       "tags": [
         "highlights",
         "water",
@@ -911,7 +911,7 @@
       "src": "media/fl3-pool.png",
       "type": "image",
       "capturedAt": "2026-09-14T02:03:38.000Z",
-      "annotation": "Water flow, pool",
+      "annotation": "FL3 Pool",
       "tags": [
         "highlights",
         "water",
@@ -1100,7 +1100,7 @@
       "src": "media/2026-09-13__agent-video-butterfly-meadow-1789357908830-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T03:51:48Z",
-      "annotation": "Butterfly Meadow Published",
+      "annotation": "Butterfly Meadow",
       "tags": [
         "meadow",
         "butterfly",
@@ -1136,7 +1136,7 @@
       "src": "media/2026-09-13__agent-1789358071021_still-swallowtail-poppy.png",
       "type": "image",
       "capturedAt": "2026-09-14T03:54:31Z",
-      "annotation": "Still Swallowtail Poppy",
+      "annotation": "Swallowtail Poppy",
       "tags": [
         "poppy",
         "2026-09-13"
@@ -1170,7 +1170,7 @@
       "src": "media/butterfly-meadow-reveal.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T05:22:36.000Z",
-      "annotation": "Butterfly meadow reveal",
+      "annotation": "Butterfly Meadow Reveal",
       "tags": [
         "highlights",
         "butterfly",
@@ -1189,7 +1189,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-flight-1789403569751-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T16:32:49Z",
-      "annotation": "Butterfly Flight Published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "light",
@@ -1207,7 +1207,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-meadow-1789403902211-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T16:38:22Z",
-      "annotation": "Butterfly Meadow Published",
+      "annotation": "Butterfly Meadow",
       "tags": [
         "meadow",
         "butterfly",
@@ -1224,7 +1224,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-flight-1789403944364-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T16:39:04Z",
-      "annotation": "Butterfly Flight Published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "light",
@@ -1242,7 +1242,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-flight-1789404163705-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T16:42:43Z",
-      "annotation": "Butterfly Flight Published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "light",
@@ -1260,7 +1260,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-flight-1789404267913-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T16:44:27Z",
-      "annotation": "Butterfly Flight Published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "light",
@@ -1278,7 +1278,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-meadow-1789405356753-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T17:02:36Z",
-      "annotation": "Butterfly Meadow Published",
+      "annotation": "Butterfly Meadow",
       "tags": [
         "meadow",
         "butterfly",
@@ -1295,7 +1295,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-flight-1789405391434-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T17:03:11Z",
-      "annotation": "Butterfly Flight Published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "light",
@@ -1313,7 +1313,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-meadow-1789409464066-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T18:11:04Z",
-      "annotation": "Butterfly Meadow Published",
+      "annotation": "Butterfly Meadow",
       "tags": [
         "meadow",
         "butterfly",
@@ -1330,7 +1330,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-flight-1789409498350-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T18:11:38Z",
-      "annotation": "Butterfly Flight Published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "light",
@@ -1348,7 +1348,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-meadow-1789411434563-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T18:43:54Z",
-      "annotation": "Butterfly Meadow Published",
+      "annotation": "Butterfly Meadow",
       "tags": [
         "meadow",
         "butterfly",
@@ -1365,7 +1365,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-flight-1789411470580-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T18:44:30Z",
-      "annotation": "Butterfly Flight Published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "light",
@@ -1383,7 +1383,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-meadow-1789412262402-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T18:57:42Z",
-      "annotation": "Butterfly Meadow Published",
+      "annotation": "Butterfly Meadow",
       "tags": [
         "meadow",
         "butterfly",
@@ -1400,7 +1400,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-flight-1789412295622-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T18:58:15Z",
-      "annotation": "Butterfly Flight Published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "light",
@@ -1418,7 +1418,7 @@
       "src": "media/2026-09-14__agent-video-water-relevel-after-1789419062209-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T20:51:02Z",
-      "annotation": "Water Relevel After Published",
+      "annotation": "Water Relevel",
       "tags": [
         "water",
         "video",
@@ -1435,7 +1435,7 @@
       "src": "media/2026-09-14__agent-video-water-relevel-after-1789419201444.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T20:53:21Z",
-      "annotation": "Water Relevel After",
+      "annotation": "Water Relevel",
       "tags": [
         "water",
         "video",
@@ -1452,7 +1452,7 @@
       "src": "media/2026-09-14__agent-video-water-relevel-after-1789419201444-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T20:53:21Z",
-      "annotation": "Water Relevel After Published",
+      "annotation": "Water Relevel",
       "tags": [
         "water",
         "video",
@@ -1468,7 +1468,7 @@
       "src": "media/2026-09-14__agent-video-water-relevel-after-1789419298298.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T20:54:58Z",
-      "annotation": "Water Relevel After",
+      "annotation": "Water Relevel",
       "tags": [
         "water",
         "video",
@@ -1485,7 +1485,7 @@
       "src": "media/2026-09-14__agent-video-water-relevel-after-1789419298298-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T20:54:58Z",
-      "annotation": "Water Relevel After Published",
+      "annotation": "Water Relevel",
       "tags": [
         "water",
         "video",
@@ -1502,7 +1502,7 @@
       "src": "media/2026-09-14__agent-video-water-surface-after-1789422775143-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T21:52:55Z",
-      "annotation": "Water Surface After Published",
+      "annotation": "Water Surface",
       "tags": [
         "water",
         "video",
@@ -1519,7 +1519,7 @@
       "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789424325207.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T22:18:45Z",
-      "annotation": "Water Seeks Drop After",
+      "annotation": "Water Seeks Drop",
       "tags": [
         "water",
         "video",
@@ -1536,7 +1536,7 @@
       "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789424325207-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T22:18:45Z",
-      "annotation": "Water Seeks Drop After Published",
+      "annotation": "Water Seeks Drop",
       "tags": [
         "water",
         "video",
@@ -1553,7 +1553,7 @@
       "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789424439363.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T22:20:39Z",
-      "annotation": "Water Seeks Drop After",
+      "annotation": "Water Seeks Drop",
       "tags": [
         "water",
         "video",
@@ -1570,7 +1570,7 @@
       "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789424439363-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T22:20:39Z",
-      "annotation": "Water Seeks Drop After Published",
+      "annotation": "Water Seeks Drop",
       "tags": [
         "water",
         "video",
@@ -1587,7 +1587,7 @@
       "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789427003191.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T23:03:23Z",
-      "annotation": "Water Seeks Drop After",
+      "annotation": "Water Seeks Drop",
       "tags": [
         "water",
         "video",
@@ -1604,7 +1604,7 @@
       "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789427003191-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T23:03:23Z",
-      "annotation": "Water Seeks Drop After Published",
+      "annotation": "Water Seeks Drop",
       "tags": [
         "water",
         "video",
@@ -1621,7 +1621,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-roam-1789440497971-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-15T02:48:17Z",
-      "annotation": "Butterfly Roam Published",
+      "annotation": "Butterfly Roam",
       "tags": [
         "butterfly",
         "video",
@@ -1637,7 +1637,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-landing-1789449235009-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-15T05:13:55Z",
-      "annotation": "Butterfly Landing Published",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "video",
@@ -1653,7 +1653,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-landing-1789449235009-published-slow.mp4",
       "type": "video",
       "capturedAt": "2026-09-15T05:13:55Z",
-      "annotation": "Butterfly Landing Published Slow",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "video",
@@ -1669,7 +1669,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-landing-1789449743016-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-15T05:22:23Z",
-      "annotation": "Butterfly Landing Published",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "video",
@@ -1685,7 +1685,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-landing-1789449743016-published-slow.mp4",
       "type": "video",
       "capturedAt": "2026-09-15T05:22:23Z",
-      "annotation": "Butterfly Landing Published Slow",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "video",
@@ -1701,7 +1701,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-landing-1789450106812-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-15T05:28:26Z",
-      "annotation": "Butterfly Landing Published",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "video",
@@ -1717,7 +1717,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-landing-1789450106812-published-slow.mp4",
       "type": "video",
       "capturedAt": "2026-09-15T05:28:26Z",
-      "annotation": "Butterfly Landing Published Slow",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "video",
@@ -1733,7 +1733,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-landing-1789450195160-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-15T05:29:55Z",
-      "annotation": "Butterfly Landing Published",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "video",
@@ -1749,7 +1749,7 @@
       "src": "media/2026-09-14__agent-video-butterfly-landing-1789450195160-published-slow.mp4",
       "type": "video",
       "capturedAt": "2026-09-15T05:29:55Z",
-      "annotation": "Butterfly Landing Published Slow",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "video",
@@ -1813,7 +1813,7 @@
       "src": "media/2026-09-15__agent-video-terrain-fade-final-1789507835634.mp4",
       "type": "video",
       "capturedAt": "2026-09-15T21:30:35Z",
-      "annotation": "Terrain Fade Final",
+      "annotation": "Terrain Fade",
       "tags": [
         "terrain",
         "video",
@@ -1829,7 +1829,7 @@
       "src": "media/2026-09-16__agent-video-bees-buzzing-1789545476627-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-16T07:57:56Z",
-      "annotation": "Bees Buzzing Published",
+      "annotation": "Bees Buzzing",
       "tags": [
         "bee",
         "video",
@@ -1845,7 +1845,7 @@
       "src": "media/2026-09-16__agent-video-bee-lands-and-drinks-1789545557516-published.mp4",
       "type": "video",
       "capturedAt": "2026-09-16T07:59:17Z",
-      "annotation": "Bee Lands And Drinks Published",
+      "annotation": "Bee Lands And Drinks",
       "tags": [
         "bee",
         "video",
@@ -2545,7 +2545,7 @@
       "src": "media/caster-hooked-player-2026-09-18.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Caster hooked player",
+      "annotation": "Caster Hooked Player",
       "tags": [
         "caster",
         "2026-09-18"
@@ -2560,7 +2560,7 @@
       "src": "media/caster-view-hooked-2026-09-18.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Caster view hooked",
+      "annotation": "Caster View Hooked",
       "tags": [
         "caster",
         "2026-09-18"
@@ -2575,7 +2575,7 @@
       "src": "media/caster-view-leashed-2026-09-18.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Caster view leashed",
+      "annotation": "Caster View Leashed",
       "tags": [
         "caster",
         "2026-09-18"
@@ -2590,7 +2590,7 @@
       "src": "media/caster-view-reeled-2026-09-18.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Caster view reeled",
+      "annotation": "Caster View Reeled",
       "tags": [
         "caster",
         "2026-09-18"
@@ -2605,7 +2605,7 @@
       "src": "media/door-a-night-closed-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Door a night closed",
+      "annotation": "Door A Night Closed",
       "tags": [
         "night",
         "door",
@@ -2621,7 +2621,7 @@
       "src": "media/doors-closed-day-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Doors closed day",
+      "annotation": "Doors Closed Day",
       "tags": [
         "door",
         "2026-09-17"
@@ -2636,7 +2636,7 @@
       "src": "media/doors-closed-day-2026-09-17-2.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Doors closed day",
+      "annotation": "Doors Closed Day",
       "tags": [
         "door",
         "2026-09-17"
@@ -2651,7 +2651,7 @@
       "src": "media/fl-cascade-front-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl cascade front",
+      "annotation": "FL Cascade Front",
       "tags": [
         "cascade",
         "2026-09-13"
@@ -2666,7 +2666,7 @@
       "src": "media/fl-cascade-side-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl cascade side",
+      "annotation": "FL Cascade Side",
       "tags": [
         "cascade",
         "2026-09-13"
@@ -2681,7 +2681,7 @@
       "src": "media/fl-fan-oblique-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl fan oblique",
+      "annotation": "FL Fan Oblique",
       "tags": [
         "fan",
         "2026-09-13"
@@ -2696,7 +2696,7 @@
       "src": "media/fl-fan-top-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl fan top",
+      "annotation": "FL Fan Top",
       "tags": [
         "fan",
         "2026-09-13"
@@ -2711,7 +2711,7 @@
       "src": "media/fl-headon-oblique-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl headon oblique",
+      "annotation": "FL Headon Oblique",
       "tags": [
         "2026-09-13"
       ],
@@ -2725,7 +2725,7 @@
       "src": "media/fl-headon-top-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl headon top",
+      "annotation": "FL Headon Top",
       "tags": [
         "2026-09-13"
       ],
@@ -2739,7 +2739,7 @@
       "src": "media/fl-obstacle-top-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl obstacle top",
+      "annotation": "FL Obstacle Top",
       "tags": [
         "2026-09-13"
       ],
@@ -2753,7 +2753,7 @@
       "src": "media/fl-pool-oblique-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl pool oblique",
+      "annotation": "FL Pool Oblique",
       "tags": [
         "pool",
         "2026-09-13"
@@ -2768,7 +2768,7 @@
       "src": "media/fl-pool-top-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl pool top",
+      "annotation": "FL Pool Top",
       "tags": [
         "pool",
         "2026-09-13"
@@ -2783,7 +2783,7 @@
       "src": "media/fl-table-oblique-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl table oblique",
+      "annotation": "FL Table Oblique",
       "tags": [
         "2026-09-13"
       ],
@@ -2797,7 +2797,7 @@
       "src": "media/fl-table-top-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl table top",
+      "annotation": "FL Table Top",
       "tags": [
         "2026-09-13"
       ],
@@ -2811,7 +2811,7 @@
       "src": "media/fl-three-top-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl three top",
+      "annotation": "FL Three Top",
       "tags": [
         "2026-09-13"
       ],
@@ -2825,7 +2825,7 @@
       "src": "media/fl-two-oblique-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl two oblique",
+      "annotation": "FL Two Oblique",
       "tags": [
         "2026-09-13"
       ],
@@ -2839,7 +2839,7 @@
       "src": "media/fl-two-top-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl two top",
+      "annotation": "FL Two Top",
       "tags": [
         "2026-09-13"
       ],
@@ -2853,7 +2853,7 @@
       "src": "media/fl-waterfall-close-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl waterfall close",
+      "annotation": "FL Waterfall Close",
       "tags": [
         "water",
         "waterfall",
@@ -2869,7 +2869,7 @@
       "src": "media/fl-zigzag-top-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl zigzag top",
+      "annotation": "FL Zigzag Top",
       "tags": [
         "2026-09-13"
       ],
@@ -2883,7 +2883,7 @@
       "src": "media/fl3-cascade-front-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl3 cascade front",
+      "annotation": "FL3 Cascade Front",
       "tags": [
         "cascade",
         "2026-09-13"
@@ -2898,7 +2898,7 @@
       "src": "media/fl3-fan.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl3 fan",
+      "annotation": "FL3 Fan",
       "tags": [
         "fan"
       ],
@@ -2912,7 +2912,7 @@
       "src": "media/fl3-headon-34-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl3 headon 34",
+      "annotation": "FL3 Headon",
       "tags": [
         "2026-09-13"
       ],
@@ -2926,7 +2926,7 @@
       "src": "media/fl3-headon-along-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl3 headon along",
+      "annotation": "FL3 Headon Along",
       "tags": [
         "2026-09-13"
       ],
@@ -2940,7 +2940,7 @@
       "src": "media/fl3-table-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl3 table",
+      "annotation": "FL3 Table",
       "tags": [
         "2026-09-13"
       ],
@@ -2954,7 +2954,7 @@
       "src": "media/fl3-two-seam-2026-09-13.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Fl3 two seam",
+      "annotation": "FL3 Two Seam",
       "tags": [
         "2026-09-13"
       ],
@@ -2968,7 +2968,7 @@
       "src": "media/flora-alpine-0-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora alpine 0",
+      "annotation": "Flora Alpine",
       "tags": [
         "flora",
         "2026-09-17"
@@ -2983,7 +2983,7 @@
       "src": "media/flora-alpine-1-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora alpine 1",
+      "annotation": "Flora Alpine",
       "tags": [
         "flora",
         "2026-09-17"
@@ -2998,7 +2998,7 @@
       "src": "media/flora-aquatic-0-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora aquatic 0",
+      "annotation": "Flora Aquatic",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3013,7 +3013,7 @@
       "src": "media/flora-aquatic-1-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora aquatic 1",
+      "annotation": "Flora Aquatic",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3028,7 +3028,7 @@
       "src": "media/flora-brackets-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora brackets",
+      "annotation": "Flora Brackets",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3043,7 +3043,7 @@
       "src": "media/flora-canopy-0-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora canopy 0",
+      "annotation": "Flora Canopy",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3058,7 +3058,7 @@
       "src": "media/flora-canopy-1-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora canopy 1",
+      "annotation": "Flora Canopy",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3073,7 +3073,7 @@
       "src": "media/flora-canopy-close-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora canopy close",
+      "annotation": "Flora Canopy Close",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3088,7 +3088,7 @@
       "src": "media/flora-dry-0-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora dry 0",
+      "annotation": "Flora Dry",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3103,7 +3103,7 @@
       "src": "media/flora-dry-1-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora dry 1",
+      "annotation": "Flora Dry",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3118,7 +3118,7 @@
       "src": "media/flora-flowers-0-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora flowers 0",
+      "annotation": "Flora Flowers",
       "tags": [
         "flora",
         "flow",
@@ -3134,7 +3134,7 @@
       "src": "media/flora-flowers-1-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora flowers 1",
+      "annotation": "Flora Flowers",
       "tags": [
         "flora",
         "flow",
@@ -3150,7 +3150,7 @@
       "src": "media/flora-flowers-2-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora flowers 2",
+      "annotation": "Flora Flowers",
       "tags": [
         "flora",
         "flow",
@@ -3166,7 +3166,7 @@
       "src": "media/flora-flowers-close-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora flowers close",
+      "annotation": "Flora Flowers Close",
       "tags": [
         "flora",
         "flow",
@@ -3182,7 +3182,7 @@
       "src": "media/flora-flowers-close-2026-09-17-2.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora flowers close",
+      "annotation": "Flora Flowers Close",
       "tags": [
         "flora",
         "flow",
@@ -3198,7 +3198,7 @@
       "src": "media/flora-fruit-0-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora fruit 0",
+      "annotation": "Flora Fruit",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3213,7 +3213,7 @@
       "src": "media/flora-fruit-1-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora fruit 1",
+      "annotation": "Flora Fruit",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3228,7 +3228,7 @@
       "src": "media/flora-fungi-0-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora fungi 0",
+      "annotation": "Flora Fungi",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3243,7 +3243,7 @@
       "src": "media/flora-fungi-1-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora fungi 1",
+      "annotation": "Flora Fungi",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3258,7 +3258,7 @@
       "src": "media/flora-grasses-0-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora grasses 0",
+      "annotation": "Flora Grasses",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3273,7 +3273,7 @@
       "src": "media/flora-grasses-1-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora grasses 1",
+      "annotation": "Flora Grasses",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3288,7 +3288,7 @@
       "src": "media/flora-plates-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora plates",
+      "annotation": "Flora Plates",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3303,7 +3303,7 @@
       "src": "media/flora-shrubs-0-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora shrubs 0",
+      "annotation": "Flora Shrubs",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3318,7 +3318,7 @@
       "src": "media/flora-shrubs-1-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora shrubs 1",
+      "annotation": "Flora Shrubs",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3333,7 +3333,7 @@
       "src": "media/flora-tall-0-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora tall 0",
+      "annotation": "Flora Tall",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3348,7 +3348,7 @@
       "src": "media/flora-tall-1-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora tall 1",
+      "annotation": "Flora Tall",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3363,7 +3363,7 @@
       "src": "media/flora-tropical-0-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora tropical 0",
+      "annotation": "Flora Tropical",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3378,7 +3378,7 @@
       "src": "media/flora-tropical-1-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora tropical 1",
+      "annotation": "Flora Tropical",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3393,7 +3393,7 @@
       "src": "media/grokbot-sizes-close-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Grokbot sizes close",
+      "annotation": "Grokbot Sizes Close",
       "tags": [
         "2026-09-17"
       ],
@@ -3407,7 +3407,7 @@
       "src": "media/inventory-flora-search-desert-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Inventory flora search desert",
+      "annotation": "Inventory Flora Search Desert",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3422,7 +3422,7 @@
       "src": "media/inventory-flora-shelves-mid-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Inventory flora shelves mid",
+      "annotation": "Inventory Flora Shelves Mid",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3437,7 +3437,7 @@
       "src": "media/inventory-flora-shelves-top-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Inventory flora shelves top",
+      "annotation": "Inventory Flora Shelves Top",
       "tags": [
         "flora",
         "2026-09-17"
@@ -3452,7 +3452,7 @@
       "src": "media/peer-holding-railgun-close-2026-09-17.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Peer holding railgun close",
+      "annotation": "Peer Holding Railgun Close",
       "tags": [
         "2026-09-17"
       ],
@@ -3466,7 +3466,7 @@
       "src": "media/target-view-hooked-2026-09-18.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Target view hooked",
+      "annotation": "Target View Hooked",
       "tags": [
         "2026-09-18"
       ],
@@ -3480,7 +3480,7 @@
       "src": "media/video-bee-lands-and-drinks-published-2026-09-16.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video bee lands and drinks published",
+      "annotation": "Bee Lands And Drinks",
       "tags": [
         "bee",
         "2026-09-16"
@@ -3495,7 +3495,7 @@
       "src": "media/video-bees-buzzing-published-2026-09-16.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video bees buzzing published",
+      "annotation": "Bees Buzzing",
       "tags": [
         "bee",
         "2026-09-16"
@@ -3510,7 +3510,7 @@
       "src": "media/video-butterfly-flight-published-2026-09-14.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly flight published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3525,7 +3525,7 @@
       "src": "media/video-butterfly-flight-published-2026-09-14-2.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly flight published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3540,7 +3540,7 @@
       "src": "media/video-butterfly-flight-published-2026-09-14-3.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly flight published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3555,7 +3555,7 @@
       "src": "media/video-butterfly-flight-published-2026-09-14-4.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly flight published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3570,7 +3570,7 @@
       "src": "media/video-butterfly-flight-published-2026-09-14-5.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly flight published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3585,7 +3585,7 @@
       "src": "media/video-butterfly-flight-published-2026-09-14-6.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly flight published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3600,7 +3600,7 @@
       "src": "media/video-butterfly-flight-published-2026-09-14-7.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly flight published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3615,7 +3615,7 @@
       "src": "media/video-butterfly-flight-published-2026-09-14-8.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly flight published",
+      "annotation": "Butterfly Flight",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3630,7 +3630,7 @@
       "src": "media/video-butterfly-landing-published-2026-09-14.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly landing published",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3645,7 +3645,7 @@
       "src": "media/video-butterfly-landing-published-2026-09-14-2.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly landing published",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3660,7 +3660,7 @@
       "src": "media/video-butterfly-landing-published-2026-09-14-3.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly landing published",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3675,7 +3675,7 @@
       "src": "media/video-butterfly-landing-published-2026-09-14-4.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly landing published",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3690,7 +3690,7 @@
       "src": "media/video-butterfly-landing-published-slow-2026-09-14.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly landing published slow",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3705,7 +3705,7 @@
       "src": "media/video-butterfly-landing-published-slow-2026-09-14-2.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly landing published slow",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3720,7 +3720,7 @@
       "src": "media/video-butterfly-landing-published-slow-2026-09-14-3.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly landing published slow",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3735,7 +3735,7 @@
       "src": "media/video-butterfly-landing-published-slow-2026-09-14-4.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly landing published slow",
+      "annotation": "Butterfly Landing",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3750,7 +3750,7 @@
       "src": "media/video-butterfly-meadow-published-2026-09-13.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly meadow published",
+      "annotation": "Butterfly Meadow",
       "tags": [
         "butterfly",
         "meadow",
@@ -3766,7 +3766,7 @@
       "src": "media/video-butterfly-meadow-published-2026-09-14.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly meadow published",
+      "annotation": "Butterfly Meadow",
       "tags": [
         "butterfly",
         "meadow",
@@ -3782,7 +3782,7 @@
       "src": "media/video-butterfly-meadow-published-2026-09-14-2.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly meadow published",
+      "annotation": "Butterfly Meadow",
       "tags": [
         "butterfly",
         "meadow",
@@ -3798,7 +3798,7 @@
       "src": "media/video-butterfly-meadow-published-2026-09-14-3.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly meadow published",
+      "annotation": "Butterfly Meadow",
       "tags": [
         "butterfly",
         "meadow",
@@ -3814,7 +3814,7 @@
       "src": "media/video-butterfly-meadow-published-2026-09-14-4.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly meadow published",
+      "annotation": "Butterfly Meadow",
       "tags": [
         "butterfly",
         "meadow",
@@ -3830,7 +3830,7 @@
       "src": "media/video-butterfly-meadow-published-2026-09-14-5.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly meadow published",
+      "annotation": "Butterfly Meadow",
       "tags": [
         "butterfly",
         "meadow",
@@ -3846,7 +3846,7 @@
       "src": "media/video-butterfly-roam-published-2026-09-14.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly roam published",
+      "annotation": "Butterfly Roam",
       "tags": [
         "butterfly",
         "2026-09-14"
@@ -3861,7 +3861,7 @@
       "src": "media/video-flow-cascade-2026-09-13.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow cascade",
+      "annotation": "Flow Cascade",
       "tags": [
         "flow",
         "cascade",
@@ -3877,7 +3877,7 @@
       "src": "media/video-flow-cascade-2026-09-13-2.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow cascade",
+      "annotation": "Flow Cascade",
       "tags": [
         "flow",
         "cascade",
@@ -3893,7 +3893,7 @@
       "src": "media/video-flow-fan-2026-09-13.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow fan",
+      "annotation": "Flow Fan",
       "tags": [
         "flow",
         "fan",
@@ -3909,7 +3909,7 @@
       "src": "media/video-flow-fan-2026-09-13-2.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow fan",
+      "annotation": "Flow Fan",
       "tags": [
         "flow",
         "fan",
@@ -3925,7 +3925,7 @@
       "src": "media/video-flow-headon-2026-09-13.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow headon",
+      "annotation": "Flow Headon",
       "tags": [
         "flow",
         "2026-09-13"
@@ -3940,7 +3940,7 @@
       "src": "media/video-flow-obstacle-2026-09-13.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow obstacle",
+      "annotation": "Flow Obstacle",
       "tags": [
         "flow",
         "2026-09-13"
@@ -3955,7 +3955,7 @@
       "src": "media/video-flow-pool-gap-2026-09-13.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow pool gap",
+      "annotation": "Flow Pool Gap",
       "tags": [
         "flow",
         "pool",
@@ -3971,7 +3971,7 @@
       "src": "media/video-flow-pool-gap-2026-09-13-2.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow pool gap",
+      "annotation": "Flow Pool Gap",
       "tags": [
         "flow",
         "pool",
@@ -3987,7 +3987,7 @@
       "src": "media/video-flow-three-way-2026-09-13.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow three way",
+      "annotation": "Flow Three Way",
       "tags": [
         "flow",
         "2026-09-13"
@@ -4002,7 +4002,7 @@
       "src": "media/video-flow-two-collide-2026-09-13.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow two collide",
+      "annotation": "Flow Two Collide",
       "tags": [
         "flow",
         "2026-09-13"
@@ -4017,7 +4017,7 @@
       "src": "media/video-flow-waterfall-2026-09-13.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow waterfall",
+      "annotation": "Flow Waterfall",
       "tags": [
         "water",
         "waterfall",
@@ -4034,7 +4034,7 @@
       "src": "media/video-flow-waterfall-2026-09-13-2.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow waterfall",
+      "annotation": "Flow Waterfall",
       "tags": [
         "water",
         "waterfall",
@@ -4051,7 +4051,7 @@
       "src": "media/video-plant-sway-published-2026-08-24.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video plant sway published",
+      "annotation": "Plant Sway",
       "tags": [
         "2026-08-24"
       ],
@@ -4065,7 +4065,7 @@
       "src": "media/video-terrain-fade-2026-09-15.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video terrain fade",
+      "annotation": "Terrain Fade",
       "tags": [
         "terrain",
         "2026-09-15"
@@ -4080,7 +4080,7 @@
       "src": "media/video-terrain-fade-2026-09-15-2.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video terrain fade",
+      "annotation": "Terrain Fade",
       "tags": [
         "terrain",
         "2026-09-15"
@@ -4095,7 +4095,7 @@
       "src": "media/video-terrain-fade-final-2026-09-15.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video terrain fade final",
+      "annotation": "Terrain Fade",
       "tags": [
         "terrain",
         "2026-09-15"
@@ -4110,7 +4110,7 @@
       "src": "media/video-terrain-fade-islands-2026-09-15.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video terrain fade islands",
+      "annotation": "Terrain Fade Islands",
       "tags": [
         "terrain",
         "2026-09-15"
@@ -4125,7 +4125,7 @@
       "src": "media/video-water-relevel-after-published-2026-09-14.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video water relevel after published",
+      "annotation": "Water Relevel",
       "tags": [
         "water",
         "2026-09-14"
@@ -4140,7 +4140,7 @@
       "src": "media/video-water-spread-after-2026-09-13.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video water spread after",
+      "annotation": "Water Spread",
       "tags": [
         "water",
         "2026-09-13"
@@ -4155,7 +4155,7 @@
       "src": "media/video-water-surface-after-published-2026-09-14.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video water surface after published",
+      "annotation": "Water Surface",
       "tags": [
         "water",
         "2026-09-14"
@@ -4170,7 +4170,7 @@
       "src": "media/water-pane-visible-2026-09-18.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Water pane visible",
+      "annotation": "Water Pane Visible",
       "tags": [
         "water",
         "2026-09-18"
@@ -4185,7 +4185,7 @@
       "src": "media/water-pane-visible-2026-09-18-2.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Water pane visible",
+      "annotation": "Water Pane Visible",
       "tags": [
         "water",
         "2026-09-18"
@@ -4200,7 +4200,7 @@
       "src": "media/2026-09-13__butterfly-clip-sheet.png",
       "type": "image",
       "capturedAt": "2026-09-18T19:48:56Z",
-      "annotation": "Butterfly Clip Sheet",
+      "annotation": "Butterfly Sheet",
       "tags": [
         "butterfly",
         "2026-09-13"
