@@ -1257,6 +1257,78 @@
       "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789404267913-published-poster.webp"
     },
     {
+      "id": "2026-09-14__agent-video-butterfly-flight-1789405391434-published",
+      "src": "media/2026-09-14__agent-video-butterfly-flight-1789405391434-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T17:03:11Z",
+      "annotation": "Butterfly Flight Published",
+      "tags": [
+        "butterfly",
+        "light",
+        "video",
+        "flight",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-flight-1789405391434-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789405391434-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-flight-1789409498350-published",
+      "src": "media/2026-09-14__agent-video-butterfly-flight-1789409498350-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T18:11:38Z",
+      "annotation": "Butterfly Flight Published",
+      "tags": [
+        "butterfly",
+        "light",
+        "video",
+        "flight",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-flight-1789409498350-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789409498350-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-flight-1789411470580-published",
+      "src": "media/2026-09-14__agent-video-butterfly-flight-1789411470580-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T18:44:30Z",
+      "annotation": "Butterfly Flight Published",
+      "tags": [
+        "butterfly",
+        "light",
+        "video",
+        "flight",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-flight-1789411470580-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789411470580-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-flight-1789412295622-published",
+      "src": "media/2026-09-14__agent-video-butterfly-flight-1789412295622-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T18:58:15Z",
+      "annotation": "Butterfly Flight Published",
+      "tags": [
+        "butterfly",
+        "light",
+        "video",
+        "flight",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-flight-1789412295622-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789412295622-published-poster.webp"
+    },
+    {
       "id": "2026-09-14__agent-video-water-relevel-after-1789419062209-published",
       "src": "media/2026-09-14__agent-video-water-relevel-after-1789419062209-published.mp4",
       "type": "video",
@@ -1373,6 +1445,22 @@
       "width": 960,
       "height": 540,
       "poster": "media/derived/2026-09-14__agent-video-water-seeks-drop-after-1789427003191-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-landing-1789449235009-published-slow",
+      "src": "media/2026-09-14__agent-video-butterfly-landing-1789449235009-published-slow.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T05:13:55Z",
+      "annotation": "Butterfly Landing Published Slow",
+      "tags": [
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-landing-1789449235009-published-slow.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-landing-1789449235009-published-slow-poster.webp"
     },
     {
       "id": "2026-09-17__agent-1789685011247_doors-closed-day",
