@@ -34,17 +34,6 @@
       "height": 1600
     },
     {
-      "id": "butterfly-film-open",
-      "src": "media/butterfly-film-open.png",
-      "type": "image",
-      "capturedAt": "2026-09-14T03:51:07.000Z",
-      "annotation": "Wings open over the sunflower",
-      "tags": ["butterfly", "meadow", "film", "fauna", "2026-09-13"],
-      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/photo-1789357867806_butterfly-film-open.png",
-      "width": 1280,
-      "height": 720
-    },
-    {
       "id": "fl3-pool",
       "src": "media/fl3-pool.png",
       "type": "image",

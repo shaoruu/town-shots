@@ -21,7 +21,7 @@ Fewer excellent tiles beat a junk pile. When syncing from the screenshots folder
 - **Prefer** files from a `highlights/` folder when both a raw and a curated version exist
 - **Composition sanity**: drop shots where the subject is indistinguishable at thumbnail size (empty terrain, far-off subjects, UI overlays). When in doubt, leave it out
 
-The Sep 13 seed batch was pruned by hand under these rules (contact sheet, an unfocused wide, an empty flow-test plain).
+The Sep 13 seed batch was pruned by hand under these rules (contact sheet, an unfocused wide, an empty flow-test plain, and a 720p still that duplicated the video's opening frame).
 
 ## Data Model
 
