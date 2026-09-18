@@ -1344,6 +1344,23 @@
       "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789409498350-published-poster.webp"
     },
     {
+      "id": "2026-09-14__agent-video-butterfly-meadow-1789411434563-published",
+      "src": "media/2026-09-14__agent-video-butterfly-meadow-1789411434563-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T18:43:54Z",
+      "annotation": "Butterfly Meadow Published",
+      "tags": [
+        "meadow",
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-meadow-1789411434563-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-meadow-1789411434563-published-poster.webp"
+    },
+    {
       "id": "2026-09-14__agent-video-butterfly-flight-1789411470580-published",
       "src": "media/2026-09-14__agent-video-butterfly-flight-1789411470580-published.mp4",
       "type": "video",
@@ -1360,6 +1377,23 @@
       "width": 1920,
       "height": 1080,
       "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789411470580-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-meadow-1789412262402-published",
+      "src": "media/2026-09-14__agent-video-butterfly-meadow-1789412262402-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T18:57:42Z",
+      "annotation": "Butterfly Meadow Published",
+      "tags": [
+        "meadow",
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-meadow-1789412262402-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-meadow-1789412262402-published-poster.webp"
     },
     {
       "id": "2026-09-14__agent-video-butterfly-flight-1789412295622-published",
@@ -1496,6 +1530,22 @@
       "width": 960,
       "height": 540,
       "poster": "media/derived/2026-09-14__agent-video-water-seeks-drop-after-1789427003191-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-roam-1789440497971-published",
+      "src": "media/2026-09-14__agent-video-butterfly-roam-1789440497971-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T02:48:17Z",
+      "annotation": "Butterfly Roam Published",
+      "tags": [
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-roam-1789440497971-published.mp4",
+      "width": 1280,
+      "height": 720,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-roam-1789440497971-published-poster.webp"
     },
     {
       "id": "2026-09-14__agent-video-butterfly-landing-1789449235009-published",
