@@ -94,11 +94,7 @@ export default function MediaTile({ item, eager, onClick }: MediaTileProps) {
 
       <figcaption className="media-tile-label">
         <span className="media-tile-time">{formatCaptureTimeShort(item.capturedAt)}</span>
-        {item.annotation && (
-          <span className="media-tile-note">
-            <span>{item.annotation}</span>
-          </span>
-        )}
+        {item.annotation && <span className="media-tile-note">{item.annotation}</span>}
       </figcaption>
     </figure>
   );

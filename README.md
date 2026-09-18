@@ -7,7 +7,7 @@ Quiet photo wall for Town / Voxelize captures. Deployed via GitHub Pages at [htt
 The images are the site. Warm plaster ground, flush edge-to-edge masonry with 10px seams, zero radius, no shadows, one quiet sans.
 
 - **Wall**: shortest-column masonry laid out from manifest `width`/`height`, so tiles reserve their exact footprint before the image arrives (no layout shift, no empty first paint). Tiles load the wall-sized WebP `thumb` (~100KB) and fade in over a plaster placeholder; the full-res original is only fetched in the lightbox
-- **Tiles**: always-visible small capture time (Pacific) bottom-left on warm paper; the annotation unfolds beside it on hover. Neighbours dim softly. Video tiles have no badge — they show their `poster` frame and play silently on hover
+- **Tiles**: bare image/video at rest — no chrome. Hover (or keyboard focus) surfaces a small capture time (Pacific) bottom-left on warm paper, with the annotation beside it; touch never shows it and relies on the lightbox caption. Neighbours dim softly. Video tiles have no badge and no standing time — they show their `poster` frame and play silently on hover
 - **Lightbox**: deep charcoal scrim, hairline close/chevrons, scroll-wheel zoom anchored to the cursor, drag to pan, pinch on touch, double-click to zoom. Esc / click outside / `←` `→`. Opens instantly from the cached thumb and sharpens into the original. Videos play inline, muted-first
 - **Type**: system sans only, 10–11px uppercase with tracking for labels; ink `#1C1A17`, muted `#6E6860`, ground `#F0EDE6`
 

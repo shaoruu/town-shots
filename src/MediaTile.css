@@ -48,15 +48,17 @@
   opacity: 1;
 }
 
-/* Always-visible quiet timestamp; annotation unfolds beside it on hover. */
+/* Idle tiles are bare image/video. The capture time (and a short note) only
+   surfaces while the tile is under the cursor or keyboard focus; touch has no
+   hover, so those tiles stay clean and the lightbox caption carries the time. */
 .media-tile-label {
   position: absolute;
   left: 0;
   bottom: 0;
   max-width: 100%;
-  display: grid;
-  grid-template-columns: auto 0fr;
+  display: flex;
   align-items: baseline;
+  gap: 10px;
   padding: 6px 9px;
   background: var(--paper-veil);
   color: var(--ink);
@@ -66,15 +68,22 @@
   text-transform: uppercase;
   white-space: nowrap;
   pointer-events: none;
-  transition: grid-template-columns 0.35s ease;
+  opacity: 0;
+  transition: opacity 0.2s ease;
 }
 
-.media-tile:hover .media-tile-label,
 .media-tile:focus-visible .media-tile-label {
-  grid-template-columns: auto 1fr;
+  opacity: 1;
+}
+
+@media (hover: hover) {
+  .media-tile:hover .media-tile-label {
+    opacity: 1;
+  }
 }
 
 .media-tile-time {
+  flex: none;
   font-weight: 500;
 }
 
@@ -86,15 +95,4 @@
   font-weight: 400;
   letter-spacing: 0.02em;
   text-transform: none;
-  opacity: 0;
-  transition: opacity 0.25s ease;
-}
-
-.media-tile-note > span {
-  padding-left: 10px;
-}
-
-.media-tile:hover .media-tile-note,
-.media-tile:focus-visible .media-tile-note {
-  opacity: 1;
 }
