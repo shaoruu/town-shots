@@ -1431,6 +1431,23 @@
       "poster": "media/derived/2026-09-14__agent-video-water-relevel-after-1789419062209-published-poster.webp"
     },
     {
+      "id": "2026-09-14__agent-video-water-relevel-after-1789419201444",
+      "src": "media/2026-09-14__agent-video-water-relevel-after-1789419201444.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T20:53:21Z",
+      "annotation": "Water Relevel After",
+      "tags": [
+        "water",
+        "video",
+        "relevel",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-relevel-after-1789419201444.mp4",
+      "width": 960,
+      "height": 540,
+      "poster": "media/derived/2026-09-14__agent-video-water-relevel-after-1789419201444-poster.webp"
+    },
+    {
       "id": "2026-09-14__agent-video-water-relevel-after-1789419201444-published",
       "src": "media/2026-09-14__agent-video-water-relevel-after-1789419201444-published.mp4",
       "type": "video",
@@ -1445,6 +1462,23 @@
       "width": 960,
       "height": 540,
       "poster": "media/derived/2026-09-14__agent-video-water-relevel-after-1789419201444-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-water-relevel-after-1789419298298",
+      "src": "media/2026-09-14__agent-video-water-relevel-after-1789419298298.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T20:54:58Z",
+      "annotation": "Water Relevel After",
+      "tags": [
+        "water",
+        "video",
+        "relevel",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-relevel-after-1789419298298.mp4",
+      "width": 960,
+      "height": 540,
+      "poster": "media/derived/2026-09-14__agent-video-water-relevel-after-1789419298298-poster.webp"
     },
     {
       "id": "2026-09-14__agent-video-water-relevel-after-1789419298298-published",
@@ -1479,6 +1513,23 @@
       "width": 1280,
       "height": 720,
       "poster": "media/derived/2026-09-14__agent-video-water-surface-after-1789422775143-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-water-seeks-drop-after-1789424325207",
+      "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789424325207.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T22:18:45Z",
+      "annotation": "Water Seeks Drop After",
+      "tags": [
+        "water",
+        "video",
+        "seeks",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-seeks-drop-after-1789424325207.mp4",
+      "width": 960,
+      "height": 540,
+      "poster": "media/derived/2026-09-14__agent-video-water-seeks-drop-after-1789424325207-poster.webp"
     },
     {
       "id": "2026-09-14__agent-video-water-seeks-drop-after-1789424325207-published",
