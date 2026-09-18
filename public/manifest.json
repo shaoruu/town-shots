@@ -1185,6 +1185,95 @@
       "poster": "media/derived/butterfly-meadow-reveal-poster.webp"
     },
     {
+      "id": "2026-09-14__agent-video-butterfly-flight-1789403569751-published",
+      "src": "media/2026-09-14__agent-video-butterfly-flight-1789403569751-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T16:32:49Z",
+      "annotation": "Butterfly Flight Published",
+      "tags": [
+        "butterfly",
+        "light",
+        "video",
+        "flight",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-flight-1789403569751-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789403569751-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-flight-1789403944364-published",
+      "src": "media/2026-09-14__agent-video-butterfly-flight-1789403944364-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T16:39:04Z",
+      "annotation": "Butterfly Flight Published",
+      "tags": [
+        "butterfly",
+        "light",
+        "video",
+        "flight",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-flight-1789403944364-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789403944364-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-flight-1789404163705-published",
+      "src": "media/2026-09-14__agent-video-butterfly-flight-1789404163705-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T16:42:43Z",
+      "annotation": "Butterfly Flight Published",
+      "tags": [
+        "butterfly",
+        "light",
+        "video",
+        "flight",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-flight-1789404163705-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789404163705-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-flight-1789404267913-published",
+      "src": "media/2026-09-14__agent-video-butterfly-flight-1789404267913-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T16:44:27Z",
+      "annotation": "Butterfly Flight Published",
+      "tags": [
+        "butterfly",
+        "light",
+        "video",
+        "flight",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-flight-1789404267913-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789404267913-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-water-relevel-after-1789419062209-published",
+      "src": "media/2026-09-14__agent-video-water-relevel-after-1789419062209-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T20:51:02Z",
+      "annotation": "Water Relevel After Published",
+      "tags": [
+        "water",
+        "video",
+        "relevel",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-relevel-after-1789419062209-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-water-relevel-after-1789419062209-published-poster.webp"
+    },
+    {
       "id": "2026-09-14__agent-video-water-relevel-after-1789419201444-published",
       "src": "media/2026-09-14__agent-video-water-relevel-after-1789419201444-published.mp4",
       "type": "video",
@@ -1199,6 +1288,775 @@
       "width": 960,
       "height": 540,
       "poster": "media/derived/2026-09-14__agent-video-water-relevel-after-1789419201444-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-water-relevel-after-1789419298298-published",
+      "src": "media/2026-09-14__agent-video-water-relevel-after-1789419298298-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T20:54:58Z",
+      "annotation": "Water Relevel After Published",
+      "tags": [
+        "water",
+        "video",
+        "relevel",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-relevel-after-1789419298298-published.mp4",
+      "width": 960,
+      "height": 540,
+      "poster": "media/derived/2026-09-14__agent-video-water-relevel-after-1789419298298-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-water-surface-after-1789422775143-published",
+      "src": "media/2026-09-14__agent-video-water-surface-after-1789422775143-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T21:52:55Z",
+      "annotation": "Water Surface After Published",
+      "tags": [
+        "water",
+        "video",
+        "surface",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-surface-after-1789422775143-published.mp4",
+      "width": 1280,
+      "height": 720,
+      "poster": "media/derived/2026-09-14__agent-video-water-surface-after-1789422775143-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-water-seeks-drop-after-1789424325207-published",
+      "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789424325207-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T22:18:45Z",
+      "annotation": "Water Seeks Drop After Published",
+      "tags": [
+        "water",
+        "video",
+        "seeks",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-seeks-drop-after-1789424325207-published.mp4",
+      "width": 960,
+      "height": 540,
+      "poster": "media/derived/2026-09-14__agent-video-water-seeks-drop-after-1789424325207-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-water-seeks-drop-after-1789424439363-published",
+      "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789424439363-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T22:20:39Z",
+      "annotation": "Water Seeks Drop After Published",
+      "tags": [
+        "water",
+        "video",
+        "seeks",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-seeks-drop-after-1789424439363-published.mp4",
+      "width": 960,
+      "height": 540,
+      "poster": "media/derived/2026-09-14__agent-video-water-seeks-drop-after-1789424439363-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-water-seeks-drop-after-1789427003191-published",
+      "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789427003191-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T23:03:23Z",
+      "annotation": "Water Seeks Drop After Published",
+      "tags": [
+        "water",
+        "video",
+        "seeks",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-seeks-drop-after-1789427003191-published.mp4",
+      "width": 960,
+      "height": 540,
+      "poster": "media/derived/2026-09-14__agent-video-water-seeks-drop-after-1789427003191-published-poster.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789685011247_doors-closed-day",
+      "src": "media/2026-09-17__agent-1789685011247_doors-closed-day.png",
+      "type": "image",
+      "capturedAt": "2026-09-17T22:43:31Z",
+      "annotation": "Doors Closed Day",
+      "tags": [
+        "door",
+        "doors",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789685011247_doors-closed-day.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-17__agent-1789685011247_doors-closed-day.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789685028963_doors-closed-day",
+      "src": "media/2026-09-17__agent-1789685028963_doors-closed-day.png",
+      "type": "image",
+      "capturedAt": "2026-09-17T22:43:48Z",
+      "annotation": "Doors Closed Day",
+      "tags": [
+        "door",
+        "doors",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789685028963_doors-closed-day.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-17__agent-1789685028963_doors-closed-day.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789686809481_door-a-night-closed",
+      "src": "media/2026-09-17__agent-1789686809481_door-a-night-closed.png",
+      "type": "image",
+      "capturedAt": "2026-09-17T23:13:29Z",
+      "annotation": "Door A Night Closed",
+      "tags": [
+        "night",
+        "door",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789686809481_door-a-night-closed.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-17__agent-1789686809481_door-a-night-closed.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690721457_flora-flowers",
+      "src": "media/2026-09-17__agent-1789690721457_flora-flowers.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:18:41Z",
+      "annotation": "Flora Flowers",
+      "tags": [
+        "flora",
+        "flower",
+        "flow",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690721457_flora-flowers.png",
+      "width": 1600,
+      "height": 700,
+      "thumb": "media/derived/2026-09-17__agent-1789690721457_flora-flowers.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690781482_flora-flowers-0",
+      "src": "media/2026-09-17__agent-1789690781482_flora-flowers-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:19:41Z",
+      "annotation": "Flora Flowers",
+      "tags": [
+        "flora",
+        "flower",
+        "flow",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690781482_flora-flowers-0.png",
+      "width": 1600,
+      "height": 800,
+      "thumb": "media/derived/2026-09-17__agent-1789690781482_flora-flowers-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690820875_flora-flowers-0",
+      "src": "media/2026-09-17__agent-1789690820875_flora-flowers-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:20:20Z",
+      "annotation": "Flora Flowers",
+      "tags": [
+        "flora",
+        "flower",
+        "flow",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690820875_flora-flowers-0.png",
+      "width": 1920,
+      "height": 720,
+      "thumb": "media/derived/2026-09-17__agent-1789690820875_flora-flowers-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690843753_flora-flowers-close",
+      "src": "media/2026-09-17__agent-1789690843753_flora-flowers-close.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:20:43Z",
+      "annotation": "Flora Flowers Close",
+      "tags": [
+        "flora",
+        "flower",
+        "flow",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690843753_flora-flowers-close.png",
+      "width": 1600,
+      "height": 800,
+      "thumb": "media/derived/2026-09-17__agent-1789690843753_flora-flowers-close.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690880222_flora-flowers-close",
+      "src": "media/2026-09-17__agent-1789690880222_flora-flowers-close.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:21:20Z",
+      "annotation": "Flora Flowers Close",
+      "tags": [
+        "flora",
+        "flower",
+        "flow",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690880222_flora-flowers-close.png",
+      "width": 1600,
+      "height": 800,
+      "thumb": "media/derived/2026-09-17__agent-1789690880222_flora-flowers-close.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690909884_flora-canopy-0",
+      "src": "media/2026-09-17__agent-1789690909884_flora-canopy-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:21:49Z",
+      "annotation": "Flora Canopy",
+      "tags": [
+        "flora",
+        "canopy",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690909884_flora-canopy-0.png",
+      "width": 1600,
+      "height": 800,
+      "thumb": "media/derived/2026-09-17__agent-1789690909884_flora-canopy-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690910815_flora-fungi-1",
+      "src": "media/2026-09-17__agent-1789690910815_flora-fungi-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:21:50Z",
+      "annotation": "Flora Fungi",
+      "tags": [
+        "flora",
+        "fungi",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690910815_flora-fungi-1.png",
+      "width": 1600,
+      "height": 800,
+      "thumb": "media/derived/2026-09-17__agent-1789690910815_flora-fungi-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690936056_flora-brackets",
+      "src": "media/2026-09-17__agent-1789690936056_flora-brackets.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:22:16Z",
+      "annotation": "Flora Brackets",
+      "tags": [
+        "flora",
+        "brackets",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690936056_flora-brackets.png",
+      "width": 1600,
+      "height": 800,
+      "thumb": "media/derived/2026-09-17__agent-1789690936056_flora-brackets.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690936989_flora-canopy-close",
+      "src": "media/2026-09-17__agent-1789690936989_flora-canopy-close.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:22:16Z",
+      "annotation": "Flora Canopy Close",
+      "tags": [
+        "flora",
+        "canopy",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690936989_flora-canopy-close.png",
+      "width": 1600,
+      "height": 800,
+      "thumb": "media/derived/2026-09-17__agent-1789690936989_flora-canopy-close.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690957869_flora-plates",
+      "src": "media/2026-09-17__agent-1789690957869_flora-plates.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:22:37Z",
+      "annotation": "Flora Plates",
+      "tags": [
+        "flora",
+        "plates",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690957869_flora-plates.png",
+      "width": 1600,
+      "height": 800,
+      "thumb": "media/derived/2026-09-17__agent-1789690957869_flora-plates.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690982057_flora-flowers-0",
+      "src": "media/2026-09-17__agent-1789690982057_flora-flowers-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:02Z",
+      "annotation": "Flora Flowers",
+      "tags": [
+        "flora",
+        "flower",
+        "flow",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690982057_flora-flowers-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690982057_flora-flowers-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690983007_flora-flowers-1",
+      "src": "media/2026-09-17__agent-1789690983007_flora-flowers-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:03Z",
+      "annotation": "Flora Flowers",
+      "tags": [
+        "flora",
+        "flower",
+        "flow",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690983007_flora-flowers-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690983007_flora-flowers-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690983918_flora-flowers-2",
+      "src": "media/2026-09-17__agent-1789690983918_flora-flowers-2.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:03Z",
+      "annotation": "Flora Flowers",
+      "tags": [
+        "flora",
+        "flower",
+        "flow",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690983918_flora-flowers-2.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690983918_flora-flowers-2.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690984867_flora-tall-0",
+      "src": "media/2026-09-17__agent-1789690984867_flora-tall-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:04Z",
+      "annotation": "Flora Tall",
+      "tags": [
+        "flora",
+        "tall",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690984867_flora-tall-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690984867_flora-tall-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690985823_flora-tall-1",
+      "src": "media/2026-09-17__agent-1789690985823_flora-tall-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:05Z",
+      "annotation": "Flora Tall",
+      "tags": [
+        "flora",
+        "tall",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690985823_flora-tall-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690985823_flora-tall-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690986763_flora-grasses-0",
+      "src": "media/2026-09-17__agent-1789690986763_flora-grasses-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:06Z",
+      "annotation": "Flora Grasses",
+      "tags": [
+        "flora",
+        "grasses",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690986763_flora-grasses-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690986763_flora-grasses-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690987700_flora-grasses-1",
+      "src": "media/2026-09-17__agent-1789690987700_flora-grasses-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:07Z",
+      "annotation": "Flora Grasses",
+      "tags": [
+        "flora",
+        "grasses",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690987700_flora-grasses-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690987700_flora-grasses-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690988636_flora-shrubs-0",
+      "src": "media/2026-09-17__agent-1789690988636_flora-shrubs-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:08Z",
+      "annotation": "Flora Shrubs",
+      "tags": [
+        "flora",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690988636_flora-shrubs-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690988636_flora-shrubs-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690989590_flora-shrubs-1",
+      "src": "media/2026-09-17__agent-1789690989590_flora-shrubs-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:09Z",
+      "annotation": "Flora Shrubs",
+      "tags": [
+        "flora",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690989590_flora-shrubs-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690989590_flora-shrubs-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690990549_flora-dry-0",
+      "src": "media/2026-09-17__agent-1789690990549_flora-dry-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:10Z",
+      "annotation": "Flora Dry",
+      "tags": [
+        "flora",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690990549_flora-dry-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690990549_flora-dry-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690991480_flora-dry-1",
+      "src": "media/2026-09-17__agent-1789690991480_flora-dry-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:11Z",
+      "annotation": "Flora Dry",
+      "tags": [
+        "flora",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690991480_flora-dry-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690991480_flora-dry-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690992442_flora-tropical-0",
+      "src": "media/2026-09-17__agent-1789690992442_flora-tropical-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:12Z",
+      "annotation": "Flora Tropical",
+      "tags": [
+        "flora",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690992442_flora-tropical-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690992442_flora-tropical-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690993392_flora-tropical-1",
+      "src": "media/2026-09-17__agent-1789690993392_flora-tropical-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:13Z",
+      "annotation": "Flora Tropical",
+      "tags": [
+        "flora",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690993392_flora-tropical-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690993392_flora-tropical-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690994351_flora-alpine-0",
+      "src": "media/2026-09-17__agent-1789690994351_flora-alpine-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:14Z",
+      "annotation": "Flora Alpine",
+      "tags": [
+        "flora",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690994351_flora-alpine-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690994351_flora-alpine-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690995352_flora-alpine-1",
+      "src": "media/2026-09-17__agent-1789690995352_flora-alpine-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:15Z",
+      "annotation": "Flora Alpine",
+      "tags": [
+        "flora",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690995352_flora-alpine-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690995352_flora-alpine-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690996291_flora-aquatic-0",
+      "src": "media/2026-09-17__agent-1789690996291_flora-aquatic-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:16Z",
+      "annotation": "Flora Aquatic",
+      "tags": [
+        "flora",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690996291_flora-aquatic-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690996291_flora-aquatic-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690997227_flora-aquatic-1",
+      "src": "media/2026-09-17__agent-1789690997227_flora-aquatic-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:17Z",
+      "annotation": "Flora Aquatic",
+      "tags": [
+        "flora",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690997227_flora-aquatic-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690997227_flora-aquatic-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690998166_flora-fungi-0",
+      "src": "media/2026-09-17__agent-1789690998166_flora-fungi-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:18Z",
+      "annotation": "Flora Fungi",
+      "tags": [
+        "flora",
+        "fungi",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690998166_flora-fungi-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690998166_flora-fungi-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789690999123_flora-fungi-1",
+      "src": "media/2026-09-17__agent-1789690999123_flora-fungi-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:19Z",
+      "annotation": "Flora Fungi",
+      "tags": [
+        "flora",
+        "fungi",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789690999123_flora-fungi-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789690999123_flora-fungi-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691000088_flora-fruit-0",
+      "src": "media/2026-09-17__agent-1789691000088_flora-fruit-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:20Z",
+      "annotation": "Flora Fruit",
+      "tags": [
+        "flora",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691000088_flora-fruit-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691000088_flora-fruit-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691001046_flora-fruit-1",
+      "src": "media/2026-09-17__agent-1789691001046_flora-fruit-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:21Z",
+      "annotation": "Flora Fruit",
+      "tags": [
+        "flora",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691001046_flora-fruit-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691001046_flora-fruit-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691002004_flora-canopy-0",
+      "src": "media/2026-09-17__agent-1789691002004_flora-canopy-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:22Z",
+      "annotation": "Flora Canopy",
+      "tags": [
+        "flora",
+        "canopy",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691002004_flora-canopy-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691002004_flora-canopy-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691002961_flora-canopy-1",
+      "src": "media/2026-09-17__agent-1789691002961_flora-canopy-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:22Z",
+      "annotation": "Flora Canopy",
+      "tags": [
+        "flora",
+        "canopy",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691002961_flora-canopy-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691002961_flora-canopy-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691029862_flora-flowers-0",
+      "src": "media/2026-09-17__agent-1789691029862_flora-flowers-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:49Z",
+      "annotation": "Flora Flowers",
+      "tags": [
+        "flora",
+        "flower",
+        "flow",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691029862_flora-flowers-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691029862_flora-flowers-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691030820_flora-flowers-1",
+      "src": "media/2026-09-17__agent-1789691030820_flora-flowers-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:50Z",
+      "annotation": "Flora Flowers",
+      "tags": [
+        "flora",
+        "flower",
+        "flow",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691030820_flora-flowers-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691030820_flora-flowers-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691031747_flora-flowers-2",
+      "src": "media/2026-09-17__agent-1789691031747_flora-flowers-2.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:51Z",
+      "annotation": "Flora Flowers",
+      "tags": [
+        "flora",
+        "flower",
+        "flow",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691031747_flora-flowers-2.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691031747_flora-flowers-2.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691032814_flora-tall-0",
+      "src": "media/2026-09-17__agent-1789691032814_flora-tall-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:52Z",
+      "annotation": "Flora Tall",
+      "tags": [
+        "flora",
+        "tall",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691032814_flora-tall-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691032814_flora-tall-0.webp"
+    },
+    {
+      "id": "2026-09-18__agent-1789715364279_water-pane-visible",
+      "src": "media/2026-09-18__agent-1789715364279_water-pane-visible.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T07:09:24Z",
+      "annotation": "Water Pane Visible",
+      "tags": [
+        "water",
+        "2026-09-18"
+      ],
+      "sourcePath": "sync://laptop/agent-1789715364279_water-pane-visible.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-18__agent-1789715364279_water-pane-visible.webp"
+    },
+    {
+      "id": "2026-09-18__agent-1789715679702_water-pane-visible",
+      "src": "media/2026-09-18__agent-1789715679702_water-pane-visible.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T07:14:39Z",
+      "annotation": "Water Pane Visible",
+      "tags": [
+        "water",
+        "2026-09-18"
+      ],
+      "sourcePath": "sync://laptop/agent-1789715679702_water-pane-visible.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-18__agent-1789715679702_water-pane-visible.webp"
+    },
+    {
+      "id": "2026-09-18__agent-1789720362518_caster-hooked-player",
+      "src": "media/2026-09-18__agent-1789720362518_caster-hooked-player.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T08:32:42Z",
+      "annotation": "Caster Hooked Player",
+      "tags": [
+        "caster",
+        "2026-09-18"
+      ],
+      "sourcePath": "sync://laptop/agent-1789720362518_caster-hooked-player.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-18__agent-1789720362518_caster-hooked-player.webp"
     },
     {
       "id": "caster-hooked-player-2026-09-18",
@@ -2869,6 +3727,36 @@
       "width": 2480,
       "height": 1396,
       "thumb": "media/derived/2026-09-13__butterfly-clip-sheet.webp"
+    },
+    {
+      "id": "2026-09-18__caster-view-hooked",
+      "src": "media/2026-09-18__caster-view-hooked.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T19:51:31Z",
+      "annotation": "Caster View Hooked",
+      "tags": [
+        "caster",
+        "2026-09-18"
+      ],
+      "sourcePath": "sync://laptop/caster-view-hooked.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-18__caster-view-hooked.webp"
+    },
+    {
+      "id": "2026-09-18__caster-view-leashed",
+      "src": "media/2026-09-18__caster-view-leashed.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T19:51:31Z",
+      "annotation": "Caster View Leashed",
+      "tags": [
+        "caster",
+        "2026-09-18"
+      ],
+      "sourcePath": "sync://laptop/caster-view-leashed.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-18__caster-view-leashed.webp"
     }
   ]
 }
