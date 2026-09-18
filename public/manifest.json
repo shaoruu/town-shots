@@ -1549,6 +1549,23 @@
       "poster": "media/derived/2026-09-14__agent-video-water-seeks-drop-after-1789424325207-published-poster.webp"
     },
     {
+      "id": "2026-09-14__agent-video-water-seeks-drop-after-1789424439363",
+      "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789424439363.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T22:20:39Z",
+      "annotation": "Water Seeks Drop After",
+      "tags": [
+        "water",
+        "video",
+        "seeks",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-seeks-drop-after-1789424439363.mp4",
+      "width": 960,
+      "height": 540,
+      "poster": "media/derived/2026-09-14__agent-video-water-seeks-drop-after-1789424439363-poster.webp"
+    },
+    {
       "id": "2026-09-14__agent-video-water-seeks-drop-after-1789424439363-published",
       "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789424439363-published.mp4",
       "type": "video",
@@ -1564,6 +1581,23 @@
       "width": 960,
       "height": 540,
       "poster": "media/derived/2026-09-14__agent-video-water-seeks-drop-after-1789424439363-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-water-seeks-drop-after-1789427003191",
+      "src": "media/2026-09-14__agent-video-water-seeks-drop-after-1789427003191.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T23:03:23Z",
+      "annotation": "Water Seeks Drop After",
+      "tags": [
+        "water",
+        "video",
+        "seeks",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-seeks-drop-after-1789427003191.mp4",
+      "width": 960,
+      "height": 540,
+      "poster": "media/derived/2026-09-14__agent-video-water-seeks-drop-after-1789427003191-poster.webp"
     },
     {
       "id": "2026-09-14__agent-video-water-seeks-drop-after-1789427003191-published",
