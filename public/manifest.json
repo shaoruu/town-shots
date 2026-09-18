@@ -5,51 +5,19 @@
       "src": "media/butterfly-meadow-reveal.mp4",
       "type": "video",
       "capturedAt": "2026-09-14T05:22:36.000Z",
-      "annotation": "Butterfly meadow reveal \u2014 published highlight video",
-      "tags": [
-        "highlights",
-        "butterfly",
-        "meadow",
-        "video",
-        "fauna",
-        "2026-09-13"
-      ],
+      "annotation": "Butterfly meadow reveal",
+      "tags": ["highlights", "butterfly", "meadow", "video", "fauna", "2026-09-13"],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/butterfly-meadow-reveal.mp4",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "id": "butterfly-clip-sheet",
-      "src": "media/butterfly-clip-sheet.png",
-      "type": "image",
-      "capturedAt": "2026-09-14T05:22:23.000Z",
-      "annotation": "Butterfly meadow clip sheet \u2014 4\u00d74 frames, swallowtail on sunflower then flying off",
-      "tags": [
-        "highlights",
-        "butterfly",
-        "meadow",
-        "clip-sheet",
-        "fauna",
-        "2026-09-13"
-      ],
-      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/butterfly-clip-sheet.png",
-      "width": 2480,
-      "height": 1396
     },
     {
       "id": "still-paintedlady-poppy",
       "src": "media/still-paintedlady-poppy.png",
       "type": "image",
       "capturedAt": "2026-09-14T03:54:32.000Z",
-      "annotation": "Painted lady on poppy \u2014 still",
-      "tags": [
-        "butterfly",
-        "painted-lady",
-        "poppy",
-        "fauna",
-        "meadow",
-        "2026-09-13"
-      ],
+      "annotation": "Painted lady on poppy",
+      "tags": ["butterfly", "painted-lady", "poppy", "fauna", "meadow", "2026-09-13"],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/agent-1789358072106_still-paintedlady-poppy.png",
       "width": 2560,
       "height": 1600
@@ -59,49 +27,19 @@
       "src": "media/still-swallowtail-poppy.png",
       "type": "image",
       "capturedAt": "2026-09-14T03:54:31.000Z",
-      "annotation": "Swallowtail on poppy \u2014 still",
-      "tags": [
-        "butterfly",
-        "swallowtail",
-        "poppy",
-        "fauna",
-        "meadow",
-        "2026-09-13"
-      ],
+      "annotation": "Swallowtail on poppy",
+      "tags": ["butterfly", "swallowtail", "poppy", "fauna", "meadow", "2026-09-13"],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/agent-1789358071021_still-swallowtail-poppy.png",
       "width": 2560,
       "height": 1600
-    },
-    {
-      "id": "butterfly-film-close",
-      "src": "media/butterfly-film-close.png",
-      "type": "image",
-      "capturedAt": "2026-09-14T03:51:07.000Z",
-      "annotation": "Butterfly film close \u2014 meadow capture",
-      "tags": [
-        "butterfly",
-        "meadow",
-        "film",
-        "fauna",
-        "2026-09-13"
-      ],
-      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/photo-1789357867969_butterfly-film-close.png",
-      "width": 1280,
-      "height": 720
     },
     {
       "id": "butterfly-film-open",
       "src": "media/butterfly-film-open.png",
       "type": "image",
       "capturedAt": "2026-09-14T03:51:07.000Z",
-      "annotation": "Butterfly film open \u2014 meadow capture",
-      "tags": [
-        "butterfly",
-        "meadow",
-        "film",
-        "fauna",
-        "2026-09-13"
-      ],
+      "annotation": "Wings open over the sunflower",
+      "tags": ["butterfly", "meadow", "film", "fauna", "2026-09-13"],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/photo-1789357867806_butterfly-film-open.png",
       "width": 1280,
       "height": 720
@@ -111,15 +49,8 @@
       "src": "media/fl3-pool.png",
       "type": "image",
       "capturedAt": "2026-09-14T02:03:38.000Z",
-      "annotation": "Water flow test \u2014 pool (fl3)",
-      "tags": [
-        "highlights",
-        "water",
-        "pool",
-        "flow",
-        "fl3",
-        "2026-09-13"
-      ],
+      "annotation": "Water flow, pool",
+      "tags": ["highlights", "water", "pool", "flow", "fl3", "2026-09-13"],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351418980_fl3-pool.png",
       "width": 1280,
       "height": 900
@@ -129,34 +60,9 @@
       "src": "media/fl3-cascade-34.png",
       "type": "image",
       "capturedAt": "2026-09-14T02:03:33.000Z",
-      "annotation": "Water flow test \u2014 cascade 3/4 (fl3)",
-      "tags": [
-        "highlights",
-        "water",
-        "cascade",
-        "flow",
-        "fl3",
-        "2026-09-13"
-      ],
+      "annotation": "Water flow, cascade",
+      "tags": ["highlights", "water", "cascade", "flow", "fl3", "2026-09-13"],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351413009_fl3-cascade-34.png",
-      "width": 1280,
-      "height": 900
-    },
-    {
-      "id": "fl3-fan",
-      "src": "media/fl3-fan.png",
-      "type": "image",
-      "capturedAt": "2026-09-14T02:03:29.000Z",
-      "annotation": "Water flow test \u2014 fan (fl3)",
-      "tags": [
-        "highlights",
-        "water",
-        "fan",
-        "flow",
-        "fl3",
-        "2026-09-13"
-      ],
-      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351409038_fl3-fan.png",
       "width": 1280,
       "height": 900
     },
@@ -165,15 +71,8 @@
       "src": "media/fl3-waterfall.png",
       "type": "image",
       "capturedAt": "2026-09-14T02:03:27.000Z",
-      "annotation": "Water flow test \u2014 waterfall (fl3)",
-      "tags": [
-        "highlights",
-        "water",
-        "waterfall",
-        "flow",
-        "fl3",
-        "2026-09-13"
-      ],
+      "annotation": "Water flow, waterfall",
+      "tags": ["highlights", "water", "waterfall", "flow", "fl3", "2026-09-13"],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351407031_fl3-waterfall.png",
       "width": 1280,
       "height": 900
