@@ -1203,6 +1203,23 @@
       "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789403569751-published-poster.webp"
     },
     {
+      "id": "2026-09-14__agent-video-butterfly-meadow-1789403902211-published",
+      "src": "media/2026-09-14__agent-video-butterfly-meadow-1789403902211-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T16:38:22Z",
+      "annotation": "Butterfly Meadow Published",
+      "tags": [
+        "meadow",
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-meadow-1789403902211-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-meadow-1789403902211-published-poster.webp"
+    },
+    {
       "id": "2026-09-14__agent-video-butterfly-flight-1789403944364-published",
       "src": "media/2026-09-14__agent-video-butterfly-flight-1789403944364-published.mp4",
       "type": "video",
@@ -1257,6 +1274,23 @@
       "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789404267913-published-poster.webp"
     },
     {
+      "id": "2026-09-14__agent-video-butterfly-meadow-1789405356753-published",
+      "src": "media/2026-09-14__agent-video-butterfly-meadow-1789405356753-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T17:02:36Z",
+      "annotation": "Butterfly Meadow Published",
+      "tags": [
+        "meadow",
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-meadow-1789405356753-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-meadow-1789405356753-published-poster.webp"
+    },
+    {
       "id": "2026-09-14__agent-video-butterfly-flight-1789405391434-published",
       "src": "media/2026-09-14__agent-video-butterfly-flight-1789405391434-published.mp4",
       "type": "video",
@@ -1273,6 +1307,23 @@
       "width": 1920,
       "height": 1080,
       "poster": "media/derived/2026-09-14__agent-video-butterfly-flight-1789405391434-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-meadow-1789409464066-published",
+      "src": "media/2026-09-14__agent-video-butterfly-meadow-1789409464066-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T18:11:04Z",
+      "annotation": "Butterfly Meadow Published",
+      "tags": [
+        "meadow",
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-meadow-1789409464066-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-meadow-1789409464066-published-poster.webp"
     },
     {
       "id": "2026-09-14__agent-video-butterfly-flight-1789409498350-published",
@@ -1447,6 +1498,22 @@
       "poster": "media/derived/2026-09-14__agent-video-water-seeks-drop-after-1789427003191-published-poster.webp"
     },
     {
+      "id": "2026-09-14__agent-video-butterfly-landing-1789449235009-published",
+      "src": "media/2026-09-14__agent-video-butterfly-landing-1789449235009-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T05:13:55Z",
+      "annotation": "Butterfly Landing Published",
+      "tags": [
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-landing-1789449235009-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-landing-1789449235009-published-poster.webp"
+    },
+    {
       "id": "2026-09-14__agent-video-butterfly-landing-1789449235009-published-slow",
       "src": "media/2026-09-14__agent-video-butterfly-landing-1789449235009-published-slow.mp4",
       "type": "video",
@@ -1461,6 +1528,102 @@
       "width": 1920,
       "height": 1080,
       "poster": "media/derived/2026-09-14__agent-video-butterfly-landing-1789449235009-published-slow-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-landing-1789449743016-published",
+      "src": "media/2026-09-14__agent-video-butterfly-landing-1789449743016-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T05:22:23Z",
+      "annotation": "Butterfly Landing Published",
+      "tags": [
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-landing-1789449743016-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-landing-1789449743016-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-landing-1789449743016-published-slow",
+      "src": "media/2026-09-14__agent-video-butterfly-landing-1789449743016-published-slow.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T05:22:23Z",
+      "annotation": "Butterfly Landing Published Slow",
+      "tags": [
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-landing-1789449743016-published-slow.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-landing-1789449743016-published-slow-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-landing-1789450106812-published",
+      "src": "media/2026-09-14__agent-video-butterfly-landing-1789450106812-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T05:28:26Z",
+      "annotation": "Butterfly Landing Published",
+      "tags": [
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-landing-1789450106812-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-landing-1789450106812-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-landing-1789450106812-published-slow",
+      "src": "media/2026-09-14__agent-video-butterfly-landing-1789450106812-published-slow.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T05:28:26Z",
+      "annotation": "Butterfly Landing Published Slow",
+      "tags": [
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-landing-1789450106812-published-slow.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-landing-1789450106812-published-slow-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-landing-1789450195160-published",
+      "src": "media/2026-09-14__agent-video-butterfly-landing-1789450195160-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T05:29:55Z",
+      "annotation": "Butterfly Landing Published",
+      "tags": [
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-landing-1789450195160-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-landing-1789450195160-published-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-butterfly-landing-1789450195160-published-slow",
+      "src": "media/2026-09-14__agent-video-butterfly-landing-1789450195160-published-slow.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T05:29:55Z",
+      "annotation": "Butterfly Landing Published Slow",
+      "tags": [
+        "butterfly",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-landing-1789450195160-published-slow.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-14__agent-video-butterfly-landing-1789450195160-published-slow-poster.webp"
     },
     {
       "id": "2026-09-17__agent-1789685011247_doors-closed-day",
