@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { MediaItem } from './types';
 import { formatCaptureTimeShort, resolveMediaSrc } from './utils';
 import './MediaTile.css';
@@ -12,6 +12,7 @@ interface MediaTileProps {
 export default function MediaTile({ item, eager, onClick }: MediaTileProps) {
   const [loaded, setLoaded] = useState(false);
   const [playing, setPlaying] = useState(false);
+  const figureRef = useRef<HTMLElement>(null);
   const videoRef = useRef<HTMLVideoElement>(null);
   const isVideo = item.type === 'video';
   const src = resolveMediaSrc(item.src);
@@ -20,7 +21,9 @@ export default function MediaTile({ item, eager, onClick }: MediaTileProps) {
   const alt = item.annotation || 'Town capture';
 
   const playPreview = () => {
-    videoRef.current?.play().catch(() => {});
+    const video = videoRef.current;
+    if (!video || !video.paused) return;
+    video.play().catch(() => {});
   };
 
   const stopPreview = () => {
@@ -31,8 +34,15 @@ export default function MediaTile({ item, eager, onClick }: MediaTileProps) {
     setPlaying(false);
   };
 
+  // A page load with the cursor already parked over the tile fires no mouseenter,
+  // but :hover is still resolved after layout.
+  useEffect(() => {
+    if (isVideo && loaded && figureRef.current?.matches(':hover')) playPreview();
+  }, [isVideo, loaded]);
+
   return (
     <figure
+      ref={figureRef}
       className={`media-tile${hasRatio ? ' has-ratio' : ''}${loaded ? ' is-loaded' : ''}${playing ? ' is-playing' : ''}`}
       style={hasRatio ? { aspectRatio: `${item.width} / ${item.height}` } : undefined}
       role="button"
@@ -46,6 +56,7 @@ export default function MediaTile({ item, eager, onClick }: MediaTileProps) {
         }
       }}
       onMouseEnter={isVideo ? playPreview : undefined}
+      onMouseMove={isVideo ? playPreview : undefined}
       onMouseLeave={isVideo ? stopPreview : undefined}
     >
       {isVideo ? (
