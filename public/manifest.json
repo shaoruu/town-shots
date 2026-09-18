@@ -1761,6 +1761,102 @@
       "poster": "media/derived/2026-09-14__agent-video-butterfly-landing-1789450195160-published-slow-poster.webp"
     },
     {
+      "id": "2026-09-15__agent-video-terrain-fade-1789507507340",
+      "src": "media/2026-09-15__agent-video-terrain-fade-1789507507340.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T21:25:07Z",
+      "annotation": "Terrain Fade",
+      "tags": [
+        "terrain",
+        "video",
+        "2026-09-15"
+      ],
+      "sourcePath": "sync://laptop/agent-video-terrain-fade-1789507507340.mp4",
+      "width": 1280,
+      "height": 720,
+      "poster": "media/derived/2026-09-15__agent-video-terrain-fade-1789507507340-poster.webp"
+    },
+    {
+      "id": "2026-09-15__agent-video-terrain-fade-1789507699839",
+      "src": "media/2026-09-15__agent-video-terrain-fade-1789507699839.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T21:28:19Z",
+      "annotation": "Terrain Fade",
+      "tags": [
+        "terrain",
+        "video",
+        "2026-09-15"
+      ],
+      "sourcePath": "sync://laptop/agent-video-terrain-fade-1789507699839.mp4",
+      "width": 1280,
+      "height": 720,
+      "poster": "media/derived/2026-09-15__agent-video-terrain-fade-1789507699839-poster.webp"
+    },
+    {
+      "id": "2026-09-15__agent-video-terrain-fade-islands-1789507745740",
+      "src": "media/2026-09-15__agent-video-terrain-fade-islands-1789507745740.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T21:29:05Z",
+      "annotation": "Terrain Fade Islands",
+      "tags": [
+        "terrain",
+        "video",
+        "2026-09-15"
+      ],
+      "sourcePath": "sync://laptop/agent-video-terrain-fade-islands-1789507745740.mp4",
+      "width": 1280,
+      "height": 720,
+      "poster": "media/derived/2026-09-15__agent-video-terrain-fade-islands-1789507745740-poster.webp"
+    },
+    {
+      "id": "2026-09-15__agent-video-terrain-fade-final-1789507835634",
+      "src": "media/2026-09-15__agent-video-terrain-fade-final-1789507835634.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-15T21:30:35Z",
+      "annotation": "Terrain Fade Final",
+      "tags": [
+        "terrain",
+        "video",
+        "2026-09-15"
+      ],
+      "sourcePath": "sync://laptop/agent-video-terrain-fade-final-1789507835634.mp4",
+      "width": 1280,
+      "height": 720,
+      "poster": "media/derived/2026-09-15__agent-video-terrain-fade-final-1789507835634-poster.webp"
+    },
+    {
+      "id": "2026-09-16__agent-video-bees-buzzing-1789545476627-published",
+      "src": "media/2026-09-16__agent-video-bees-buzzing-1789545476627-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-16T07:57:56Z",
+      "annotation": "Bees Buzzing Published",
+      "tags": [
+        "bee",
+        "video",
+        "2026-09-16"
+      ],
+      "sourcePath": "sync://laptop/agent-video-bees-buzzing-1789545476627-published.mp4",
+      "width": 1280,
+      "height": 720,
+      "poster": "media/derived/2026-09-16__agent-video-bees-buzzing-1789545476627-published-poster.webp"
+    },
+    {
+      "id": "2026-09-16__agent-video-bee-lands-and-drinks-1789545557516-published",
+      "src": "media/2026-09-16__agent-video-bee-lands-and-drinks-1789545557516-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-16T07:59:17Z",
+      "annotation": "Bee Lands And Drinks Published",
+      "tags": [
+        "bee",
+        "video",
+        "2026-09-16"
+      ],
+      "sourcePath": "sync://laptop/agent-video-bee-lands-and-drinks-1789545557516-published.mp4",
+      "width": 1280,
+      "height": 720,
+      "poster": "media/derived/2026-09-16__agent-video-bee-lands-and-drinks-1789545557516-published-poster.webp"
+    },
+    {
       "id": "2026-09-17__agent-1789685011247_doors-closed-day",
       "src": "media/2026-09-17__agent-1789685011247_doors-closed-day.png",
       "type": "image",
@@ -4143,6 +4239,35 @@
       "width": 1280,
       "height": 720,
       "thumb": "media/derived/2026-09-18__caster-view-leashed.webp"
+    },
+    {
+      "id": "2026-09-18__caster-view-reeled",
+      "src": "media/2026-09-18__caster-view-reeled.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T19:56:52Z",
+      "annotation": "Caster View Reeled",
+      "tags": [
+        "caster",
+        "2026-09-18"
+      ],
+      "sourcePath": "sync://laptop/caster-view-reeled.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-18__caster-view-reeled.webp"
+    },
+    {
+      "id": "2026-09-18__target-view-hooked",
+      "src": "media/2026-09-18__target-view-hooked.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T19:56:52Z",
+      "annotation": "Target View Hooked",
+      "tags": [
+        "2026-09-18"
+      ],
+      "sourcePath": "sync://laptop/target-view-hooked.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-18__target-view-hooked.webp"
     }
   ]
 }
