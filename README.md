@@ -1,14 +1,27 @@
 # town-shots
 
-Beautiful static gallery for Town / Voxelize screenshots and videos. Deployed via GitHub Pages at [https://shaoruu.github.io/town-shots/](https://shaoruu.github.io/town-shots/)
+Quiet photo wall for Town / Voxelize captures. Deployed via GitHub Pages at [https://shaoruu.github.io/town-shots/](https://shaoruu.github.io/town-shots/)
 
-## Gallery Features
+## Design
 
-- **Minimal UI**: No header clutter—just the media
-- **Masonry grid**: Pinterest-style responsive layout
-- **Hover overlays**: Quick details with capture time (Pacific), annotation, and tags
-- **Full-screen modal**: Click any tile to open lightbox with pan/drag, zoom (scroll/pinch), and keyboard navigation (←/→/Esc)
-- **Video support**: Videos play in the modal
+The images are the site. Warm plaster ground, flush edge-to-edge masonry with 10px seams, zero radius, no shadows, one quiet sans.
+
+- **Wall**: shortest-column masonry laid out from manifest `width`/`height`, so tiles reserve their exact footprint before the image arrives (no layout shift, no empty first paint)
+- **Tiles**: always-visible small capture time (Pacific) bottom-left on warm paper; the annotation unfolds beside it on hover. Neighbours dim softly. Video tiles have no badge — they play silently on hover
+- **Lightbox**: deep charcoal scrim, hairline close/chevrons, scroll-wheel zoom anchored to the cursor, drag to pan, pinch on touch, double-click to zoom. Esc / click outside / `←` `→`. Videos play inline, muted-first
+- **Type**: system sans only, 10–11px uppercase with tracking for labels; ink `#1C1A17`, muted `#6E6860`, ground `#F0EDE6`
+
+## Quality bar (sync job)
+
+Fewer excellent tiles beat a junk pile. When syncing from the screenshots folder, apply these filters before writing to `public/manifest.json`:
+
+- **Min resolution**: images ≥ 1280×720 (prefer ≥ 1920 on the long edge); videos ≥ 1080p
+- **Skip** anything matching `*-before*`, `*-debug*`, `*clip-sheet*` / contact sheets, and tiny crops (< 800px on either edge)
+- **Burst frames**: keep one representative frame per burst (same subject, timestamps within ~2s), not the whole sequence
+- **Prefer** files from a `highlights/` folder when both a raw and a curated version exist
+- **Composition sanity**: drop shots where the subject is indistinguishable at thumbnail size (empty terrain, far-off subjects, UI overlays). When in doubt, leave it out
+
+The Sep 13 seed batch was pruned by hand under these rules (contact sheet, an unfocused wide, an empty flow-test plain).
 
 ## Data Model
 
@@ -52,7 +65,7 @@ public/
 - `capturedAt` (required): ISO 8601 timestamp (displayed in Pacific time)
 - `annotation` (optional): Short description
 - `tags` (optional): Array of tag strings
-- `width`, `height` (optional): Dimensions in pixels
+- `width`, `height` (recommended): Dimensions in pixels — drives masonry placement and reserves tile space before load
 - `sourcePath` (optional): Original file path for reference
 
 ## Syncing Media
@@ -76,7 +89,7 @@ npm run preview   # Preview production build
 
 ## Deployment
 
-GitHub Pages is configured via Actions (`.github/workflows/deploy.yml`). Every push to `main` triggers a build and deployment. The site base path is `/town-shots/`.
+GitHub Pages is configured via Actions (`.github/workflows/deploy.yml`). Every push to `main` triggers a build and deployment. The site base path is `/town-shots/` (`vite.config.ts`); the manifest fetch and every media `src` resolve through `import.meta.env.BASE_URL`, so the same build works in local dev at `/` and on Pages.
 
 To enable GitHub Pages:
 1. Go to repository Settings → Pages
