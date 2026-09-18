@@ -36,6 +36,18 @@
   opacity: 1;
 }
 
+/* With a poster, the video sits on top and only shows once frames are flowing. */
+.media-tile .media-tile-poster + video {
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  opacity: 0;
+}
+
+.media-tile.is-playing .media-tile-poster + video {
+  opacity: 1;
+}
+
 /* Always-visible quiet timestamp; annotation unfolds beside it on hover. */
 .media-tile-label {
   position: absolute;

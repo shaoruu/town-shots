@@ -11,8 +11,11 @@ interface MediaTileProps {
 
 export default function MediaTile({ item, eager, onClick }: MediaTileProps) {
   const [loaded, setLoaded] = useState(false);
+  const [playing, setPlaying] = useState(false);
   const videoRef = useRef<HTMLVideoElement>(null);
+  const isVideo = item.type === 'video';
   const src = resolveMediaSrc(item.src);
+  const still = resolveMediaSrc(isVideo ? item.poster ?? item.src : item.thumb ?? item.src);
   const hasRatio = Boolean(item.width && item.height);
   const alt = item.annotation || 'Town capture';
 
@@ -25,11 +28,12 @@ export default function MediaTile({ item, eager, onClick }: MediaTileProps) {
     if (!video) return;
     video.pause();
     video.currentTime = 0;
+    setPlaying(false);
   };
 
   return (
     <figure
-      className={`media-tile${hasRatio ? ' has-ratio' : ''}${loaded ? ' is-loaded' : ''}`}
+      className={`media-tile${hasRatio ? ' has-ratio' : ''}${loaded ? ' is-loaded' : ''}${playing ? ' is-playing' : ''}`}
       style={hasRatio ? { aspectRatio: `${item.width} / ${item.height}` } : undefined}
       role="button"
       tabIndex={0}
@@ -41,22 +45,35 @@ export default function MediaTile({ item, eager, onClick }: MediaTileProps) {
           onClick();
         }
       }}
-      onMouseEnter={item.type === 'video' ? playPreview : undefined}
-      onMouseLeave={item.type === 'video' ? stopPreview : undefined}
+      onMouseEnter={isVideo ? playPreview : undefined}
+      onMouseLeave={isVideo ? stopPreview : undefined}
     >
-      {item.type === 'video' ? (
-        <video
-          ref={videoRef}
-          src={src}
-          muted
-          loop
-          playsInline
-          preload="metadata"
-          onLoadedData={() => setLoaded(true)}
-        />
+      {isVideo ? (
+        <>
+          {item.poster && (
+            <img
+              className="media-tile-poster"
+              src={still}
+              alt={alt}
+              loading={eager ? 'eager' : 'lazy'}
+              decoding="async"
+              onLoad={() => setLoaded(true)}
+            />
+          )}
+          <video
+            ref={videoRef}
+            src={src}
+            muted
+            loop
+            playsInline
+            preload="metadata"
+            onLoadedData={() => !item.poster && setLoaded(true)}
+            onPlaying={() => setPlaying(true)}
+          />
+        </>
       ) : (
         <img
-          src={src}
+          src={still}
           alt={alt}
           loading={eager ? 'eager' : 'lazy'}
           decoding="async"

@@ -29,8 +29,9 @@ const clampScale = (scale: number) => Math.min(MAX_SCALE, Math.max(MIN_SCALE, sc
 export default function Modal({ item, index, total, onClose, onNavigate }: ModalProps) {
   const [transform, setTransform] = useState<Transform>(IDENTITY);
   const [dragging, setDragging] = useState(false);
+  const [fullLoaded, setFullLoaded] = useState(false);
   const stageRef = useRef<HTMLDivElement>(null);
-  const mediaRef = useRef<HTMLImageElement | HTMLVideoElement | null>(null);
+  const mediaRef = useRef<HTMLElement | null>(null);
   const pointers = useRef(new Map<number, { x: number; y: number }>());
   const gesture = useRef<{
     startX: number;
@@ -46,9 +47,13 @@ export default function Modal({ item, index, total, onClose, onNavigate }: Modal
   const hasNext = index < total - 1;
   const isVideo = item.type === 'video';
   const src = resolveMediaSrc(item.src);
+  const thumb = item.thumb ? resolveMediaSrc(item.thumb) : null;
+  const poster = item.poster ? resolveMediaSrc(item.poster) : undefined;
+  const alt = item.annotation || 'Town capture';
 
   useEffect(() => {
     setTransform(IDENTITY);
+    setFullLoaded(false);
   }, [item.id]);
 
   useEffect(() => {
@@ -189,7 +194,7 @@ export default function Modal({ item, index, total, onClose, onNavigate }: Modal
   };
 
   return (
-    <div className="modal" role="dialog" aria-modal="true" aria-label={item.annotation || 'Town capture'}>
+    <div className="modal" role="dialog" aria-modal="true" aria-label={alt}>
       <div
         ref={stageRef}
         className={`modal-stage${dragging && transform.scale > MIN_SCALE ? ' is-dragging' : ''}${
@@ -209,6 +214,7 @@ export default function Modal({ item, index, total, onClose, onNavigate }: Modal
             }}
             className="modal-media"
             src={src}
+            poster={poster}
             controls
             autoPlay
             muted
@@ -216,16 +222,22 @@ export default function Modal({ item, index, total, onClose, onNavigate }: Modal
             playsInline
           />
         ) : (
-          <img
+          <div
             ref={(el) => {
               mediaRef.current = el;
             }}
-            className="modal-media"
-            src={src}
-            alt={item.annotation || 'Town capture'}
+            className="modal-media-frame"
             style={mediaStyle}
-            draggable={false}
-          />
+          >
+            {thumb && <img className="modal-media" src={thumb} alt="" draggable={false} />}
+            <img
+              className={`modal-media${thumb ? ' modal-media-full' : ''}${fullLoaded ? ' is-loaded' : ''}`}
+              src={src}
+              alt={alt}
+              draggable={false}
+              onLoad={() => setFullLoaded(true)}
+            />
+          </div>
         )}
       </div>
 

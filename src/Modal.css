@@ -47,14 +47,35 @@
   max-height: calc(100vh - 112px);
   object-fit: contain;
   pointer-events: none;
-  will-change: transform;
 }
 
 .modal-stage.is-video .modal-media {
   pointer-events: auto;
 }
 
-.modal-stage:not(.is-dragging) .modal-media {
+/* Thumb sizes the frame; the full-res original fades in on top of it. */
+.modal-media-frame {
+  position: relative;
+  pointer-events: none;
+  will-change: transform;
+}
+
+.modal-media-frame .modal-media-full {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  max-height: none;
+  opacity: 0;
+  transition: opacity 0.35s ease;
+}
+
+.modal-media-frame .modal-media-full.is-loaded {
+  opacity: 1;
+}
+
+.modal-stage:not(.is-dragging) .modal-media-frame {
   transition: transform 0.12s ease-out;
 }
 

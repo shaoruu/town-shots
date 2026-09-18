@@ -6,10 +6,18 @@
       "type": "video",
       "capturedAt": "2026-09-14T05:22:36.000Z",
       "annotation": "Butterfly meadow reveal",
-      "tags": ["highlights", "butterfly", "meadow", "video", "fauna", "2026-09-13"],
+      "tags": [
+        "highlights",
+        "butterfly",
+        "meadow",
+        "video",
+        "fauna",
+        "2026-09-13"
+      ],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/butterfly-meadow-reveal.mp4",
       "width": 1920,
-      "height": 1080
+      "height": 1080,
+      "poster": "media/derived/butterfly-meadow-reveal-poster.webp"
     },
     {
       "id": "still-paintedlady-poppy",
@@ -17,10 +25,18 @@
       "type": "image",
       "capturedAt": "2026-09-14T03:54:32.000Z",
       "annotation": "Painted lady on poppy",
-      "tags": ["butterfly", "painted-lady", "poppy", "fauna", "meadow", "2026-09-13"],
+      "tags": [
+        "butterfly",
+        "painted-lady",
+        "poppy",
+        "fauna",
+        "meadow",
+        "2026-09-13"
+      ],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/agent-1789358072106_still-paintedlady-poppy.png",
       "width": 2560,
-      "height": 1600
+      "height": 1600,
+      "thumb": "media/derived/still-paintedlady-poppy.webp"
     },
     {
       "id": "still-swallowtail-poppy",
@@ -28,10 +44,18 @@
       "type": "image",
       "capturedAt": "2026-09-14T03:54:31.000Z",
       "annotation": "Swallowtail on poppy",
-      "tags": ["butterfly", "swallowtail", "poppy", "fauna", "meadow", "2026-09-13"],
+      "tags": [
+        "butterfly",
+        "swallowtail",
+        "poppy",
+        "fauna",
+        "meadow",
+        "2026-09-13"
+      ],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/agent-1789358071021_still-swallowtail-poppy.png",
       "width": 2560,
-      "height": 1600
+      "height": 1600,
+      "thumb": "media/derived/still-swallowtail-poppy.webp"
     },
     {
       "id": "fl3-pool",
@@ -39,10 +63,18 @@
       "type": "image",
       "capturedAt": "2026-09-14T02:03:38.000Z",
       "annotation": "Water flow, pool",
-      "tags": ["highlights", "water", "pool", "flow", "fl3", "2026-09-13"],
+      "tags": [
+        "highlights",
+        "water",
+        "pool",
+        "flow",
+        "fl3",
+        "2026-09-13"
+      ],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351418980_fl3-pool.png",
       "width": 1280,
-      "height": 900
+      "height": 900,
+      "thumb": "media/derived/fl3-pool.webp"
     },
     {
       "id": "fl3-cascade-34",
@@ -50,10 +82,18 @@
       "type": "image",
       "capturedAt": "2026-09-14T02:03:33.000Z",
       "annotation": "Water flow, cascade",
-      "tags": ["highlights", "water", "cascade", "flow", "fl3", "2026-09-13"],
+      "tags": [
+        "highlights",
+        "water",
+        "cascade",
+        "flow",
+        "fl3",
+        "2026-09-13"
+      ],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351413009_fl3-cascade-34.png",
       "width": 1280,
-      "height": 900
+      "height": 900,
+      "thumb": "media/derived/fl3-cascade-34.webp"
     },
     {
       "id": "fl3-waterfall",
@@ -61,10 +101,18 @@
       "type": "image",
       "capturedAt": "2026-09-14T02:03:27.000Z",
       "annotation": "Water flow, waterfall",
-      "tags": ["highlights", "water", "waterfall", "flow", "fl3", "2026-09-13"],
+      "tags": [
+        "highlights",
+        "water",
+        "waterfall",
+        "flow",
+        "fl3",
+        "2026-09-13"
+      ],
       "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351407031_fl3-waterfall.png",
       "width": 1280,
-      "height": 900
+      "height": 900,
+      "thumb": "media/derived/fl3-waterfall.webp"
     }
   ]
 }
