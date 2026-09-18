@@ -1,6 +1,1206 @@
 {
   "items": [
     {
+      "id": "2026-08-24__agent-video-plant-sway-1787593669958-published",
+      "src": "media/2026-08-24__agent-video-plant-sway-1787593669958-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-08-24T17:47:49Z",
+      "annotation": "Plant Sway Published",
+      "tags": [
+        "plant",
+        "sway",
+        "video",
+        "2026-08-24"
+      ],
+      "sourcePath": "sync://laptop/agent-video-plant-sway-1787593669958-published.mp4",
+      "width": 1280,
+      "height": 720,
+      "poster": "media/derived/2026-08-24__agent-video-plant-sway-1787593669958-published-poster.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789237737708_spawn-after-revert",
+      "src": "media/2026-09-12__agent-1789237737708_spawn-after-revert.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T18:28:57Z",
+      "annotation": "Spawn After Revert",
+      "tags": [
+        "spawn",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789237737708_spawn-after-revert.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789237737708_spawn-after-revert.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789237738677_hub-footprint-aerial-after-revert",
+      "src": "media/2026-09-12__agent-1789237738677_hub-footprint-aerial-after-revert.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T18:28:58Z",
+      "annotation": "Hub Footprint Aerial After Revert",
+      "tags": [
+        "hub",
+        "aerial",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789237738677_hub-footprint-aerial-after-revert.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789237738677_hub-footprint-aerial-after-revert.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789238209577_water-pond-a-topdown-new",
+      "src": "media/2026-09-12__agent-1789238209577_water-pond-a-topdown-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T18:36:49Z",
+      "annotation": "Water Pond A Top-down New",
+      "tags": [
+        "water",
+        "pond",
+        "topdown",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789238209577_water-pond-a-topdown-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789238209577_water-pond-a-topdown-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789238210634_water-pond-a-shore-new",
+      "src": "media/2026-09-12__agent-1789238210634_water-pond-a-shore-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T18:36:50Z",
+      "annotation": "Water Pond A Shore New",
+      "tags": [
+        "water",
+        "pond",
+        "shore",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789238210634_water-pond-a-shore-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789238210634_water-pond-a-shore-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789238396526_water-pond-a-topdown-day-new",
+      "src": "media/2026-09-12__agent-1789238396526_water-pond-a-topdown-day-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T18:39:56Z",
+      "annotation": "Water Pond A Top-down Day New",
+      "tags": [
+        "water",
+        "pond",
+        "topdown",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789238396526_water-pond-a-topdown-day-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789238396526_water-pond-a-topdown-day-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789238397744_water-pond-a-oblique-day-new",
+      "src": "media/2026-09-12__agent-1789238397744_water-pond-a-oblique-day-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T18:39:57Z",
+      "annotation": "Water Pond A Oblique Day New",
+      "tags": [
+        "water",
+        "pond",
+        "oblique",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789238397744_water-pond-a-oblique-day-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789238397744_water-pond-a-oblique-day-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789238400072_water-pond-oblique-day-shaoruu",
+      "src": "media/2026-09-12__agent-1789238400072_water-pond-oblique-day-shaoruu.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T18:40:00Z",
+      "annotation": "Water Pond Oblique Day Shaoruu",
+      "tags": [
+        "water",
+        "pond",
+        "oblique",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789238400072_water-pond-oblique-day-shaoruu.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789238400072_water-pond-oblique-day-shaoruu.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789238477352_water-ocean-coast-oblique-new",
+      "src": "media/2026-09-12__agent-1789238477352_water-ocean-coast-oblique-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T18:41:17Z",
+      "annotation": "Water Ocean Coast Oblique New",
+      "tags": [
+        "water",
+        "ocean",
+        "coast",
+        "oblique",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789238477352_water-ocean-coast-oblique-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789238477352_water-ocean-coast-oblique-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789238478602_water-ocean-beach-eyelevel-new",
+      "src": "media/2026-09-12__agent-1789238478602_water-ocean-beach-eyelevel-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T18:41:18Z",
+      "annotation": "Water Ocean Beach Eyelevel New",
+      "tags": [
+        "water",
+        "ocean",
+        "beach",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789238478602_water-ocean-beach-eyelevel-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789238478602_water-ocean-beach-eyelevel-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789238480055_water-ocean-deep-above-new",
+      "src": "media/2026-09-12__agent-1789238480055_water-ocean-deep-above-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T18:41:20Z",
+      "annotation": "Water Ocean Deep Above New",
+      "tags": [
+        "water",
+        "ocean",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789238480055_water-ocean-deep-above-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789238480055_water-ocean-deep-above-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789238560278_water-pond-close-day-shaoruu",
+      "src": "media/2026-09-12__agent-1789238560278_water-pond-close-day-shaoruu.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T18:42:40Z",
+      "annotation": "Water Pond Close Day Shaoruu",
+      "tags": [
+        "water",
+        "pond",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789238560278_water-pond-close-day-shaoruu.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789238560278_water-pond-close-day-shaoruu.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789239701208_spawn-area-after-full-revert",
+      "src": "media/2026-09-12__agent-1789239701208_spawn-area-after-full-revert.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:01:41Z",
+      "annotation": "Spawn Area After Full Revert",
+      "tags": [
+        "spawn",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789239701208_spawn-area-after-full-revert.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789239701208_spawn-area-after-full-revert.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789239708275_hub-footprint-aerial-after-full-revert",
+      "src": "media/2026-09-12__agent-1789239708275_hub-footprint-aerial-after-full-revert.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:01:48Z",
+      "annotation": "Hub Footprint Aerial After Full Revert",
+      "tags": [
+        "hub",
+        "aerial",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789239708275_hub-footprint-aerial-after-full-revert.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789239708275_hub-footprint-aerial-after-full-revert.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789240172248_chest-after-checkout-new",
+      "src": "media/2026-09-12__agent-1789240172248_chest-after-checkout-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:09:32Z",
+      "annotation": "Chest After Checkout New",
+      "tags": [
+        "chest",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789240172248_chest-after-checkout-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789240172248_chest-after-checkout-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789240229112_chest-wide-new",
+      "src": "media/2026-09-12__agent-1789240229112_chest-wide-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:10:29Z",
+      "annotation": "Chest Wide New",
+      "tags": [
+        "chest",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789240229112_chest-wide-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789240229112_chest-wide-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789240234324_chest-wide-day-new",
+      "src": "media/2026-09-12__agent-1789240234324_chest-wide-day-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:10:34Z",
+      "annotation": "Chest Wide Day New",
+      "tags": [
+        "chest",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789240234324_chest-wide-day-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789240234324_chest-wide-day-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789240279060_chest-far-day-new",
+      "src": "media/2026-09-12__agent-1789240279060_chest-far-day-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:11:19Z",
+      "annotation": "Chest Far Day New",
+      "tags": [
+        "chest",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789240279060_chest-far-day-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789240279060_chest-far-day-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789240308542_chest-topdown-day-new",
+      "src": "media/2026-09-12__agent-1789240308542_chest-topdown-day-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:11:48Z",
+      "annotation": "Chest Top-down Day New",
+      "tags": [
+        "chest",
+        "topdown",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789240308542_chest-topdown-day-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789240308542_chest-topdown-day-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789240371312_chest-after-checkout-new",
+      "src": "media/2026-09-12__agent-1789240371312_chest-after-checkout-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:12:51Z",
+      "annotation": "Chest After Checkout New",
+      "tags": [
+        "chest",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789240371312_chest-after-checkout-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789240371312_chest-after-checkout-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789240396317_chest-close-after-checkout-new",
+      "src": "media/2026-09-12__agent-1789240396317_chest-close-after-checkout-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:13:16Z",
+      "annotation": "Chest Close After Checkout New",
+      "tags": [
+        "chest",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789240396317_chest-close-after-checkout-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789240396317_chest-close-after-checkout-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789240487808_stand-summoned-new",
+      "src": "media/2026-09-12__agent-1789240487808_stand-summoned-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:14:47Z",
+      "annotation": "Stand Summoned New",
+      "tags": [
+        "stand",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789240487808_stand-summoned-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789240487808_stand-summoned-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789240992103_night-spawn-after-revert-new",
+      "src": "media/2026-09-12__agent-1789240992103_night-spawn-after-revert-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:23:12Z",
+      "annotation": "Night Spawn After Revert New",
+      "tags": [
+        "night",
+        "spawn",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789240992103_night-spawn-after-revert-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789240992103_night-spawn-after-revert-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789240995985_night-spawn-wide-after-revert-new",
+      "src": "media/2026-09-12__agent-1789240995985_night-spawn-wide-after-revert-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:23:15Z",
+      "annotation": "Night Spawn Wide After Revert New",
+      "tags": [
+        "night",
+        "spawn",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789240995985_night-spawn-wide-after-revert-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789240995985_night-spawn-wide-after-revert-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789241023544_night-sky-after-revert-new",
+      "src": "media/2026-09-12__agent-1789241023544_night-sky-after-revert-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:23:43Z",
+      "annotation": "Night Sky After Revert New",
+      "tags": [
+        "night",
+        "sky",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789241023544_night-sky-after-revert-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789241023544_night-sky-after-revert-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789241079148_water-pond-a-topdown-day-final-new",
+      "src": "media/2026-09-12__agent-1789241079148_water-pond-a-topdown-day-final-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:24:39Z",
+      "annotation": "Water Pond A Top-down Day Final New",
+      "tags": [
+        "water",
+        "pond",
+        "topdown",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789241079148_water-pond-a-topdown-day-final-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789241079148_water-pond-a-topdown-day-final-new.webp"
+    },
+    {
+      "id": "2026-09-12__agent-1789241083154_water-pond-a-oblique-day-final-new",
+      "src": "media/2026-09-12__agent-1789241083154_water-pond-a-oblique-day-final-new.png",
+      "type": "image",
+      "capturedAt": "2026-09-12T19:24:43Z",
+      "annotation": "Water Pond A Oblique Day Final New",
+      "tags": [
+        "water",
+        "pond",
+        "oblique",
+        "2026-09-12"
+      ],
+      "sourcePath": "sync://laptop/agent-1789241083154_water-pond-a-oblique-day-final-new.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-12__agent-1789241083154_water-pond-a-oblique-day-final-new.webp"
+    },
+    {
+      "id": "2026-09-13__agent-video-water-spread-after-1789335225273",
+      "src": "media/2026-09-13__agent-video-water-spread-after-1789335225273.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-13T21:33:45Z",
+      "annotation": "Water Spread After",
+      "tags": [
+        "water",
+        "video",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-spread-after-1789335225273.mp4",
+      "width": 1280,
+      "height": 720,
+      "poster": "media/derived/2026-09-13__agent-video-water-spread-after-1789335225273-poster.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351167057_fl-two-top",
+      "src": "media/2026-09-13__agent-1789351167057_fl-two-top.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:27Z",
+      "annotation": "FL Two Top",
+      "tags": [
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351167057_fl-two-top.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351167057_fl-two-top.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351169034_fl-two-oblique",
+      "src": "media/2026-09-13__agent-1789351169034_fl-two-oblique.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:29Z",
+      "annotation": "FL Two Oblique",
+      "tags": [
+        "oblique",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351169034_fl-two-oblique.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351169034_fl-two-oblique.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351170998_fl-three-top",
+      "src": "media/2026-09-13__agent-1789351170998_fl-three-top.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:30Z",
+      "annotation": "FL Three Top",
+      "tags": [
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351170998_fl-three-top.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351170998_fl-three-top.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351172972_fl-table-top",
+      "src": "media/2026-09-13__agent-1789351172972_fl-table-top.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:32Z",
+      "annotation": "FL Table Top",
+      "tags": [
+        "table",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351172972_fl-table-top.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351172972_fl-table-top.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351174964_fl-table-oblique",
+      "src": "media/2026-09-13__agent-1789351174964_fl-table-oblique.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:34Z",
+      "annotation": "FL Table Oblique",
+      "tags": [
+        "oblique",
+        "table",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351174964_fl-table-oblique.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351174964_fl-table-oblique.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351176931_fl-obstacle-top",
+      "src": "media/2026-09-13__agent-1789351176931_fl-obstacle-top.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:36Z",
+      "annotation": "FL Obstacle Top",
+      "tags": [
+        "obstacle",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351176931_fl-obstacle-top.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351176931_fl-obstacle-top.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351178941_fl-waterfall-close",
+      "src": "media/2026-09-13__agent-1789351178941_fl-waterfall-close.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:38Z",
+      "annotation": "FL Waterfall Close",
+      "tags": [
+        "water",
+        "waterfall",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351178941_fl-waterfall-close.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351178941_fl-waterfall-close.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351181299_fl-fan-top",
+      "src": "media/2026-09-13__agent-1789351181299_fl-fan-top.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:41Z",
+      "annotation": "FL Fan Top",
+      "tags": [
+        "fan",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351181299_fl-fan-top.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351181299_fl-fan-top.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351183240_fl-fan-oblique",
+      "src": "media/2026-09-13__agent-1789351183240_fl-fan-oblique.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:43Z",
+      "annotation": "FL Fan Oblique",
+      "tags": [
+        "fan",
+        "oblique",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351183240_fl-fan-oblique.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351183240_fl-fan-oblique.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351185197_fl-cascade-front",
+      "src": "media/2026-09-13__agent-1789351185197_fl-cascade-front.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:45Z",
+      "annotation": "FL Cascade Front",
+      "tags": [
+        "cascade",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351185197_fl-cascade-front.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351185197_fl-cascade-front.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351187169_fl-cascade-side",
+      "src": "media/2026-09-13__agent-1789351187169_fl-cascade-side.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:47Z",
+      "annotation": "FL Cascade Side",
+      "tags": [
+        "cascade",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351187169_fl-cascade-side.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351187169_fl-cascade-side.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351189142_fl-headon-top",
+      "src": "media/2026-09-13__agent-1789351189142_fl-headon-top.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:49Z",
+      "annotation": "FL Headon Top",
+      "tags": [
+        "headon",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351189142_fl-headon-top.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351189142_fl-headon-top.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351191082_fl-headon-oblique",
+      "src": "media/2026-09-13__agent-1789351191082_fl-headon-oblique.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:51Z",
+      "annotation": "FL Headon Oblique",
+      "tags": [
+        "oblique",
+        "headon",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351191082_fl-headon-oblique.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351191082_fl-headon-oblique.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351193022_fl-pool-top",
+      "src": "media/2026-09-13__agent-1789351193022_fl-pool-top.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:53Z",
+      "annotation": "FL Pool Top",
+      "tags": [
+        "pool",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351193022_fl-pool-top.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351193022_fl-pool-top.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351194954_fl-pool-oblique",
+      "src": "media/2026-09-13__agent-1789351194954_fl-pool-oblique.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:54Z",
+      "annotation": "FL Pool Oblique",
+      "tags": [
+        "pool",
+        "oblique",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351194954_fl-pool-oblique.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351194954_fl-pool-oblique.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351196931_fl-zigzag-top",
+      "src": "media/2026-09-13__agent-1789351196931_fl-zigzag-top.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T01:59:56Z",
+      "annotation": "FL Zigzag Top",
+      "tags": [
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351196931_fl-zigzag-top.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351196931_fl-zigzag-top.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351403102_fl3-two-seam",
+      "src": "media/2026-09-13__agent-1789351403102_fl3-two-seam.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T02:03:23Z",
+      "annotation": "FL3 Two Seam",
+      "tags": [
+        "fl3",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351403102_fl3-two-seam.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351403102_fl3-two-seam.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351405070_fl3-table",
+      "src": "media/2026-09-13__agent-1789351405070_fl3-table.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T02:03:25Z",
+      "annotation": "FL3 Table",
+      "tags": [
+        "fl3",
+        "table",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351405070_fl3-table.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351405070_fl3-table.webp"
+    },
+    {
+      "id": "fl3-waterfall",
+      "src": "media/fl3-waterfall.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T02:03:27.000Z",
+      "annotation": "Water flow, waterfall",
+      "tags": [
+        "highlights",
+        "water",
+        "waterfall",
+        "flow",
+        "fl3",
+        "2026-09-13"
+      ],
+      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351407031_fl3-waterfall.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/fl3-waterfall.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351407031_fl3-waterfall",
+      "src": "media/2026-09-13__agent-1789351407031_fl3-waterfall.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T02:03:27Z",
+      "annotation": "FL3 Waterfall",
+      "tags": [
+        "water",
+        "waterfall",
+        "fl3",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351407031_fl3-waterfall.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351407031_fl3-waterfall.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351409038_fl3-fan",
+      "src": "media/2026-09-13__agent-1789351409038_fl3-fan.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T02:03:29Z",
+      "annotation": "FL3 Fan",
+      "tags": [
+        "fan",
+        "fl3",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351409038_fl3-fan.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351409038_fl3-fan.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351410996_fl3-cascade-front",
+      "src": "media/2026-09-13__agent-1789351410996_fl3-cascade-front.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T02:03:30Z",
+      "annotation": "FL3 Cascade Front",
+      "tags": [
+        "cascade",
+        "fl3",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351410996_fl3-cascade-front.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351410996_fl3-cascade-front.webp"
+    },
+    {
+      "id": "fl3-cascade-34",
+      "src": "media/fl3-cascade-34.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T02:03:33.000Z",
+      "annotation": "Water flow, cascade",
+      "tags": [
+        "highlights",
+        "water",
+        "cascade",
+        "flow",
+        "fl3",
+        "2026-09-13"
+      ],
+      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351413009_fl3-cascade-34.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/fl3-cascade-34.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351413009_fl3-cascade-34",
+      "src": "media/2026-09-13__agent-1789351413009_fl3-cascade-34.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T02:03:33Z",
+      "annotation": "FL3 Cascade",
+      "tags": [
+        "cascade",
+        "fl3",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351413009_fl3-cascade-34.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351413009_fl3-cascade-34.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351415065_fl3-headon-along",
+      "src": "media/2026-09-13__agent-1789351415065_fl3-headon-along.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T02:03:35Z",
+      "annotation": "FL3 Headon Along",
+      "tags": [
+        "fl3",
+        "headon",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351415065_fl3-headon-along.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351415065_fl3-headon-along.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351417014_fl3-headon-34",
+      "src": "media/2026-09-13__agent-1789351417014_fl3-headon-34.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T02:03:37Z",
+      "annotation": "FL3 Headon",
+      "tags": [
+        "fl3",
+        "headon",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351417014_fl3-headon-34.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351417014_fl3-headon-34.webp"
+    },
+    {
+      "id": "fl3-pool",
+      "src": "media/fl3-pool.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T02:03:38.000Z",
+      "annotation": "Water flow, pool",
+      "tags": [
+        "highlights",
+        "water",
+        "pool",
+        "flow",
+        "fl3",
+        "2026-09-13"
+      ],
+      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351418980_fl3-pool.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/fl3-pool.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789351418980_fl3-pool",
+      "src": "media/2026-09-13__agent-1789351418980_fl3-pool.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T02:03:38Z",
+      "annotation": "FL3 Pool",
+      "tags": [
+        "pool",
+        "fl3",
+        "flow",
+        "flora",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789351418980_fl3-pool.png",
+      "width": 1280,
+      "height": 900,
+      "thumb": "media/derived/2026-09-13__agent-1789351418980_fl3-pool.webp"
+    },
+    {
+      "id": "2026-09-13__agent-video-flow-two-collide-1789351505901",
+      "src": "media/2026-09-13__agent-video-flow-two-collide-1789351505901.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T02:05:05Z",
+      "annotation": "Flow Two Collide",
+      "tags": [
+        "flow",
+        "video",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-video-flow-two-collide-1789351505901.mp4",
+      "width": 1280,
+      "height": 900,
+      "poster": "media/derived/2026-09-13__agent-video-flow-two-collide-1789351505901-poster.webp"
+    },
+    {
+      "id": "2026-09-13__agent-video-flow-three-way-1789351515716",
+      "src": "media/2026-09-13__agent-video-flow-three-way-1789351515716.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T02:05:15Z",
+      "annotation": "Flow Three Way",
+      "tags": [
+        "flow",
+        "video",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-video-flow-three-way-1789351515716.mp4",
+      "width": 1280,
+      "height": 900,
+      "poster": "media/derived/2026-09-13__agent-video-flow-three-way-1789351515716-poster.webp"
+    },
+    {
+      "id": "2026-09-13__agent-video-flow-fan-1789351525372",
+      "src": "media/2026-09-13__agent-video-flow-fan-1789351525372.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T02:05:25Z",
+      "annotation": "Flow Fan",
+      "tags": [
+        "fan",
+        "flow",
+        "video",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-video-flow-fan-1789351525372.mp4",
+      "width": 1280,
+      "height": 900,
+      "poster": "media/derived/2026-09-13__agent-video-flow-fan-1789351525372-poster.webp"
+    },
+    {
+      "id": "2026-09-13__agent-video-flow-pool-gap-1789351534901",
+      "src": "media/2026-09-13__agent-video-flow-pool-gap-1789351534901.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T02:05:34Z",
+      "annotation": "Flow Pool Gap",
+      "tags": [
+        "pool",
+        "flow",
+        "video",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-video-flow-pool-gap-1789351534901.mp4",
+      "width": 1280,
+      "height": 900,
+      "poster": "media/derived/2026-09-13__agent-video-flow-pool-gap-1789351534901-poster.webp"
+    },
+    {
+      "id": "2026-09-13__agent-video-flow-fan-1789351591866",
+      "src": "media/2026-09-13__agent-video-flow-fan-1789351591866.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T02:06:31Z",
+      "annotation": "Flow Fan",
+      "tags": [
+        "fan",
+        "flow",
+        "video",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-video-flow-fan-1789351591866.mp4",
+      "width": 1280,
+      "height": 900,
+      "poster": "media/derived/2026-09-13__agent-video-flow-fan-1789351591866-poster.webp"
+    },
+    {
+      "id": "2026-09-13__agent-video-flow-waterfall-1789351601437",
+      "src": "media/2026-09-13__agent-video-flow-waterfall-1789351601437.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T02:06:41Z",
+      "annotation": "Flow Waterfall",
+      "tags": [
+        "water",
+        "waterfall",
+        "flow",
+        "video",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-video-flow-waterfall-1789351601437.mp4",
+      "width": 1280,
+      "height": 900,
+      "poster": "media/derived/2026-09-13__agent-video-flow-waterfall-1789351601437-poster.webp"
+    },
+    {
+      "id": "2026-09-13__agent-video-flow-cascade-1789351611037",
+      "src": "media/2026-09-13__agent-video-flow-cascade-1789351611037.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T02:06:51Z",
+      "annotation": "Flow Cascade",
+      "tags": [
+        "cascade",
+        "flow",
+        "video",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-video-flow-cascade-1789351611037.mp4",
+      "width": 1280,
+      "height": 900,
+      "poster": "media/derived/2026-09-13__agent-video-flow-cascade-1789351611037-poster.webp"
+    },
+    {
+      "id": "2026-09-13__agent-video-flow-obstacle-1789351620636",
+      "src": "media/2026-09-13__agent-video-flow-obstacle-1789351620636.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T02:07:00Z",
+      "annotation": "Flow Obstacle",
+      "tags": [
+        "flow",
+        "obstacle",
+        "video",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-video-flow-obstacle-1789351620636.mp4",
+      "width": 1280,
+      "height": 900,
+      "poster": "media/derived/2026-09-13__agent-video-flow-obstacle-1789351620636-poster.webp"
+    },
+    {
+      "id": "2026-09-13__agent-video-flow-headon-1789351630177",
+      "src": "media/2026-09-13__agent-video-flow-headon-1789351630177.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T02:07:10Z",
+      "annotation": "Flow Headon",
+      "tags": [
+        "flow",
+        "headon",
+        "video",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-video-flow-headon-1789351630177.mp4",
+      "width": 1280,
+      "height": 900,
+      "poster": "media/derived/2026-09-13__agent-video-flow-headon-1789351630177-poster.webp"
+    },
+    {
+      "id": "2026-09-13__agent-video-butterfly-meadow-1789357908830-published",
+      "src": "media/2026-09-13__agent-video-butterfly-meadow-1789357908830-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T03:51:48Z",
+      "annotation": "Butterfly Meadow Published",
+      "tags": [
+        "meadow",
+        "butterfly",
+        "video",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-video-butterfly-meadow-1789357908830-published.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/2026-09-13__agent-video-butterfly-meadow-1789357908830-published-poster.webp"
+    },
+    {
+      "id": "still-swallowtail-poppy",
+      "src": "media/still-swallowtail-poppy.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T03:54:31.000Z",
+      "annotation": "Swallowtail on poppy",
+      "tags": [
+        "butterfly",
+        "swallowtail",
+        "poppy",
+        "fauna",
+        "meadow",
+        "2026-09-13"
+      ],
+      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/agent-1789358071021_still-swallowtail-poppy.png",
+      "width": 2560,
+      "height": 1600,
+      "thumb": "media/derived/still-swallowtail-poppy.webp"
+    },
+    {
+      "id": "2026-09-13__agent-1789358071021_still-swallowtail-poppy",
+      "src": "media/2026-09-13__agent-1789358071021_still-swallowtail-poppy.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T03:54:31Z",
+      "annotation": "Still Swallowtail Poppy",
+      "tags": [
+        "poppy",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/agent-1789358071021_still-swallowtail-poppy.png",
+      "width": 2560,
+      "height": 1600,
+      "thumb": "media/derived/2026-09-13__agent-1789358071021_still-swallowtail-poppy.webp"
+    },
+    {
+      "id": "still-paintedlady-poppy",
+      "src": "media/still-paintedlady-poppy.png",
+      "type": "image",
+      "capturedAt": "2026-09-14T03:54:32.000Z",
+      "annotation": "Painted lady on poppy",
+      "tags": [
+        "butterfly",
+        "painted-lady",
+        "poppy",
+        "fauna",
+        "meadow",
+        "2026-09-13"
+      ],
+      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/agent-1789358072106_still-paintedlady-poppy.png",
+      "width": 2560,
+      "height": 1600,
+      "thumb": "media/derived/still-paintedlady-poppy.webp"
+    },
+    {
+      "id": "butterfly-meadow-reveal",
+      "src": "media/butterfly-meadow-reveal.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T05:22:36.000Z",
+      "annotation": "Butterfly meadow reveal",
+      "tags": [
+        "highlights",
+        "butterfly",
+        "meadow",
+        "video",
+        "fauna",
+        "2026-09-13"
+      ],
+      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/butterfly-meadow-reveal.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/butterfly-meadow-reveal-poster.webp"
+    },
+    {
+      "id": "2026-09-14__agent-video-water-relevel-after-1789419201444-published",
+      "src": "media/2026-09-14__agent-video-water-relevel-after-1789419201444-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-14T20:53:21Z",
+      "annotation": "Water Relevel After Published",
+      "tags": [
+        "water",
+        "video",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/agent-video-water-relevel-after-1789419201444-published.mp4",
+      "width": 960,
+      "height": 540,
+      "poster": "media/derived/2026-09-14__agent-video-water-relevel-after-1789419201444-published-poster.webp"
+    },
+    {
       "id": "caster-hooked-player-2026-09-18",
       "src": "media/caster-hooked-player-2026-09-18.png",
       "type": "image",
@@ -77,21 +1277,6 @@
       "thumb": "media/derived/door-a-night-closed-2026-09-17.webp"
     },
     {
-      "id": "doors-closed-day-2026-09-17-2",
-      "src": "media/doors-closed-day-2026-09-17-2.png",
-      "type": "image",
-      "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Doors closed day",
-      "tags": [
-        "door",
-        "2026-09-17"
-      ],
-      "sourcePath": "sync://laptop/doors-closed-day-2026-09-17-2.png",
-      "width": 1280,
-      "height": 720,
-      "thumb": "media/derived/doors-closed-day-2026-09-17-2.webp"
-    },
-    {
       "id": "doors-closed-day-2026-09-17",
       "src": "media/doors-closed-day-2026-09-17.png",
       "type": "image",
@@ -105,6 +1290,21 @@
       "width": 1280,
       "height": 720,
       "thumb": "media/derived/doors-closed-day-2026-09-17.webp"
+    },
+    {
+      "id": "doors-closed-day-2026-09-17-2",
+      "src": "media/doors-closed-day-2026-09-17-2.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T19:33:11Z",
+      "annotation": "Doors closed day",
+      "tags": [
+        "door",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/doors-closed-day-2026-09-17-2.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/doors-closed-day-2026-09-17-2.webp"
     },
     {
       "id": "fl-cascade-front-2026-09-13",
@@ -622,22 +1822,6 @@
       "thumb": "media/derived/flora-flowers-2-2026-09-17.webp"
     },
     {
-      "id": "flora-flowers-close-2026-09-17-2",
-      "src": "media/flora-flowers-close-2026-09-17-2.png",
-      "type": "image",
-      "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Flora flowers close",
-      "tags": [
-        "flora",
-        "flow",
-        "2026-09-17"
-      ],
-      "sourcePath": "sync://laptop/flora-flowers-close-2026-09-17-2.png",
-      "width": 1600,
-      "height": 800,
-      "thumb": "media/derived/flora-flowers-close-2026-09-17-2.webp"
-    },
-    {
       "id": "flora-flowers-close-2026-09-17",
       "src": "media/flora-flowers-close-2026-09-17.png",
       "type": "image",
@@ -652,6 +1836,22 @@
       "width": 1600,
       "height": 800,
       "thumb": "media/derived/flora-flowers-close-2026-09-17.webp"
+    },
+    {
+      "id": "flora-flowers-close-2026-09-17-2",
+      "src": "media/flora-flowers-close-2026-09-17-2.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T19:33:11Z",
+      "annotation": "Flora flowers close",
+      "tags": [
+        "flora",
+        "flow",
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/flora-flowers-close-2026-09-17-2.png",
+      "width": 1600,
+      "height": 800,
+      "thumb": "media/derived/flora-flowers-close-2026-09-17-2.webp"
     },
     {
       "id": "flora-fruit-0-2026-09-17",
@@ -966,6 +2166,21 @@
       "poster": "media/derived/video-bees-buzzing-published-2026-09-16-poster.webp"
     },
     {
+      "id": "video-butterfly-flight-published-2026-09-14",
+      "src": "media/video-butterfly-flight-published-2026-09-14.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-18T19:33:11Z",
+      "annotation": "Video butterfly flight published",
+      "tags": [
+        "butterfly",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/video-butterfly-flight-published-2026-09-14.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/video-butterfly-flight-published-2026-09-14-poster.webp"
+    },
+    {
       "id": "video-butterfly-flight-published-2026-09-14-2",
       "src": "media/video-butterfly-flight-published-2026-09-14-2.mp4",
       "type": "video",
@@ -1071,19 +2286,19 @@
       "poster": "media/derived/video-butterfly-flight-published-2026-09-14-8-poster.webp"
     },
     {
-      "id": "video-butterfly-flight-published-2026-09-14",
-      "src": "media/video-butterfly-flight-published-2026-09-14.mp4",
+      "id": "video-butterfly-landing-published-2026-09-14",
+      "src": "media/video-butterfly-landing-published-2026-09-14.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly flight published",
+      "annotation": "Video butterfly landing published",
       "tags": [
         "butterfly",
         "2026-09-14"
       ],
-      "sourcePath": "sync://laptop/video-butterfly-flight-published-2026-09-14.mp4",
+      "sourcePath": "sync://laptop/video-butterfly-landing-published-2026-09-14.mp4",
       "width": 1920,
       "height": 1080,
-      "poster": "media/derived/video-butterfly-flight-published-2026-09-14-poster.webp"
+      "poster": "media/derived/video-butterfly-landing-published-2026-09-14-poster.webp"
     },
     {
       "id": "video-butterfly-landing-published-2026-09-14-2",
@@ -1131,19 +2346,19 @@
       "poster": "media/derived/video-butterfly-landing-published-2026-09-14-4-poster.webp"
     },
     {
-      "id": "video-butterfly-landing-published-2026-09-14",
-      "src": "media/video-butterfly-landing-published-2026-09-14.mp4",
+      "id": "video-butterfly-landing-published-slow-2026-09-14",
+      "src": "media/video-butterfly-landing-published-slow-2026-09-14.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly landing published",
+      "annotation": "Video butterfly landing published slow",
       "tags": [
         "butterfly",
         "2026-09-14"
       ],
-      "sourcePath": "sync://laptop/video-butterfly-landing-published-2026-09-14.mp4",
+      "sourcePath": "sync://laptop/video-butterfly-landing-published-slow-2026-09-14.mp4",
       "width": 1920,
       "height": 1080,
-      "poster": "media/derived/video-butterfly-landing-published-2026-09-14-poster.webp"
+      "poster": "media/derived/video-butterfly-landing-published-slow-2026-09-14-poster.webp"
     },
     {
       "id": "video-butterfly-landing-published-slow-2026-09-14-2",
@@ -1191,21 +2406,6 @@
       "poster": "media/derived/video-butterfly-landing-published-slow-2026-09-14-4-poster.webp"
     },
     {
-      "id": "video-butterfly-landing-published-slow-2026-09-14",
-      "src": "media/video-butterfly-landing-published-slow-2026-09-14.mp4",
-      "type": "video",
-      "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly landing published slow",
-      "tags": [
-        "butterfly",
-        "2026-09-14"
-      ],
-      "sourcePath": "sync://laptop/video-butterfly-landing-published-slow-2026-09-14.mp4",
-      "width": 1920,
-      "height": 1080,
-      "poster": "media/derived/video-butterfly-landing-published-slow-2026-09-14-poster.webp"
-    },
-    {
       "id": "video-butterfly-meadow-published-2026-09-13",
       "src": "media/video-butterfly-meadow-published-2026-09-13.mp4",
       "type": "video",
@@ -1220,6 +2420,22 @@
       "width": 1920,
       "height": 1080,
       "poster": "media/derived/video-butterfly-meadow-published-2026-09-13-poster.webp"
+    },
+    {
+      "id": "video-butterfly-meadow-published-2026-09-14",
+      "src": "media/video-butterfly-meadow-published-2026-09-14.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-18T19:33:11Z",
+      "annotation": "Video butterfly meadow published",
+      "tags": [
+        "butterfly",
+        "meadow",
+        "2026-09-14"
+      ],
+      "sourcePath": "sync://laptop/video-butterfly-meadow-published-2026-09-14.mp4",
+      "width": 1920,
+      "height": 1080,
+      "poster": "media/derived/video-butterfly-meadow-published-2026-09-14-poster.webp"
     },
     {
       "id": "video-butterfly-meadow-published-2026-09-14-2",
@@ -1286,22 +2502,6 @@
       "poster": "media/derived/video-butterfly-meadow-published-2026-09-14-5-poster.webp"
     },
     {
-      "id": "video-butterfly-meadow-published-2026-09-14",
-      "src": "media/video-butterfly-meadow-published-2026-09-14.mp4",
-      "type": "video",
-      "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video butterfly meadow published",
-      "tags": [
-        "butterfly",
-        "meadow",
-        "2026-09-14"
-      ],
-      "sourcePath": "sync://laptop/video-butterfly-meadow-published-2026-09-14.mp4",
-      "width": 1920,
-      "height": 1080,
-      "poster": "media/derived/video-butterfly-meadow-published-2026-09-14-poster.webp"
-    },
-    {
       "id": "video-butterfly-roam-published-2026-09-14",
       "src": "media/video-butterfly-roam-published-2026-09-14.mp4",
       "type": "video",
@@ -1315,22 +2515,6 @@
       "width": 1280,
       "height": 720,
       "poster": "media/derived/video-butterfly-roam-published-2026-09-14-poster.webp"
-    },
-    {
-      "id": "video-flow-cascade-2026-09-13-2",
-      "src": "media/video-flow-cascade-2026-09-13-2.mp4",
-      "type": "video",
-      "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow cascade",
-      "tags": [
-        "flow",
-        "cascade",
-        "2026-09-13"
-      ],
-      "sourcePath": "sync://laptop/video-flow-cascade-2026-09-13-2.mp4",
-      "width": 1280,
-      "height": 900,
-      "poster": "media/derived/video-flow-cascade-2026-09-13-2-poster.webp"
     },
     {
       "id": "video-flow-cascade-2026-09-13",
@@ -1349,20 +2533,20 @@
       "poster": "media/derived/video-flow-cascade-2026-09-13-poster.webp"
     },
     {
-      "id": "video-flow-fan-2026-09-13-2",
-      "src": "media/video-flow-fan-2026-09-13-2.mp4",
+      "id": "video-flow-cascade-2026-09-13-2",
+      "src": "media/video-flow-cascade-2026-09-13-2.mp4",
       "type": "video",
       "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow fan",
+      "annotation": "Video flow cascade",
       "tags": [
         "flow",
-        "fan",
+        "cascade",
         "2026-09-13"
       ],
-      "sourcePath": "sync://laptop/video-flow-fan-2026-09-13-2.mp4",
+      "sourcePath": "sync://laptop/video-flow-cascade-2026-09-13-2.mp4",
       "width": 1280,
       "height": 900,
-      "poster": "media/derived/video-flow-fan-2026-09-13-2-poster.webp"
+      "poster": "media/derived/video-flow-cascade-2026-09-13-2-poster.webp"
     },
     {
       "id": "video-flow-fan-2026-09-13",
@@ -1379,6 +2563,22 @@
       "width": 1280,
       "height": 900,
       "poster": "media/derived/video-flow-fan-2026-09-13-poster.webp"
+    },
+    {
+      "id": "video-flow-fan-2026-09-13-2",
+      "src": "media/video-flow-fan-2026-09-13-2.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-18T19:33:11Z",
+      "annotation": "Video flow fan",
+      "tags": [
+        "flow",
+        "fan",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/video-flow-fan-2026-09-13-2.mp4",
+      "width": 1280,
+      "height": 900,
+      "poster": "media/derived/video-flow-fan-2026-09-13-2-poster.webp"
     },
     {
       "id": "video-flow-headon-2026-09-13",
@@ -1411,22 +2611,6 @@
       "poster": "media/derived/video-flow-obstacle-2026-09-13-poster.webp"
     },
     {
-      "id": "video-flow-pool-gap-2026-09-13-2",
-      "src": "media/video-flow-pool-gap-2026-09-13-2.mp4",
-      "type": "video",
-      "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow pool gap",
-      "tags": [
-        "flow",
-        "pool",
-        "2026-09-13"
-      ],
-      "sourcePath": "sync://laptop/video-flow-pool-gap-2026-09-13-2.mp4",
-      "width": 1280,
-      "height": 900,
-      "poster": "media/derived/video-flow-pool-gap-2026-09-13-2-poster.webp"
-    },
-    {
       "id": "video-flow-pool-gap-2026-09-13",
       "src": "media/video-flow-pool-gap-2026-09-13.mp4",
       "type": "video",
@@ -1441,6 +2625,22 @@
       "width": 1280,
       "height": 900,
       "poster": "media/derived/video-flow-pool-gap-2026-09-13-poster.webp"
+    },
+    {
+      "id": "video-flow-pool-gap-2026-09-13-2",
+      "src": "media/video-flow-pool-gap-2026-09-13-2.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-18T19:33:11Z",
+      "annotation": "Video flow pool gap",
+      "tags": [
+        "flow",
+        "pool",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/video-flow-pool-gap-2026-09-13-2.mp4",
+      "width": 1280,
+      "height": 900,
+      "poster": "media/derived/video-flow-pool-gap-2026-09-13-2-poster.webp"
     },
     {
       "id": "video-flow-three-way-2026-09-13",
@@ -1473,23 +2673,6 @@
       "poster": "media/derived/video-flow-two-collide-2026-09-13-poster.webp"
     },
     {
-      "id": "video-flow-waterfall-2026-09-13-2",
-      "src": "media/video-flow-waterfall-2026-09-13-2.mp4",
-      "type": "video",
-      "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video flow waterfall",
-      "tags": [
-        "water",
-        "waterfall",
-        "flow",
-        "2026-09-13"
-      ],
-      "sourcePath": "sync://laptop/video-flow-waterfall-2026-09-13-2.mp4",
-      "width": 1280,
-      "height": 900,
-      "poster": "media/derived/video-flow-waterfall-2026-09-13-2-poster.webp"
-    },
-    {
       "id": "video-flow-waterfall-2026-09-13",
       "src": "media/video-flow-waterfall-2026-09-13.mp4",
       "type": "video",
@@ -1507,6 +2690,23 @@
       "poster": "media/derived/video-flow-waterfall-2026-09-13-poster.webp"
     },
     {
+      "id": "video-flow-waterfall-2026-09-13-2",
+      "src": "media/video-flow-waterfall-2026-09-13-2.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-18T19:33:11Z",
+      "annotation": "Video flow waterfall",
+      "tags": [
+        "water",
+        "waterfall",
+        "flow",
+        "2026-09-13"
+      ],
+      "sourcePath": "sync://laptop/video-flow-waterfall-2026-09-13-2.mp4",
+      "width": 1280,
+      "height": 900,
+      "poster": "media/derived/video-flow-waterfall-2026-09-13-2-poster.webp"
+    },
+    {
       "id": "video-plant-sway-published-2026-08-24",
       "src": "media/video-plant-sway-published-2026-08-24.mp4",
       "type": "video",
@@ -1519,21 +2719,6 @@
       "width": 1280,
       "height": 720,
       "poster": "media/derived/video-plant-sway-published-2026-08-24-poster.webp"
-    },
-    {
-      "id": "video-terrain-fade-2026-09-15-2",
-      "src": "media/video-terrain-fade-2026-09-15-2.mp4",
-      "type": "video",
-      "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Video terrain fade",
-      "tags": [
-        "terrain",
-        "2026-09-15"
-      ],
-      "sourcePath": "sync://laptop/video-terrain-fade-2026-09-15-2.mp4",
-      "width": 1280,
-      "height": 720,
-      "poster": "media/derived/video-terrain-fade-2026-09-15-2-poster.webp"
     },
     {
       "id": "video-terrain-fade-2026-09-15",
@@ -1549,6 +2734,21 @@
       "width": 1280,
       "height": 720,
       "poster": "media/derived/video-terrain-fade-2026-09-15-poster.webp"
+    },
+    {
+      "id": "video-terrain-fade-2026-09-15-2",
+      "src": "media/video-terrain-fade-2026-09-15-2.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-18T19:33:11Z",
+      "annotation": "Video terrain fade",
+      "tags": [
+        "terrain",
+        "2026-09-15"
+      ],
+      "sourcePath": "sync://laptop/video-terrain-fade-2026-09-15-2.mp4",
+      "width": 1280,
+      "height": 720,
+      "poster": "media/derived/video-terrain-fade-2026-09-15-2-poster.webp"
     },
     {
       "id": "video-terrain-fade-final-2026-09-15",
@@ -1626,21 +2826,6 @@
       "poster": "media/derived/video-water-surface-after-published-2026-09-14-poster.webp"
     },
     {
-      "id": "water-pane-visible-2026-09-18-2",
-      "src": "media/water-pane-visible-2026-09-18-2.png",
-      "type": "image",
-      "capturedAt": "2026-09-18T19:33:11Z",
-      "annotation": "Water pane visible",
-      "tags": [
-        "water",
-        "2026-09-18"
-      ],
-      "sourcePath": "sync://laptop/water-pane-visible-2026-09-18-2.png",
-      "width": 1280,
-      "height": 720,
-      "thumb": "media/derived/water-pane-visible-2026-09-18-2.webp"
-    },
-    {
       "id": "water-pane-visible-2026-09-18",
       "src": "media/water-pane-visible-2026-09-18.png",
       "type": "image",
@@ -1656,118 +2841,34 @@
       "thumb": "media/derived/water-pane-visible-2026-09-18.webp"
     },
     {
-      "id": "butterfly-meadow-reveal",
-      "src": "media/butterfly-meadow-reveal.mp4",
-      "type": "video",
-      "capturedAt": "2026-09-14T05:22:36.000Z",
-      "annotation": "Butterfly meadow reveal",
+      "id": "water-pane-visible-2026-09-18-2",
+      "src": "media/water-pane-visible-2026-09-18-2.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T19:33:11Z",
+      "annotation": "Water pane visible",
       "tags": [
-        "highlights",
-        "butterfly",
-        "meadow",
-        "video",
-        "fauna",
-        "2026-09-13"
+        "water",
+        "2026-09-18"
       ],
-      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/butterfly-meadow-reveal.mp4",
-      "width": 1920,
-      "height": 1080,
-      "poster": "media/derived/butterfly-meadow-reveal-poster.webp"
+      "sourcePath": "sync://laptop/water-pane-visible-2026-09-18-2.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/water-pane-visible-2026-09-18-2.webp"
     },
     {
-      "id": "still-paintedlady-poppy",
-      "src": "media/still-paintedlady-poppy.png",
+      "id": "2026-09-13__butterfly-clip-sheet",
+      "src": "media/2026-09-13__butterfly-clip-sheet.png",
       "type": "image",
-      "capturedAt": "2026-09-14T03:54:32.000Z",
-      "annotation": "Painted lady on poppy",
+      "capturedAt": "2026-09-18T19:48:56Z",
+      "annotation": "Butterfly Clip Sheet",
       "tags": [
         "butterfly",
-        "painted-lady",
-        "poppy",
-        "fauna",
-        "meadow",
         "2026-09-13"
       ],
-      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/agent-1789358072106_still-paintedlady-poppy.png",
-      "width": 2560,
-      "height": 1600,
-      "thumb": "media/derived/still-paintedlady-poppy.webp"
-    },
-    {
-      "id": "still-swallowtail-poppy",
-      "src": "media/still-swallowtail-poppy.png",
-      "type": "image",
-      "capturedAt": "2026-09-14T03:54:31.000Z",
-      "annotation": "Swallowtail on poppy",
-      "tags": [
-        "butterfly",
-        "swallowtail",
-        "poppy",
-        "fauna",
-        "meadow",
-        "2026-09-13"
-      ],
-      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/agent-1789358071021_still-swallowtail-poppy.png",
-      "width": 2560,
-      "height": 1600,
-      "thumb": "media/derived/still-swallowtail-poppy.webp"
-    },
-    {
-      "id": "fl3-pool",
-      "src": "media/fl3-pool.png",
-      "type": "image",
-      "capturedAt": "2026-09-14T02:03:38.000Z",
-      "annotation": "Water flow, pool",
-      "tags": [
-        "highlights",
-        "water",
-        "pool",
-        "flow",
-        "fl3",
-        "2026-09-13"
-      ],
-      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351418980_fl3-pool.png",
-      "width": 1280,
-      "height": 900,
-      "thumb": "media/derived/fl3-pool.webp"
-    },
-    {
-      "id": "fl3-cascade-34",
-      "src": "media/fl3-cascade-34.png",
-      "type": "image",
-      "capturedAt": "2026-09-14T02:03:33.000Z",
-      "annotation": "Water flow, cascade",
-      "tags": [
-        "highlights",
-        "water",
-        "cascade",
-        "flow",
-        "fl3",
-        "2026-09-13"
-      ],
-      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351413009_fl3-cascade-34.png",
-      "width": 1280,
-      "height": 900,
-      "thumb": "media/derived/fl3-cascade-34.webp"
-    },
-    {
-      "id": "fl3-waterfall",
-      "src": "media/fl3-waterfall.png",
-      "type": "image",
-      "capturedAt": "2026-09-14T02:03:27.000Z",
-      "annotation": "Water flow, waterfall",
-      "tags": [
-        "highlights",
-        "water",
-        "waterfall",
-        "flow",
-        "fl3",
-        "2026-09-13"
-      ],
-      "sourcePath": "/Users/ianhuang/Desktop/desktop/projects/town/screenshots/dev/2026-09-13/highlights/agent-1789351407031_fl3-waterfall.png",
-      "width": 1280,
-      "height": 900,
-      "thumb": "media/derived/fl3-waterfall.webp"
+      "sourcePath": "sync://laptop/butterfly-clip-sheet.png",
+      "width": 2480,
+      "height": 1396,
+      "thumb": "media/derived/2026-09-13__butterfly-clip-sheet.webp"
     }
   ]
 }
