@@ -14,7 +14,13 @@ function columnsForWidth(width: number): number {
   if (width < 560) return 1;
   if (width < 900) return 2;
   if (width < 1440) return 3;
-  return 4;
+  if (width < 1920) return 4;
+  return 5;
+}
+
+// A sparse wall gets fewer, larger tiles; a dense batch fills the width.
+function columnsForCount(count: number): number {
+  return Math.max(1, Math.ceil(Math.sqrt(count)));
 }
 
 function useColumnCount(): number {
@@ -52,7 +58,7 @@ function distribute(items: MediaItem[], columnCount: number): MediaItem[][] {
 
 export default function Gallery({ items }: GalleryProps) {
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
-  const columnCount = useColumnCount();
+  const columnCount = Math.min(useColumnCount(), columnsForCount(items.length));
   const columns = useMemo(() => distribute(items, columnCount), [items, columnCount]);
 
   const handleNavigate = useCallback(
