@@ -4081,6 +4081,66 @@
       "thumb": "media/derived/2026-09-16__photo-1789545447646_hero-bee-at-door.webp"
     },
     {
+      "id": "2026-09-17__agent-1789668394025_arena6-now",
+      "src": "media/2026-09-17__agent-1789668394025_arena6-now.png",
+      "type": "image",
+      "capturedAt": "2026-09-17T18:06:34Z",
+      "annotation": "Arena6 Now",
+      "tags": [
+        "2026-09-17"
+      ],
+      "sourcePath": "sync://laptop/agent-1789668394025_arena6-now.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-17__agent-1789668394025_arena6-now.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789686147806_door-a-open-topdown",
+      "src": "media/2026-09-17__agent-1789686147806_door-a-open-topdown.png",
+      "type": "image",
+      "capturedAt": "2026-09-17T23:02:27Z",
+      "annotation": "Door A Open Topdown",
+      "tags": [
+        "2026-09-17",
+        "hub"
+      ],
+      "sourcePath": "sync://laptop/agent-1789686147806_door-a-open-topdown.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-17__agent-1789686147806_door-a-open-topdown.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789686493667_door-a-open-fixed",
+      "src": "media/2026-09-17__agent-1789686493667_door-a-open-fixed.png",
+      "type": "image",
+      "capturedAt": "2026-09-17T23:08:13Z",
+      "annotation": "Door A Open Fixed",
+      "tags": [
+        "2026-09-17",
+        "hub"
+      ],
+      "sourcePath": "sync://laptop/agent-1789686493667_door-a-open-fixed.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-17__agent-1789686493667_door-a-open-fixed.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789686809481_door-a-night-closed",
+      "src": "media/2026-09-17__agent-1789686809481_door-a-night-closed.png",
+      "type": "image",
+      "capturedAt": "2026-09-17T23:13:29Z",
+      "annotation": "Door A Night Closed",
+      "tags": [
+        "2026-09-17",
+        "hub",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1789686809481_door-a-night-closed.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-17__agent-1789686809481_door-a-night-closed.webp"
+    },
+    {
       "id": "2026-09-17__agent-1789690781482_flora-flowers-0",
       "src": "media/2026-09-17__agent-1789690781482_flora-flowers-0.png",
       "type": "image",
@@ -4605,6 +4665,186 @@
       "thumb": "media/derived/2026-09-17__agent-1789691032814_flora-tall-0.webp"
     },
     {
+      "id": "2026-09-17__agent-1789691034685_flora-grasses-0",
+      "src": "media/2026-09-17__agent-1789691034685_flora-grasses-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:54Z",
+      "annotation": "Flora Grasses",
+      "tags": [
+        "2026-09-17",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691034685_flora-grasses-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691034685_flora-grasses-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691039326_flora-dry-1",
+      "src": "media/2026-09-17__agent-1789691039326_flora-dry-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:23:59Z",
+      "annotation": "Flora Dry",
+      "tags": [
+        "2026-09-17",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691039326_flora-dry-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691039326_flora-dry-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691044987_flora-aquatic-1",
+      "src": "media/2026-09-17__agent-1789691044987_flora-aquatic-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:24:04Z",
+      "annotation": "Flora Aquatic",
+      "tags": [
+        "2026-09-17",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691044987_flora-aquatic-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691044987_flora-aquatic-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691141104_flora-tall-1",
+      "src": "media/2026-09-17__agent-1789691141104_flora-tall-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:25:41Z",
+      "annotation": "Flora Tall",
+      "tags": [
+        "2026-09-17",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691141104_flora-tall-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691141104_flora-tall-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691155965_flora-fruit-1",
+      "src": "media/2026-09-17__agent-1789691155965_flora-fruit-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:25:55Z",
+      "annotation": "Flora Fruit",
+      "tags": [
+        "2026-09-17",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691155965_flora-fruit-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691155965_flora-fruit-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691455776_flora-grasses-0",
+      "src": "media/2026-09-17__agent-1789691455776_flora-grasses-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:30:55Z",
+      "annotation": "Flora Grasses",
+      "tags": [
+        "2026-09-17",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691455776_flora-grasses-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691455776_flora-grasses-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691464193_flora-alpine-1",
+      "src": "media/2026-09-17__agent-1789691464193_flora-alpine-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:31:04Z",
+      "annotation": "Flora Alpine",
+      "tags": [
+        "2026-09-17",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691464193_flora-alpine-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691464193_flora-alpine-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691466027_flora-aquatic-1",
+      "src": "media/2026-09-17__agent-1789691466027_flora-aquatic-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:31:06Z",
+      "annotation": "Flora Aquatic",
+      "tags": [
+        "2026-09-17",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691466027_flora-aquatic-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691466027_flora-aquatic-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789691467876_flora-fungi-1",
+      "src": "media/2026-09-17__agent-1789691467876_flora-fungi-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T00:31:07Z",
+      "annotation": "Flora Fungi",
+      "tags": [
+        "2026-09-17",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/agent-1789691467876_flora-fungi-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789691467876_flora-fungi-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789708434075_flora-tall-0",
+      "src": "media/2026-09-17__agent-1789708434075_flora-tall-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T05:13:54Z",
+      "annotation": "Flora Tall",
+      "tags": [
+        "2026-09-17",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/agent-1789708434075_flora-tall-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789708434075_flora-tall-0.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789708440855_flora-dry-1",
+      "src": "media/2026-09-17__agent-1789708440855_flora-dry-1.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T05:14:00Z",
+      "annotation": "Flora Dry",
+      "tags": [
+        "2026-09-17",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/agent-1789708440855_flora-dry-1.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789708440855_flora-dry-1.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789708441840_flora-tropical-0",
+      "src": "media/2026-09-17__agent-1789708441840_flora-tropical-0.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T05:14:01Z",
+      "annotation": "Flora Tropical",
+      "tags": [
+        "2026-09-17",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/agent-1789708441840_flora-tropical-0.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-17__agent-1789708441840_flora-tropical-0.webp"
+    },
+    {
       "id": "2026-09-17__agent-1789711777592_water-circle-repro",
       "src": "media/2026-09-17__agent-1789711777592_water-circle-repro.png",
       "type": "image",
@@ -4618,6 +4858,21 @@
       "width": 1280,
       "height": 720,
       "thumb": "media/derived/2026-09-17__agent-1789711777592_water-circle-repro.webp"
+    },
+    {
+      "id": "2026-09-17__agent-1789713189888_water-pane-band-after-fix",
+      "src": "media/2026-09-17__agent-1789713189888_water-pane-band-after-fix.png",
+      "type": "image",
+      "capturedAt": "2026-09-18T06:33:09Z",
+      "annotation": "Water Pane Band Fix",
+      "tags": [
+        "2026-09-17",
+        "water"
+      ],
+      "sourcePath": "sync://laptop/agent-1789713189888_water-pane-band-after-fix.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-17__agent-1789713189888_water-pane-band-after-fix.webp"
     },
     {
       "id": "door-a-night-closed-2026-09-17",
@@ -5514,6 +5769,1219 @@
       "width": 1280,
       "height": 720,
       "thumb": "media/derived/water-pane-visible-2026-09-18-2.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789803087642_after-underwater-lamp-night",
+      "src": "media/2026-09-19__agent-1789803087642_after-underwater-lamp-night.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T07:31:27Z",
+      "annotation": "Underwater Lamp Night",
+      "tags": [
+        "2026-09-19",
+        "water",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1789803087642_after-underwater-lamp-night.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-19__agent-1789803087642_after-underwater-lamp-night.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789803120635_after-underwater-lamp-above",
+      "src": "media/2026-09-19__agent-1789803120635_after-underwater-lamp-above.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T07:32:00Z",
+      "annotation": "Underwater Lamp Above",
+      "tags": [
+        "2026-09-19",
+        "water",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1789803120635_after-underwater-lamp-above.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-19__agent-1789803120635_after-underwater-lamp-above.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789874733943_living-world-massif-contact",
+      "src": "media/2026-09-19__photo-1789874733943_living-world-massif-contact.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Massif Contact",
+      "tags": [
+        "2026-09-19",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789874733943_living-world-massif-contact.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789874733943_living-world-massif-contact.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789876049753_living-world-savanna",
+      "src": "media/2026-09-19__photo-1789876049753_living-world-savanna.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Savanna",
+      "tags": [
+        "2026-09-19",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789876049753_living-world-savanna.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789876049753_living-world-savanna.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789876157489_living-world-taiga",
+      "src": "media/2026-09-19__photo-1789876157489_living-world-taiga.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Taiga",
+      "tags": [
+        "2026-09-19",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789876157489_living-world-taiga.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789876157489_living-world-taiga.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789877734206_living-world-dripstone",
+      "src": "media/2026-09-19__photo-1789877734206_living-world-dripstone.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Dripstone",
+      "tags": [
+        "2026-09-19"
+      ],
+      "sourcePath": "sync://laptop/photo-1789877734206_living-world-dripstone.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789877734206_living-world-dripstone.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789877816689_living-world-hamlet",
+      "src": "media/2026-09-19__photo-1789877816689_living-world-hamlet.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Hamlet",
+      "tags": [
+        "2026-09-19"
+      ],
+      "sourcePath": "sync://laptop/photo-1789877816689_living-world-hamlet.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789877816689_living-world-hamlet.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789877861321_living-world-bamboo",
+      "src": "media/2026-09-19__photo-1789877861321_living-world-bamboo.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Bamboo",
+      "tags": [
+        "2026-09-19"
+      ],
+      "sourcePath": "sync://laptop/photo-1789877861321_living-world-bamboo.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789877861321_living-world-bamboo.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789877881045_living-world-rainforest",
+      "src": "media/2026-09-19__photo-1789877881045_living-world-rainforest.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Rainforest",
+      "tags": [
+        "2026-09-19"
+      ],
+      "sourcePath": "sync://laptop/photo-1789877881045_living-world-rainforest.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789877881045_living-world-rainforest.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789877940667_living-world-desert-river",
+      "src": "media/2026-09-19__photo-1789877940667_living-world-desert-river.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Desert River",
+      "tags": [
+        "2026-09-19",
+        "water"
+      ],
+      "sourcePath": "sync://laptop/photo-1789877940667_living-world-desert-river.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789877940667_living-world-desert-river.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789877960342_living-world-savanna",
+      "src": "media/2026-09-19__photo-1789877960342_living-world-savanna.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Savanna",
+      "tags": [
+        "2026-09-19",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789877960342_living-world-savanna.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789877960342_living-world-savanna.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789878020212_living-world-taiga",
+      "src": "media/2026-09-19__photo-1789878020212_living-world-taiga.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Taiga",
+      "tags": [
+        "2026-09-19",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789878020212_living-world-taiga.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789878020212_living-world-taiga.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789879022943_living-world-sea-arch",
+      "src": "media/2026-09-19__photo-1789879022943_living-world-sea-arch.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Sea Arch",
+      "tags": [
+        "2026-09-19"
+      ],
+      "sourcePath": "sync://laptop/photo-1789879022943_living-world-sea-arch.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789879022943_living-world-sea-arch.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789879065433_living-world-mangrove",
+      "src": "media/2026-09-19__photo-1789879065433_living-world-mangrove.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Mangrove",
+      "tags": [
+        "2026-09-19",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789879065433_living-world-mangrove.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789879065433_living-world-mangrove.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789882677819_living-world-desert-banks",
+      "src": "media/2026-09-19__photo-1789882677819_living-world-desert-banks.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Desert Banks",
+      "tags": [
+        "2026-09-19"
+      ],
+      "sourcePath": "sync://laptop/photo-1789882677819_living-world-desert-banks.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789882677819_living-world-desert-banks.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789885113784_living-world-village-oasis",
+      "src": "media/2026-09-19__photo-1789885113784_living-world-village-oasis.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Village Oasis",
+      "tags": [
+        "2026-09-19"
+      ],
+      "sourcePath": "sync://laptop/photo-1789885113784_living-world-village-oasis.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789885113784_living-world-village-oasis.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789885141027_living-world-bamboo-leaves-fixed",
+      "src": "media/2026-09-19__photo-1789885141027_living-world-bamboo-leaves-fixed.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Bamboo Leaves Fixed",
+      "tags": [
+        "2026-09-19"
+      ],
+      "sourcePath": "sync://laptop/photo-1789885141027_living-world-bamboo-leaves-fixed.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789885141027_living-world-bamboo-leaves-fixed.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789885492773_living-world-villagers-social",
+      "src": "media/2026-09-19__photo-1789885492773_living-world-villagers-social.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Villagers Social",
+      "tags": [
+        "2026-09-19",
+        "fauna"
+      ],
+      "sourcePath": "sync://laptop/photo-1789885492773_living-world-villagers-social.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-19__photo-1789885492773_living-world-villagers-social.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789885647899_living-world-bamboo-grove",
+      "src": "media/2026-09-19__photo-1789885647899_living-world-bamboo-grove.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Bamboo Grove",
+      "tags": [
+        "2026-09-19"
+      ],
+      "sourcePath": "sync://laptop/photo-1789885647899_living-world-bamboo-grove.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789885647899_living-world-bamboo-grove.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789885675198_living-world-watchtower",
+      "src": "media/2026-09-19__photo-1789885675198_living-world-watchtower.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Watchtower",
+      "tags": [
+        "2026-09-19"
+      ],
+      "sourcePath": "sync://laptop/photo-1789885675198_living-world-watchtower.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789885675198_living-world-watchtower.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789886927540_living-world-village-hillside-lanes",
+      "src": "media/2026-09-19__photo-1789886927540_living-world-village-hillside-lanes.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Village Hillside Lanes",
+      "tags": [
+        "2026-09-19",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789886927540_living-world-village-hillside-lanes.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789886927540_living-world-village-hillside-lanes.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789887542792_living-world-abandoned-farm",
+      "src": "media/2026-09-19__photo-1789887542792_living-world-abandoned-farm.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Abandoned Farm",
+      "tags": [
+        "2026-09-19"
+      ],
+      "sourcePath": "sync://laptop/photo-1789887542792_living-world-abandoned-farm.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789887542792_living-world-abandoned-farm.webp"
+    },
+    {
+      "id": "2026-09-19__photo-1789887556366_living-world-lava-pool",
+      "src": "media/2026-09-19__photo-1789887556366_living-world-lava-pool.png",
+      "type": "image",
+      "capturedAt": "2026-09-19T19:00:00Z",
+      "annotation": "Photo Living World Lava Pool",
+      "tags": [
+        "2026-09-19",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789887556366_living-world-lava-pool.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-19__photo-1789887556366_living-world-lava-pool.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789865218435_sky-noon-vista",
+      "src": "media/2026-09-19__agent-1789865218435_sky-noon-vista.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T00:46:58Z",
+      "annotation": "Sky Noon Vista",
+      "tags": [
+        "2026-09-19",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1789865218435_sky-noon-vista.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-19__agent-1789865218435_sky-noon-vista.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789865281366_sky-01-midnight-stars",
+      "src": "media/2026-09-19__agent-1789865281366_sky-01-midnight-stars.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T00:48:01Z",
+      "annotation": "Sky Midnight Stars",
+      "tags": [
+        "2026-09-19",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1789865281366_sky-01-midnight-stars.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-19__agent-1789865281366_sky-01-midnight-stars.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789865572576_sky-02-midnight-moon-zenith",
+      "src": "media/2026-09-19__agent-1789865572576_sky-02-midnight-moon-zenith.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T00:52:52Z",
+      "annotation": "Sky Midnight Moon Zenith",
+      "tags": [
+        "2026-09-19",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1789865572576_sky-02-midnight-moon-zenith.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-19__agent-1789865572576_sky-02-midnight-moon-zenith.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789865586991_sky-05-golden-hour-disc",
+      "src": "media/2026-09-19__agent-1789865586991_sky-05-golden-hour-disc.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T00:53:06Z",
+      "annotation": "Sky Golden Hour Disc",
+      "tags": [
+        "2026-09-19",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1789865586991_sky-05-golden-hour-disc.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-19__agent-1789865586991_sky-05-golden-hour-disc.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789865594210_sky-07-sundown-vista",
+      "src": "media/2026-09-19__agent-1789865594210_sky-07-sundown-vista.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T00:53:14Z",
+      "annotation": "Sky Sundown Vista",
+      "tags": [
+        "2026-09-19",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1789865594210_sky-07-sundown-vista.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-19__agent-1789865594210_sky-07-sundown-vista.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789865601566_sky-09-moon-closeup",
+      "src": "media/2026-09-19__agent-1789865601566_sky-09-moon-closeup.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T00:53:21Z",
+      "annotation": "Sky Moon Closeup",
+      "tags": [
+        "2026-09-19",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1789865601566_sky-09-moon-closeup.png",
+      "width": 1600,
+      "height": 900,
+      "thumb": "media/derived/2026-09-19__agent-1789865601566_sky-09-moon-closeup.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789865765685_sun-zoom-morning",
+      "src": "media/2026-09-19__agent-1789865765685_sun-zoom-morning.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T00:56:05Z",
+      "annotation": "Sun Zoom Morning",
+      "tags": [
+        "2026-09-19",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1789865765685_sun-zoom-morning.png",
+      "width": 3200,
+      "height": 1800,
+      "thumb": "media/derived/2026-09-19__agent-1789865765685_sun-zoom-morning.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789867252466_hub2-forest-floor",
+      "src": "media/2026-09-19__agent-1789867252466_hub2-forest-floor.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T01:20:52Z",
+      "annotation": "Hub2 Forest Floor",
+      "tags": [
+        "2026-09-19",
+        "hub"
+      ],
+      "sourcePath": "sync://laptop/agent-1789867252466_hub2-forest-floor.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-19__agent-1789867252466_hub2-forest-floor.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789867254897_hub2-forest-floor-2",
+      "src": "media/2026-09-19__agent-1789867254897_hub2-forest-floor-2.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T01:20:54Z",
+      "annotation": "Hub2 Forest Floor",
+      "tags": [
+        "2026-09-19",
+        "hub"
+      ],
+      "sourcePath": "sync://laptop/agent-1789867254897_hub2-forest-floor-2.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-19__agent-1789867254897_hub2-forest-floor-2.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789867283398_hub2-jungle-a",
+      "src": "media/2026-09-19__agent-1789867283398_hub2-jungle-a.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T01:21:23Z",
+      "annotation": "Hub2 Jungle A",
+      "tags": [
+        "2026-09-19",
+        "hub"
+      ],
+      "sourcePath": "sync://laptop/agent-1789867283398_hub2-jungle-a.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-19__agent-1789867283398_hub2-jungle-a.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789867434874_hub2-foothills-meadow",
+      "src": "media/2026-09-19__agent-1789867434874_hub2-foothills-meadow.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T01:23:54Z",
+      "annotation": "Hub2 Foothills Meadow",
+      "tags": [
+        "2026-09-19",
+        "flora",
+        "hub",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/agent-1789867434874_hub2-foothills-meadow.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-19__agent-1789867434874_hub2-foothills-meadow.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789867506090_clouds-B",
+      "src": "media/2026-09-19__agent-1789867506090_clouds-B.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T01:25:06Z",
+      "annotation": "Clouds B",
+      "tags": [
+        "2026-09-19",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1789867506090_clouds-B.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-19__agent-1789867506090_clouds-B.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789867554567_hub2-meadow-b",
+      "src": "media/2026-09-19__agent-1789867554567_hub2-meadow-b.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T01:25:54Z",
+      "annotation": "Hub2 Meadow B",
+      "tags": [
+        "2026-09-19",
+        "flora",
+        "hub"
+      ],
+      "sourcePath": "sync://laptop/agent-1789867554567_hub2-meadow-b.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-19__agent-1789867554567_hub2-meadow-b.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789867652811_above-clouds-A",
+      "src": "media/2026-09-19__agent-1789867652811_above-clouds-A.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T01:27:32Z",
+      "annotation": "Above Clouds A",
+      "tags": [
+        "2026-09-19",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1789867652811_above-clouds-A.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-19__agent-1789867652811_above-clouds-A.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789867964447_hub2-dry",
+      "src": "media/2026-09-19__agent-1789867964447_hub2-dry.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T01:32:44Z",
+      "annotation": "Hub2 Dry",
+      "tags": [
+        "2026-09-19",
+        "hub"
+      ],
+      "sourcePath": "sync://laptop/agent-1789867964447_hub2-dry.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-19__agent-1789867964447_hub2-dry.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789869338980_newcomer-standing-at-spawn",
+      "src": "media/2026-09-19__agent-1789869338980_newcomer-standing-at-spawn.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T01:55:38Z",
+      "annotation": "Newcomer Standing At Spawn",
+      "tags": [
+        "2026-09-19",
+        "hub"
+      ],
+      "sourcePath": "sync://laptop/agent-1789869338980_newcomer-standing-at-spawn.png",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "media/derived/2026-09-19__agent-1789869338980_newcomer-standing-at-spawn.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789869558129_newcomer-standing-at-spawn",
+      "src": "media/2026-09-19__agent-1789869558129_newcomer-standing-at-spawn.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T01:59:18Z",
+      "annotation": "Newcomer Standing At Spawn",
+      "tags": [
+        "2026-09-19",
+        "hub"
+      ],
+      "sourcePath": "sync://laptop/agent-1789869558129_newcomer-standing-at-spawn.png",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "media/derived/2026-09-19__agent-1789869558129_newcomer-standing-at-spawn.webp"
+    },
+    {
+      "id": "2026-09-19__agent-1789869640364_hub2-cavern",
+      "src": "media/2026-09-19__agent-1789869640364_hub2-cavern.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T02:00:40Z",
+      "annotation": "Hub2 Cavern",
+      "tags": [
+        "2026-09-19",
+        "hub",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/agent-1789869640364_hub2-cavern.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-19__agent-1789869640364_hub2-cavern.webp"
+    },
+    {
+      "id": "2026-09-20__agent-1789894710611_first-day-arrival",
+      "src": "media/2026-09-20__agent-1789894710611_first-day-arrival.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T08:58:30Z",
+      "annotation": "First Day Arrival",
+      "tags": [
+        "2026-09-20"
+      ],
+      "sourcePath": "sync://laptop/agent-1789894710611_first-day-arrival.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-20__agent-1789894710611_first-day-arrival.webp"
+    },
+    {
+      "id": "2026-09-20__agent-1789894745974_first-day-woodland-walk",
+      "src": "media/2026-09-20__agent-1789894745974_first-day-woodland-walk.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T08:59:05Z",
+      "annotation": "First Day Woodland Walk",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/agent-1789894745974_first-day-woodland-walk.png",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "media/derived/2026-09-20__agent-1789894745974_first-day-woodland-walk.webp"
+    },
+    {
+      "id": "2026-09-20__agent-1789894954290_first-day-current-weather",
+      "src": "media/2026-09-20__agent-1789894954290_first-day-current-weather.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T09:02:34Z",
+      "annotation": "First Day Current Weather",
+      "tags": [
+        "2026-09-20"
+      ],
+      "sourcePath": "sync://laptop/agent-1789894954290_first-day-current-weather.png",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "media/derived/2026-09-20__agent-1789894954290_first-day-current-weather.webp"
+    },
+    {
+      "id": "2026-09-20__agent-1789895194725_living-world-rainy-cottage",
+      "src": "media/2026-09-20__agent-1789895194725_living-world-rainy-cottage.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T09:06:34Z",
+      "annotation": "Living World Rainy Cottage",
+      "tags": [
+        "2026-09-20"
+      ],
+      "sourcePath": "sync://laptop/agent-1789895194725_living-world-rainy-cottage.png",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "media/derived/2026-09-20__agent-1789895194725_living-world-rainy-cottage.webp"
+    },
+    {
+      "id": "2026-09-20__agent-1789896552435_living-world-river-exit-current",
+      "src": "media/2026-09-20__agent-1789896552435_living-world-river-exit-current.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T09:29:12Z",
+      "annotation": "Living World River Exit Current",
+      "tags": [
+        "2026-09-20",
+        "water"
+      ],
+      "sourcePath": "sync://laptop/agent-1789896552435_living-world-river-exit-current.png",
+      "width": 1280,
+      "height": 720,
+      "thumb": "media/derived/2026-09-20__agent-1789896552435_living-world-river-exit-current.webp"
+    },
+    {
+      "id": "2026-09-20__agent-1789897927772_living-world-lava-current",
+      "src": "media/2026-09-20__agent-1789897927772_living-world-lava-current.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T09:52:07Z",
+      "annotation": "Living World Lava Current",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/agent-1789897927772_living-world-lava-current.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__agent-1789897927772_living-world-lava-current.webp"
+    },
+    {
+      "id": "2026-09-20__agent-1789898356569_living-world-lava-cave-air",
+      "src": "media/2026-09-20__agent-1789898356569_living-world-lava-cave-air.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T09:59:16Z",
+      "annotation": "Living World Lava Cave Air",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/agent-1789898356569_living-world-lava-cave-air.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__agent-1789898356569_living-world-lava-cave-air.webp"
+    },
+    {
+      "id": "2026-09-20__agent-1789900113822_living-world-snowfall-lane",
+      "src": "media/2026-09-20__agent-1789900113822_living-world-snowfall-lane.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T10:28:33Z",
+      "annotation": "Living World Snowfall Lane",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/agent-1789900113822_living-world-snowfall-lane.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__agent-1789900113822_living-world-snowfall-lane.webp"
+    },
+    {
+      "id": "2026-09-20__agent-1789900162709_living-world-snow-village",
+      "src": "media/2026-09-20__agent-1789900162709_living-world-snow-village.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T10:29:22Z",
+      "annotation": "Living World Snow Village",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/agent-1789900162709_living-world-snow-village.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__agent-1789900162709_living-world-snow-village.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789887807658_living-world-lava-contact",
+      "src": "media/2026-09-20__photo-1789887807658_living-world-lava-contact.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Lava Contact",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789887807658_living-world-lava-contact.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__photo-1789887807658_living-world-lava-contact.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789888516444_living-world-desert-river",
+      "src": "media/2026-09-20__photo-1789888516444_living-world-desert-river.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Desert River",
+      "tags": [
+        "2026-09-20",
+        "water"
+      ],
+      "sourcePath": "sync://laptop/photo-1789888516444_living-world-desert-river.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-20__photo-1789888516444_living-world-desert-river.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789888528854_living-world-bank-exit",
+      "src": "media/2026-09-20__photo-1789888528854_living-world-bank-exit.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Bank Exit",
+      "tags": [
+        "2026-09-20"
+      ],
+      "sourcePath": "sync://laptop/photo-1789888528854_living-world-bank-exit.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-20__photo-1789888528854_living-world-bank-exit.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789888542623_living-world-conifers",
+      "src": "media/2026-09-20__photo-1789888542623_living-world-conifers.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Conifers",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789888542623_living-world-conifers.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-20__photo-1789888542623_living-world-conifers.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789888555328_living-world-woodland",
+      "src": "media/2026-09-20__photo-1789888555328_living-world-woodland.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Woodland",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789888555328_living-world-woodland.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-20__photo-1789888555328_living-world-woodland.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789888567919_living-world-mushroom",
+      "src": "media/2026-09-20__photo-1789888567919_living-world-mushroom.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Mushroom",
+      "tags": [
+        "2026-09-20"
+      ],
+      "sourcePath": "sync://laptop/photo-1789888567919_living-world-mushroom.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-20__photo-1789888567919_living-world-mushroom.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789888594125_living-world-mangrove",
+      "src": "media/2026-09-20__photo-1789888594125_living-world-mangrove.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Mangrove",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789888594125_living-world-mangrove.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-20__photo-1789888594125_living-world-mangrove.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789888912065_living-world-taiga-chalets",
+      "src": "media/2026-09-20__photo-1789888912065_living-world-taiga-chalets.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Taiga Chalets",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789888912065_living-world-taiga-chalets.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-20__photo-1789888912065_living-world-taiga-chalets.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789891566297_village-prototype-village_cottage",
+      "src": "media/2026-09-20__photo-1789891566297_village-prototype-village_cottage.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Village Prototype Village Cottage",
+      "tags": [
+        "2026-09-20"
+      ],
+      "sourcePath": "sync://laptop/photo-1789891566297_village-prototype-village_cottage.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__photo-1789891566297_village-prototype-village_cottage.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789891568750_village-prototype-village_longhouse",
+      "src": "media/2026-09-20__photo-1789891568750_village-prototype-village_longhouse.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Village Prototype Village Longhouse",
+      "tags": [
+        "2026-09-20"
+      ],
+      "sourcePath": "sync://laptop/photo-1789891568750_village-prototype-village_longhouse.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__photo-1789891568750_village-prototype-village_longhouse.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789891576010_village-prototype-village_granary",
+      "src": "media/2026-09-20__photo-1789891576010_village-prototype-village_granary.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Village Prototype Village Granary",
+      "tags": [
+        "2026-09-20"
+      ],
+      "sourcePath": "sync://laptop/photo-1789891576010_village-prototype-village_granary.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__photo-1789891576010_village-prototype-village_granary.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789891616628_village-prototype-village_courtyard_home",
+      "src": "media/2026-09-20__photo-1789891616628_village-prototype-village_courtyard_home.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Village Prototype Village Courtyard Home",
+      "tags": [
+        "2026-09-20"
+      ],
+      "sourcePath": "sync://laptop/photo-1789891616628_village-prototype-village_courtyard_home.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__photo-1789891616628_village-prototype-village_courtyard_home.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789891622402_village-prototype-village_stilt_home",
+      "src": "media/2026-09-20__photo-1789891622402_village-prototype-village_stilt_home.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Village Prototype Village Stilt Home",
+      "tags": [
+        "2026-09-20"
+      ],
+      "sourcePath": "sync://laptop/photo-1789891622402_village-prototype-village_stilt_home.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__photo-1789891622402_village-prototype-village_stilt_home.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789891624786_village-prototype-village_savanna_home",
+      "src": "media/2026-09-20__photo-1789891624786_village-prototype-village_savanna_home.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Village Prototype Village Savanna Home",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789891624786_village-prototype-village_savanna_home.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__photo-1789891624786_village-prototype-village_savanna_home.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789892945945_living-world-forest-village",
+      "src": "media/2026-09-20__photo-1789892945945_living-world-forest-village.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Forest Village",
+      "tags": [
+        "2026-09-20"
+      ],
+      "sourcePath": "sync://laptop/photo-1789892945945_living-world-forest-village.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-20__photo-1789892945945_living-world-forest-village.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789892973328_living-world-desert-river",
+      "src": "media/2026-09-20__photo-1789892973328_living-world-desert-river.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Desert River",
+      "tags": [
+        "2026-09-20",
+        "water"
+      ],
+      "sourcePath": "sync://laptop/photo-1789892973328_living-world-desert-river.png",
+      "width": 2048,
+      "height": 1280,
+      "thumb": "media/derived/2026-09-20__photo-1789892973328_living-world-desert-river.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789893146779_living-world-villagers-social",
+      "src": "media/2026-09-20__photo-1789893146779_living-world-villagers-social.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Villagers Social",
+      "tags": [
+        "2026-09-20",
+        "fauna"
+      ],
+      "sourcePath": "sync://laptop/photo-1789893146779_living-world-villagers-social.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__photo-1789893146779_living-world-villagers-social.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789895968754_living-world-paid-farm-growth",
+      "src": "media/2026-09-20__photo-1789895968754_living-world-paid-farm-growth.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Paid Farm Growth",
+      "tags": [
+        "2026-09-20"
+      ],
+      "sourcePath": "sync://laptop/photo-1789895968754_living-world-paid-farm-growth.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__photo-1789895968754_living-world-paid-farm-growth.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789898139133_living-world-night-windup",
+      "src": "media/2026-09-20__photo-1789898139133_living-world-night-windup.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Living World Night Windup",
+      "tags": [
+        "2026-09-20",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/photo-1789898139133_living-world-night-windup.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__photo-1789898139133_living-world-night-windup.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789927418594_biome-tint-savanna",
+      "src": "media/2026-09-20__photo-1789927418594_biome-tint-savanna.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Tint Savanna",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789927418594_biome-tint-savanna.png",
+      "width": 1200,
+      "height": 900,
+      "thumb": "media/derived/2026-09-20__photo-1789927418594_biome-tint-savanna.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789927540712_biome-tint-savanna",
+      "src": "media/2026-09-20__photo-1789927540712_biome-tint-savanna.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Tint Savanna",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789927540712_biome-tint-savanna.png",
+      "width": 1200,
+      "height": 900,
+      "thumb": "media/derived/2026-09-20__photo-1789927540712_biome-tint-savanna.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789927542597_biome-tint-marsh",
+      "src": "media/2026-09-20__photo-1789927542597_biome-tint-marsh.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Tint Marsh",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789927542597_biome-tint-marsh.png",
+      "width": 1200,
+      "height": 900,
+      "thumb": "media/derived/2026-09-20__photo-1789927542597_biome-tint-marsh.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789929809963_biome-greenery-savanna",
+      "src": "media/2026-09-20__photo-1789929809963_biome-greenery-savanna.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Greenery Savanna",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789929809963_biome-greenery-savanna.png",
+      "width": 1200,
+      "height": 900,
+      "thumb": "media/derived/2026-09-20__photo-1789929809963_biome-greenery-savanna.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789929934651_biome-greenery-marsh",
+      "src": "media/2026-09-20__photo-1789929934651_biome-greenery-marsh.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Greenery Marsh",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789929934651_biome-greenery-marsh.png",
+      "width": 1200,
+      "height": 900,
+      "thumb": "media/derived/2026-09-20__photo-1789929934651_biome-greenery-marsh.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789929936401_biome-greenery-taiga",
+      "src": "media/2026-09-20__photo-1789929936401_biome-greenery-taiga.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Greenery Taiga",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789929936401_biome-greenery-taiga.png",
+      "width": 1200,
+      "height": 900,
+      "thumb": "media/derived/2026-09-20__photo-1789929936401_biome-greenery-taiga.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789930067809_biome-greenery-starter",
+      "src": "media/2026-09-20__photo-1789930067809_biome-greenery-starter.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Greenery Starter",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789930067809_biome-greenery-starter.png",
+      "width": 1200,
+      "height": 900,
+      "thumb": "media/derived/2026-09-20__photo-1789930067809_biome-greenery-starter.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789930069490_biome-greenery-savanna",
+      "src": "media/2026-09-20__photo-1789930069490_biome-greenery-savanna.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Greenery Savanna",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789930069490_biome-greenery-savanna.png",
+      "width": 1200,
+      "height": 900,
+      "thumb": "media/derived/2026-09-20__photo-1789930069490_biome-greenery-savanna.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789930072957_biome-greenery-taiga",
+      "src": "media/2026-09-20__photo-1789930072957_biome-greenery-taiga.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Greenery Taiga",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789930072957_biome-greenery-taiga.png",
+      "width": 1200,
+      "height": 900,
+      "thumb": "media/derived/2026-09-20__photo-1789930072957_biome-greenery-taiga.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789931015446_biome-greenery-starter",
+      "src": "media/2026-09-20__photo-1789931015446_biome-greenery-starter.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Greenery Starter",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789931015446_biome-greenery-starter.png",
+      "width": 1200,
+      "height": 900,
+      "thumb": "media/derived/2026-09-20__photo-1789931015446_biome-greenery-starter.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789931020437_biome-greenery-marsh",
+      "src": "media/2026-09-20__photo-1789931020437_biome-greenery-marsh.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Greenery Marsh",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789931020437_biome-greenery-marsh.png",
+      "width": 1200,
+      "height": 900,
+      "thumb": "media/derived/2026-09-20__photo-1789931020437_biome-greenery-marsh.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789931365787_biome-blend-transect",
+      "src": "media/2026-09-20__photo-1789931365787_biome-blend-transect.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Blend Transect",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789931365787_biome-blend-transect.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__photo-1789931365787_biome-blend-transect.webp"
+    },
+    {
+      "id": "2026-09-20__photo-1789931515636_biome-blend-transect",
+      "src": "media/2026-09-20__photo-1789931515636_biome-blend-transect.png",
+      "type": "image",
+      "capturedAt": "2026-09-20T19:00:00Z",
+      "annotation": "Photo Biome Blend Transect",
+      "tags": [
+        "2026-09-20",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1789931515636_biome-blend-transect.png",
+      "width": 1600,
+      "height": 1000,
+      "thumb": "media/derived/2026-09-20__photo-1789931515636_biome-blend-transect.webp"
     }
   ]
 }
