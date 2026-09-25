@@ -8592,6 +8592,1442 @@
       "width": 1280,
       "height": 720,
       "thumb": "media/derived/2026-09-21__agent-1790017662032_layered-snow-country-ready.webp"
+    },
+    {
+      "id": "2026-09-22__agent-1790069068197_expedition-corridor",
+      "src": "media/2026-09-22__agent-1790069068197_expedition-corridor.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T09:24:28Z",
+      "annotation": "Expedition Corridor",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/agent-1790069068197_expedition-corridor.png",
+      "width": 1920,
+      "height": 1200
+    },
+    {
+      "id": "2026-09-22__agent-1790074890554_night-cold-scout",
+      "src": "media/2026-09-22__agent-1790074890554_night-cold-scout.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T11:01:30Z",
+      "annotation": "Night Cold Scout",
+      "tags": [
+        "2026-09-22",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1790074890554_night-cold-scout.png",
+      "width": 1280,
+      "height": 800
+    },
+    {
+      "id": "2026-09-22__agent-video-bramblewing-attack-1790080524929-published",
+      "src": "media/2026-09-22__agent-video-bramblewing-attack-1790080524929-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Bramblewing Attack",
+      "tags": [
+        "2026-09-22",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-bramblewing-attack-1790080524929-published.mp4",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-22__agent-video-dragon-survival-fire-1790096870125-published",
+      "src": "media/2026-09-22__agent-video-dragon-survival-fire-1790096870125-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Dragon Survival Fire",
+      "tags": [
+        "2026-09-22",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-dragon-survival-fire-1790096870125-published.mp4",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-22__agent-video-faultback-warning-1790071088854-published",
+      "src": "media/2026-09-22__agent-video-faultback-warning-1790071088854-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Faultback Warning",
+      "tags": [
+        "2026-09-22",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-faultback-warning-1790071088854-published.mp4",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-22__agent-video-matriarch-brood-1790099531093-published",
+      "src": "media/2026-09-22__agent-video-matriarch-brood-1790099531093-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Matriarch Brood",
+      "tags": [
+        "2026-09-22",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-matriarch-brood-1790099531093-published.mp4",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-22__agent-video-matriarch-gust-1790100262648-published",
+      "src": "media/2026-09-22__agent-video-matriarch-gust-1790100262648-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Matriarch Gust",
+      "tags": [
+        "2026-09-22",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-matriarch-gust-1790100262648-published.mp4",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-22__agent-video-mire-maw-attack-1790085060574-published",
+      "src": "media/2026-09-22__agent-video-mire-maw-attack-1790085060574-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Mire Maw Attack",
+      "tags": [
+        "2026-09-22",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-mire-maw-attack-1790085060574-published.mp4",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-22__agent-video-rimeback-attack-1790086216223-published",
+      "src": "media/2026-09-22__agent-video-rimeback-attack-1790086216223-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Rimeback Attack",
+      "tags": [
+        "2026-09-22",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-rimeback-attack-1790086216223-published.mp4",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-22__agent-video-villager-physical-hops-1790112706626-published",
+      "src": "media/2026-09-22__agent-video-villager-physical-hops-1790112706626-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Villager Physical Hops",
+      "tags": [
+        "2026-09-22",
+        "fauna",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-villager-physical-hops-1790112706626-published.mp4",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-22__photo-1790061013511_pasture-new-lamb",
+      "src": "media/2026-09-22__photo-1790061013511_pasture-new-lamb.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Pasture Lamb",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790061013511_pasture-new-lamb.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790061168005_pasture-young-lamb",
+      "src": "media/2026-09-22__photo-1790061168005_pasture-young-lamb.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Pasture Young Lamb",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790061168005_pasture-young-lamb.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790061208728_pasture-grown-sheep",
+      "src": "media/2026-09-22__photo-1790061208728_pasture-grown-sheep.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Pasture Grown Sheep",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790061208728_pasture-grown-sheep.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790061209307_pasture-grass-cycle",
+      "src": "media/2026-09-22__photo-1790061209307_pasture-grass-cycle.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Pasture Grass Cycle",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790061209307_pasture-grass-cycle.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790069498389_lantern-keeper",
+      "src": "media/2026-09-22__photo-1790069498389_lantern-keeper.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Lantern Keeper",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790069498389_lantern-keeper.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790069500618_sanctum",
+      "src": "media/2026-09-22__photo-1790069500618_sanctum.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Sanctum",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790069500618_sanctum.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790069508471_buried-archive",
+      "src": "media/2026-09-22__photo-1790069508471_buried-archive.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Buried Archive",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790069508471_buried-archive.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790070126815_vault-entrance",
+      "src": "media/2026-09-22__photo-1790070126815_vault-entrance.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Vault Entrance",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790070126815_vault-entrance.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790070180284_faultback",
+      "src": "media/2026-09-22__photo-1790070180284_faultback.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Faultback",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790070180284_faultback.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790080442928_bramblewing",
+      "src": "media/2026-09-22__photo-1790080442928_bramblewing.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Bramblewing",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790080442928_bramblewing.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790080828935_rimeback",
+      "src": "media/2026-09-22__photo-1790080828935_rimeback.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Rimeback",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790080828935_rimeback.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790085036254_mire-maw",
+      "src": "media/2026-09-22__photo-1790085036254_mire-maw.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Mire Maw",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790085036254_mire-maw.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790097201711_dragon-den",
+      "src": "media/2026-09-22__photo-1790097201711_dragon-den.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Dragon Den",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790097201711_dragon-den.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790107729195_birch-crown-after",
+      "src": "media/2026-09-22__photo-1790107729195_birch-crown-after.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Birch Crown",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790107729195_birch-crown-after.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": "2026-09-22__photo-1790109382639_villagers-keep-personal-space",
+      "src": "media/2026-09-22__photo-1790109382639_villagers-keep-personal-space.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Villagers Keep Personal Space",
+      "tags": [
+        "2026-09-22",
+        "fauna"
+      ],
+      "sourcePath": "sync://laptop/photo-1790109382639_villagers-keep-personal-space.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": "2026-09-22__photo-1790121030940_meadow-puddle",
+      "src": "media/2026-09-22__photo-1790121030940_meadow-puddle.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Meadow Puddle",
+      "tags": [
+        "2026-09-22",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/photo-1790121030940_meadow-puddle.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__photo-1790121424837_shrine-earthwork-after",
+      "src": "media/2026-09-22__photo-1790121424837_shrine-earthwork-after.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:00Z",
+      "annotation": "Photo Shrine Earthwork",
+      "tags": [
+        "2026-09-22"
+      ],
+      "sourcePath": "sync://laptop/photo-1790121424837_shrine-earthwork-after.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-22__agent-1790103611576_lava-after",
+      "src": "media/2026-09-22__agent-1790103611576_lava-after.png",
+      "type": "image",
+      "capturedAt": "2026-09-22T19:00:11Z",
+      "annotation": "Lava",
+      "tags": [
+        "2026-09-22",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/agent-1790103611576_lava-after.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-22__agent-1790130261699_village-family-indoors",
+      "src": "media/2026-09-22__agent-1790130261699_village-family-indoors.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T02:24:21Z",
+      "annotation": "Village Family Indoors",
+      "tags": [
+        "2026-09-22",
+        "hub"
+      ],
+      "sourcePath": "sync://laptop/agent-1790130261699_village-family-indoors.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__agent-video-vfx-footfall-clip-1790209480373-published",
+      "src": "media/2026-09-23__agent-video-vfx-footfall-clip-1790209480373-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Vfx Footfall",
+      "tags": [
+        "2026-09-23",
+        "film",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-vfx-footfall-clip-1790209480373-published.mp4",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-23__photo-1790148580940_village-hearth",
+      "src": "media/2026-09-23__photo-1790148580940_village-hearth.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Village Hearth",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/photo-1790148580940_village-hearth.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790149589335_chimney-brick-angle",
+      "src": "media/2026-09-23__photo-1790149589335_chimney-brick-angle.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Chimney Brick Angle",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/photo-1790149589335_chimney-brick-angle.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790150065604_hanging-moss",
+      "src": "media/2026-09-23__photo-1790150065604_hanging-moss.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Hanging Moss",
+      "tags": [
+        "2026-09-23",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/photo-1790150065604_hanging-moss.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790150067206_bark-lichen",
+      "src": "media/2026-09-23__photo-1790150067206_bark-lichen.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Bark Lichen",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/photo-1790150067206_bark-lichen.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790150437077_forest-canopy",
+      "src": "media/2026-09-23__photo-1790150437077_forest-canopy.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Forest Canopy",
+      "tags": [
+        "2026-09-23",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/photo-1790150437077_forest-canopy.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790150438323_spanish-moss",
+      "src": "media/2026-09-23__photo-1790150438323_spanish-moss.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Spanish Moss",
+      "tags": [
+        "2026-09-23",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/photo-1790150438323_spanish-moss.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790152618654_limestone-descent",
+      "src": "media/2026-09-23__photo-1790152618654_limestone-descent.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Limestone Descent",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/photo-1790152618654_limestone-descent.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790153362414_hillside-mouth",
+      "src": "media/2026-09-23__photo-1790153362414_hillside-mouth.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Hillside Mouth",
+      "tags": [
+        "2026-09-23",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/photo-1790153362414_hillside-mouth.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790177263328_after-summit-notches",
+      "src": "media/2026-09-23__photo-1790177263328_after-summit-notches.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Summit Notches",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/photo-1790177263328_after-summit-notches.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790177272911_after-cliff-face",
+      "src": "media/2026-09-23__photo-1790177272911_after-cliff-face.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Cliff Face",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/photo-1790177272911_after-cliff-face.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790177304690_after-rock-alcove",
+      "src": "media/2026-09-23__photo-1790177304690_after-rock-alcove.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Rock Alcove",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/photo-1790177304690_after-rock-alcove.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790194224808_smallfolk-pebblin",
+      "src": "media/2026-09-23__photo-1790194224808_smallfolk-pebblin.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Smallfolk Pebblin",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/photo-1790194224808_smallfolk-pebblin.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790194232727_smallfolk-pebblin-kin",
+      "src": "media/2026-09-23__photo-1790194232727_smallfolk-pebblin-kin.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Smallfolk Pebblin Kin",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/photo-1790194232727_smallfolk-pebblin-kin.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__photo-1790197222317_smallfolk-carrying",
+      "src": "media/2026-09-23__photo-1790197222317_smallfolk-carrying.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Photo Smallfolk Carrying",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/photo-1790197222317_smallfolk-carrying.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__roster-bat-lush-cave",
+      "src": "media/2026-09-23__roster-bat-lush-cave.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Roster Bat Lush Cave",
+      "tags": [
+        "2026-09-23",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/roster-bat-lush-cave.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__roster-bats-ceiling",
+      "src": "media/2026-09-23__roster-bats-ceiling.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Roster Bats Ceiling",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/roster-bats-ceiling.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__roster-blind-cavefish",
+      "src": "media/2026-09-23__roster-blind-cavefish.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Roster Blind Cavefish",
+      "tags": [
+        "2026-09-23",
+        "water",
+        "fauna",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/roster-blind-cavefish.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__roster-cinderpebble",
+      "src": "media/2026-09-23__roster-cinderpebble.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Roster Cinderpebble",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/roster-cinderpebble.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__roster-flint-crawler",
+      "src": "media/2026-09-23__roster-flint-crawler.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Roster Flint Crawler",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/roster-flint-crawler.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__roster-sporecap",
+      "src": "media/2026-09-23__roster-sporecap.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T19:00:00Z",
+      "annotation": "Roster Sporecap",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/roster-sporecap.png",
+      "width": 2560,
+      "height": 1600
+    },
+    {
+      "id": "2026-09-23__agent-1790204789563_vfx-foam-after-mid",
+      "src": "media/2026-09-23__agent-1790204789563_vfx-foam-after-mid.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T23:06:29Z",
+      "annotation": "Vfx Foam Mid",
+      "tags": [
+        "2026-09-23"
+      ],
+      "sourcePath": "sync://laptop/agent-1790204789563_vfx-foam-after-mid.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": "2026-09-23__agent-1790205041284_vfx-underwater-after",
+      "src": "media/2026-09-23__agent-1790205041284_vfx-underwater-after.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T23:10:41Z",
+      "annotation": "Vfx Underwater",
+      "tags": [
+        "2026-09-23",
+        "water",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1790205041284_vfx-underwater-after.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": "2026-09-23__agent-1790205598581_vfx-underwater3-after-same",
+      "src": "media/2026-09-23__agent-1790205598581_vfx-underwater3-after-same.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T23:19:58Z",
+      "annotation": "Vfx Underwater3 Same",
+      "tags": [
+        "2026-09-23",
+        "water",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1790205598581_vfx-underwater3-after-same.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": "2026-09-23__agent-1790206854054_vfx-underwater5-after-same",
+      "src": "media/2026-09-23__agent-1790206854054_vfx-underwater5-after-same.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T23:40:54Z",
+      "annotation": "Vfx Underwater5 Same",
+      "tags": [
+        "2026-09-23",
+        "water",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1790206854054_vfx-underwater5-after-same.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": "2026-09-23__agent-1790207319576_vfx-underwater6-after-reef",
+      "src": "media/2026-09-23__agent-1790207319576_vfx-underwater6-after-reef.png",
+      "type": "image",
+      "capturedAt": "2026-09-23T23:48:39Z",
+      "annotation": "Vfx Underwater6 Reef",
+      "tags": [
+        "2026-09-23",
+        "water",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/agent-1790207319576_vfx-underwater6-after-reef.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": "2026-09-23__agent-1790209804937_hub2-look",
+      "src": "media/2026-09-23__agent-1790209804937_hub2-look.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T00:30:04Z",
+      "annotation": "Hub2 Look",
+      "tags": [
+        "2026-09-23",
+        "hub"
+      ],
+      "sourcePath": "sync://laptop/agent-1790209804937_hub2-look.png",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "2026-09-24__agent-1790235188503_vfx-foamwave-beach-pose",
+      "src": "media/2026-09-24__agent-1790235188503_vfx-foamwave-beach-pose.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T07:33:08Z",
+      "annotation": "Vfx Foamwave Beach Pose",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/agent-1790235188503_vfx-foamwave-beach-pose.png",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "2026-09-24__agent-1790235424201_vfx-foamwave-lagoon-after",
+      "src": "media/2026-09-24__agent-1790235424201_vfx-foamwave-lagoon-after.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T07:37:04Z",
+      "annotation": "Vfx Foamwave Lagoon",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/agent-1790235424201_vfx-foamwave-lagoon-after.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-24__agent-1790235495166_vfx-foamwave-beach-after",
+      "src": "media/2026-09-24__agent-1790235495166_vfx-foamwave-beach-after.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T07:38:15Z",
+      "annotation": "Vfx Foamwave Beach",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/agent-1790235495166_vfx-foamwave-beach-after.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-24__02-greet-pebblin-wave",
+      "src": "media/2026-09-24__02-greet-pebblin-wave.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Greet Pebblin Wave",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/02-greet-pebblin-wave.png",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "id": "2026-09-24__04-greet-gnome-wave",
+      "src": "media/2026-09-24__04-greet-gnome-wave.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Greet Gnome Wave",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/04-greet-gnome-wave.png",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "id": "2026-09-24__05-gift-gnome-takes-red-flower",
+      "src": "media/2026-09-24__05-gift-gnome-takes-red-flower.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Gift Gnome Takes Red Flower",
+      "tags": [
+        "2026-09-24",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/05-gift-gnome-takes-red-flower.png",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "id": "2026-09-24__05d-first-dusk-line",
+      "src": "media/2026-09-24__05d-first-dusk-line.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "05d First Dusk Line",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/05d-first-dusk-line.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": "2026-09-24__06-gift-pebblin-hands-flower-back",
+      "src": "media/2026-09-24__06-gift-pebblin-hands-flower-back.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Gift Pebblin Hands Flower Back",
+      "tags": [
+        "2026-09-24",
+        "flora"
+      ],
+      "sourcePath": "sync://laptop/06-gift-pebblin-hands-flower-back.png",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "id": "2026-09-24__07-woke-beside-the-bed",
+      "src": "media/2026-09-24__07-woke-beside-the-bed.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Woke Beside The Bed",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/07-woke-beside-the-bed.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": "2026-09-24__10-upright-pixel-hearts-sprig-greet",
+      "src": "media/2026-09-24__10-upright-pixel-hearts-sprig-greet.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Upright Pixel Hearts Sprig Greet",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/10-upright-pixel-hearts-sprig-greet.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "2026-09-24__11-upright-pixel-dots-and-z-frostling-greet",
+      "src": "media/2026-09-24__11-upright-pixel-dots-and-z-frostling-greet.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Upright Pixel Dots And Z Frostling Greet",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/11-upright-pixel-dots-and-z-frostling-greet.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "2026-09-24__agent-video-after-swing-fishing-rod-cast-1790301156267",
+      "src": "media/2026-09-24__agent-video-after-swing-fishing-rod-cast-1790301156267.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Swing Fishing Rod Cast",
+      "tags": [
+        "2026-09-24",
+        "water",
+        "fauna",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-after-swing-fishing-rod-cast-1790301156267.mp4",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "2026-09-24__agent-video-find-flecks-vault-1790313300786",
+      "src": "media/2026-09-24__agent-video-find-flecks-vault-1790313300786.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Find Flecks Vault",
+      "tags": [
+        "2026-09-24",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-find-flecks-vault-1790313300786.mp4",
+      "width": 640,
+      "height": 360
+    },
+    {
+      "id": "2026-09-24__agent-video-flame-closeup-1790293379672-published",
+      "src": "media/2026-09-24__agent-video-flame-closeup-1790293379672-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Flame Closeup",
+      "tags": [
+        "2026-09-24",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-flame-closeup-1790293379672-published.mp4",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-24__agent-video-vfx-foamwave-beach-1790235240312-published",
+      "src": "media/2026-09-24__agent-video-vfx-foamwave-beach-1790235240312-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Vfx Foamwave Beach",
+      "tags": [
+        "2026-09-24",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-vfx-foamwave-beach-1790235240312-published.mp4",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "2026-09-24__agent-video-vfx-foamwave-lagoon-1790235395346-published",
+      "src": "media/2026-09-24__agent-video-vfx-foamwave-lagoon-1790235395346-published.mp4",
+      "type": "video",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Vfx Foamwave Lagoon",
+      "tags": [
+        "2026-09-24",
+        "video"
+      ],
+      "sourcePath": "sync://laptop/agent-video-vfx-foamwave-lagoon-1790235395346-published.mp4",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "2026-09-24__cliff-mesa",
+      "src": "media/2026-09-24__cliff-mesa.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Cliff Mesa",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/cliff-mesa.png",
+      "width": 760,
+      "height": 578
+    },
+    {
+      "id": "2026-09-24__creative-plain-right-click-no-panel",
+      "src": "media/2026-09-24__creative-plain-right-click-no-panel.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Creative Plain Right Click No Panel",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/creative-plain-right-click-no-panel.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": "2026-09-24__labeled-1b-after",
+      "src": "media/2026-09-24__labeled-1b-after.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Labeled 1b",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/labeled-1b-after.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "2026-09-24__labeled-3-after",
+      "src": "media/2026-09-24__labeled-3-after.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Labeled",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/labeled-3-after.png",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": "2026-09-24__look-1-after-4k",
+      "src": "media/2026-09-24__look-1-after-4k.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Look 4k",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/look-1-after-4k.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "2026-09-24__observer-shack-60s",
+      "src": "media/2026-09-24__observer-shack-60s.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Observer Shack 60s",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/observer-shack-60s.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "2026-09-24__observer-shack-after",
+      "src": "media/2026-09-24__observer-shack-after.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Observer Shack",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/observer-shack-after.png",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "id": "2026-09-24__photo-1790293368516_shack-after",
+      "src": "media/2026-09-24__photo-1790293368516_shack-after.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Photo Shack",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/photo-1790293368516_shack-after.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-24__photo-1790295659189_room-chimney-midnight",
+      "src": "media/2026-09-24__photo-1790295659189_room-chimney-midnight.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Photo Room Chimney Midnight",
+      "tags": [
+        "2026-09-24",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/photo-1790295659189_room-chimney-midnight.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-24__photo-1790311045969_stands-lit",
+      "src": "media/2026-09-24__photo-1790311045969_stands-lit.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Photo Stands Lit",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/photo-1790311045969_stands-lit.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-24__sky-reach",
+      "src": "media/2026-09-24__sky-reach.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Sky Reach",
+      "tags": [
+        "2026-09-24",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/sky-reach.png",
+      "width": 760,
+      "height": 548
+    },
+    {
+      "id": "2026-09-24__snow-warren",
+      "src": "media/2026-09-24__snow-warren.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Snow Warren",
+      "tags": [
+        "2026-09-24",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/snow-warren.png",
+      "width": 760,
+      "height": 604
+    },
+    {
+      "id": "2026-09-24__spawn-caves",
+      "src": "media/2026-09-24__spawn-caves.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Spawn Caves",
+      "tags": [
+        "2026-09-24",
+        "hub",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/spawn-caves.png",
+      "width": 760,
+      "height": 554
+    },
+    {
+      "id": "2026-09-24__survival-right-click-no-panel",
+      "src": "media/2026-09-24__survival-right-click-no-panel.png",
+      "type": "image",
+      "capturedAt": "2026-09-24T19:00:00Z",
+      "annotation": "Survival Right Click No Panel",
+      "tags": [
+        "2026-09-24"
+      ],
+      "sourcePath": "sync://laptop/survival-right-click-no-panel.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": "2026-09-25__2-porch-a-before-after",
+      "src": "media/2026-09-25__2-porch-a-before-after.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Porch A",
+      "tags": [
+        "2026-09-25"
+      ],
+      "sourcePath": "sync://laptop/2-porch-a-before-after.png",
+      "width": 1610,
+      "height": 494
+    },
+    {
+      "id": "2026-09-25__4-pot-row-full-sun",
+      "src": "media/2026-09-25__4-pot-row-full-sun.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Pot Row Full Sun",
+      "tags": [
+        "2026-09-25",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/4-pot-row-full-sun.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "2026-09-25__cape-rack-angle",
+      "src": "media/2026-09-25__cape-rack-angle.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Cape Rack Angle",
+      "tags": [
+        "2026-09-25"
+      ],
+      "sourcePath": "sync://laptop/cape-rack-angle.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-25__frame-fern-default",
+      "src": "media/2026-09-25__frame-fern-default.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Frame Fern Default",
+      "tags": [
+        "2026-09-25"
+      ],
+      "sourcePath": "sync://laptop/frame-fern-default.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-25__greet-frostling-mid",
+      "src": "media/2026-09-25__greet-frostling-mid.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Greet Frostling Mid",
+      "tags": [
+        "2026-09-25"
+      ],
+      "sourcePath": "sync://laptop/greet-frostling-mid.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "2026-09-25__greet-gnome-mid",
+      "src": "media/2026-09-25__greet-gnome-mid.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Greet Gnome Mid",
+      "tags": [
+        "2026-09-25"
+      ],
+      "sourcePath": "sync://laptop/greet-gnome-mid.png",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "id": "2026-09-25__greet-sprig-b-mid",
+      "src": "media/2026-09-25__greet-sprig-b-mid.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Greet Sprig B Mid",
+      "tags": [
+        "2026-09-25"
+      ],
+      "sourcePath": "sync://laptop/greet-sprig-b-mid.png",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "id": "2026-09-25__greet-sprig-mid",
+      "src": "media/2026-09-25__greet-sprig-mid.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Greet Sprig Mid",
+      "tags": [
+        "2026-09-25"
+      ],
+      "sourcePath": "sync://laptop/greet-sprig-mid.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "2026-09-25__hat-stand-close",
+      "src": "media/2026-09-25__hat-stand-close.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Hat Stand Close",
+      "tags": [
+        "2026-09-25"
+      ],
+      "sourcePath": "sync://laptop/hat-stand-close.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-25__hat-stand-tilt",
+      "src": "media/2026-09-25__hat-stand-tilt.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Hat Stand Tilt",
+      "tags": [
+        "2026-09-25"
+      ],
+      "sourcePath": "sync://laptop/hat-stand-tilt.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-25__photo-1790326760469_clay-natural-bank-pool",
+      "src": "media/2026-09-25__photo-1790326760469_clay-natural-bank-pool.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Photo Clay Natural Bank Pool",
+      "tags": [
+        "2026-09-25"
+      ],
+      "sourcePath": "sync://laptop/photo-1790326760469_clay-natural-bank-pool.png",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "id": "2026-09-25__photo-1790331948820_shack-after",
+      "src": "media/2026-09-25__photo-1790331948820_shack-after.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Photo Shack",
+      "tags": [
+        "2026-09-25"
+      ],
+      "sourcePath": "sync://laptop/photo-1790331948820_shack-after.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2026-09-25__photo-1790333872065_clay-natural-sun-row",
+      "src": "media/2026-09-25__photo-1790333872065_clay-natural-sun-row.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Photo Clay Natural Sun Row",
+      "tags": [
+        "2026-09-25",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/photo-1790333872065_clay-natural-sun-row.png",
+      "width": 1120,
+      "height": 630
+    },
+    {
+      "id": "2026-09-25__photo-1790333902935_clay-natural-sun-daisy-vs-ground",
+      "src": "media/2026-09-25__photo-1790333902935_clay-natural-sun-daisy-vs-ground.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Photo Clay Natural Sun Daisy Vs Ground",
+      "tags": [
+        "2026-09-25",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/photo-1790333902935_clay-natural-sun-daisy-vs-ground.png",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "id": "2026-09-25__photo-1790353771947_villager-pixel-speech-bubble",
+      "src": "media/2026-09-25__photo-1790353771947_villager-pixel-speech-bubble.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Photo Villager Pixel Speech Bubble",
+      "tags": [
+        "2026-09-25",
+        "fauna"
+      ],
+      "sourcePath": "sync://laptop/photo-1790353771947_villager-pixel-speech-bubble.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "2026-09-25__photo-1790353775986_smallfolk-pixel-thought-line",
+      "src": "media/2026-09-25__photo-1790353775986_smallfolk-pixel-thought-line.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Photo Smallfolk Pixel Thought Line",
+      "tags": [
+        "2026-09-25"
+      ],
+      "sourcePath": "sync://laptop/photo-1790353775986_smallfolk-pixel-thought-line.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "2026-09-25__worldgen-golden__cliff-mesa",
+      "src": "media/2026-09-25__worldgen-golden__cliff-mesa.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Worldgen Golden Cliff Mesa",
+      "tags": [
+        "2026-09-25",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/worldgen-golden__cliff-mesa.png",
+      "width": 760,
+      "height": 534
+    },
+    {
+      "id": "2026-09-25__worldgen-golden__sky-reach",
+      "src": "media/2026-09-25__worldgen-golden__sky-reach.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Worldgen Golden Sky Reach",
+      "tags": [
+        "2026-09-25",
+        "lighting"
+      ],
+      "sourcePath": "sync://laptop/worldgen-golden__sky-reach.png",
+      "width": 760,
+      "height": 504
+    },
+    {
+      "id": "2026-09-25__worldgen-golden__snow-warren",
+      "src": "media/2026-09-25__worldgen-golden__snow-warren.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Worldgen Golden Snow Warren",
+      "tags": [
+        "2026-09-25",
+        "lighting",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/worldgen-golden__snow-warren.png",
+      "width": 760,
+      "height": 582
+    },
+    {
+      "id": "2026-09-25__worldgen-golden__spawn-caves",
+      "src": "media/2026-09-25__worldgen-golden__spawn-caves.png",
+      "type": "image",
+      "capturedAt": "2026-09-25T19:00:00Z",
+      "annotation": "Worldgen Golden Spawn Caves",
+      "tags": [
+        "2026-09-25",
+        "hub",
+        "lighting",
+        "terrain"
+      ],
+      "sourcePath": "sync://laptop/worldgen-golden__spawn-caves.png",
+      "width": 760,
+      "height": 554
     }
   ]
 }
